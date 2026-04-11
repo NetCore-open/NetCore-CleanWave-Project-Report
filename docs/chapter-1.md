@@ -124,9 +124,133 @@ En este contexto, se evidencia la necesidad de una solución tecnológica que pe
 **How much (¿Cuánto?):** La solución se plantea bajo un modelo de negocio SaaS (Software as a Service), mediante el cual las lavanderías pagarán una suscripción mensual o anual según el tamaño de su operación o la cantidad de pedidos gestionados. Este enfoque permitirá ofrecer una solución escalable, accesible y sostenible, al mismo tiempo que facilitará la incorporación progresiva de nuevas funcionalidades tecnológicas.
 
 #### 1.2.2. Lean UX Process
+
+El enfoque Lean UX permite diseñar soluciones centradas en el usuario mediante la validación continua de hipótesis y supuestos. Este enfoque prioriza la comprensión profunda de las necesidades reales de los usuarios, reduciendo la incertidumbre en el desarrollo del producto y permitiendo iteraciones rápidas basadas en evidencia.
+
 ##### 1.2.2.1. Lean UX Problem Statements
+
+El estado actual de las lavanderías locales se caracteriza por el uso de procesos manuales y herramientas no especializadas, lo que genera ineficiencias operativas, errores en la gestión de pedidos, falta de trazabilidad y una experiencia de usuario limitada.
+
+Los servicios existentes no logran integrar de manera eficiente la gestión operativa, la logística de entrega y la interacción con el cliente en una sola plataforma digital, lo que provoca fragmentación en los procesos y dificultades en la toma de decisiones.
+
+La solución propuesta busca abordar esta problemática mediante una plataforma tecnológica que:
+
+Centralice la gestión de pedidos e inventario
+Permita el seguimiento en tiempo real del estado del servicio
+Optimice las rutas de recojo y entrega mediante inteligencia artificial
+Mejore la comunicación y transparencia hacia el cliente
+
+El enfoque inicial estará dirigido a lavanderías locales con operaciones manuales o semidigitales ubicadas en entornos urbanos, así como a usuarios finales que demandan servicios eficientes, accesibles y digitalizados.
+
+El éxito de la solución se medirá a través de la reducción de errores operativos, la mejora en los tiempos de entrega y el incremento en la satisfacción del cliente.
+
 ##### 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions:**
+
+Existe un mercado relevante de lavanderías locales que requieren digitalizar sus operaciones para mantenerse competitivas.
+Los dueños de lavanderías están dispuestos a adoptar soluciones tecnológicas si estas generan mejoras claras en eficiencia y reducción de costos.
+Un modelo de suscripción SaaS es viable y sostenible dentro del sector.
+La optimización logística mediante tecnología puede reducir costos operativos y mejorar el servicio.
+La digitalización de procesos incrementa la fidelización de clientes y la rentabilidad del negocio.
+
+**Business Outcomes:**
+
+Incremento en la adopción de la plataforma por parte de lavanderías locales.
+Reducción de errores en la gestión de pedidos e inventario.
+Mejora en los tiempos de entrega y eficiencia logística.
+Aumento en la satisfacción y retención de clientes.
+Validación del modelo de negocio mediante suscripciones activas.
+
+**User Assumptions:**
+
+Los dueños de lavanderías necesitan herramientas que simplifiquen la gestión operativa.
+Los usuarios finales valoran el seguimiento en tiempo real de sus pedidos.
+La facilidad de uso es un factor clave para la adopción del sistema.
+Los clientes prefieren soluciones digitales accesibles desde cualquier dispositivo.
+La transparencia en el servicio genera confianza y fidelización.
+
+**User Outcomes:**
+
+Los dueños de lavanderías logran una mejor organización y control de sus operaciones.
+Los procesos manuales se reducen significativamente.
+Los clientes tienen mayor visibilidad sobre el estado de sus pedidos.
+Se reduce la incertidumbre y mejora la experiencia del usuario.
+Se optimiza la toma de decisiones basada en información actualizada.
+
+**Features:**
+
+1) Sistema de gestión de pedidos e inventario en tiempo real.
+2) Plataforma web para seguimiento del estado del servicio.
+3) Optimización de rutas de recojo y entrega mediante IA.
+4) Notificaciones automáticas sobre el estado del pedido.
+5) Panel de control con indicadores operativos y reportes.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
+
+**Hipótesis 1 – Gestión operativa digital**
+
+Creemos que lograremos una mejora significativa en la organización y control de las operaciones,
+si los dueños de lavanderías
+pueden gestionar pedidos e inventario en tiempo real,
+mediante una plataforma centralizada de gestión operativa.
+
+**Hipótesis 2 – Seguimiento en tiempo real**
+
+Creemos que lograremos un aumento en la satisfacción del cliente,
+si los usuarios finales
+pueden visualizar el estado de sus pedidos en tiempo real,
+mediante una interfaz accesible y transparente.
+
+**Hipótesis 3 – Optimización logística**
+
+Creemos que lograremos una reducción en los tiempos de entrega y costos operativos,
+si las lavanderías
+optimizan sus rutas de recojo y entrega,
+mediante algoritmos de inteligencia artificial.
+
+**Hipótesis 4 – Notificaciones automáticas**
+
+Creemos que lograremos una mejora en la comunicación con el cliente,
+si los usuarios
+reciben notificaciones automáticas sobre el estado de su servicio,
+mediante un sistema de alertas integrado.
+
 ##### 1.2.2.4. Lean UX Canvas
+<img src="../images/Lean Canvas.png" alt="Lean UX Canvas" width="auto" height="550"/>
 
 ### 1.3. Segmentos objetivo
+
+<h3 id="segment1">Segmento Objetivo 1: Dueños de lavanderías locales</h3>
+
+El segmento principal está conformado por dueños y administradores de lavanderías locales, especialmente pequeñas y medianas empresas que operan en entornos urbanos y que presentan un bajo nivel de digitalización en sus procesos.
+
+Estos negocios suelen gestionar sus operaciones mediante métodos manuales o herramientas básicas, lo que limita su capacidad de organización, control y eficiencia. En este contexto, requieren soluciones tecnológicas que les permitan optimizar sus procesos internos, reducir errores operativos y mejorar la calidad del servicio ofrecido.
+
+**Características:**
+Negocios pequeños o medianos del rubro lavandería
+Operación manual o semidigital
+Limitado uso de herramientas tecnológicas especializadas
+Necesidad de mejorar eficiencia operativa y logística
+**Necesidades:**
+Digitalización de la gestión de pedidos e inventario
+Optimización de rutas de recojo y entrega
+Reducción de errores operativos
+Mejora en la toma de decisiones
+
+<h3 id="segment1">Segmento Objetivo 2: Usuarios finales</h3>
+
+El segmento secundario está compuesto por los clientes finales que utilizan servicios de lavandería, principalmente en entornos urbanos donde el ritmo de vida es acelerado y el tiempo disponible es limitado.
+
+Estos usuarios buscan soluciones prácticas, rápidas y accesibles que les permitan gestionar el cuidado de sus prendas sin necesidad de desplazarse o invertir tiempo en procesos tradicionales. Asimismo, valoran la transparencia del servicio y la posibilidad de realizar seguimiento en tiempo real.
+
+**Características:**
+Profesionales jóvenes
+Estudiantes universitarios
+Personas con alta carga laboral o académica
+Usuarios familiarizados con plataformas digitales
+**Necesidades:**
+Comodidad y ahorro de tiempo
+Seguimiento en tiempo real del servicio
+Transparencia en el estado de sus pedidos
+Experiencia digital intuitiva y confiable
