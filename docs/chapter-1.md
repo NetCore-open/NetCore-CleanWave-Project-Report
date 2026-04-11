@@ -91,6 +91,29 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
 
 **1. ANTECEDENTES**
 
+En los últimos años, la transformación digital ha generado cambios significativos en los patrones de consumo, especialmente en entornos urbanos, donde los usuarios priorizan la inmediatez, la transparencia y la posibilidad de gestionar servicios mediante plataformas digitales. Este fenómeno ha impulsado el crecimiento de modelos basados en servicios bajo demanda (on-demand), los cuales han redefinido sectores como el transporte, la alimentación y el comercio electrónico (OECD, 2020).
+
+in embargo, el sector de lavanderías locales no ha evolucionado al mismo ritmo que otros servicios digitalizados. En muchos casos, estos negocios continúan operando mediante procesos manuales, registros físicos o herramientas no especializadas, lo que limita su eficiencia operativa y su capacidad de adaptación al mercado actual. De acuerdo con el Banco Interamericano de Desarrollo (BID), las micro y pequeñas empresas en América Latina presentan bajos niveles de adopción tecnológica, lo que afecta directamente su productividad y competitividad en mercados cada vez más digitalizados.
+
+En el contexto peruano, la brecha digital en pequeños negocios sigue siendo un desafío relevante. Según el Instituto Nacional de Estadística e Informática (INEI), una gran proporción de microempresas aún no utiliza herramientas digitales avanzadas para la gestión de sus operaciones, lo que evidencia la necesidad de soluciones accesibles que impulsen su modernización.
+
+En este escenario, surge la oportunidad de desarrollar plataformas tecnológicas orientadas a la digitalización de lavanderías locales, permitiéndoles optimizar sus procesos internos, mejorar su eficiencia logística y ofrecer una experiencia alineada con las expectativas del consumidor moderno.
+
+**2. PROBLEMÁTICA**
+
+En el contexto actual de creciente digitalización de servicios, las lavanderías locales enfrentan una serie de limitaciones estructurales derivadas del uso de procesos manuales y herramientas no especializadas. Estas prácticas generan ineficiencias operativas que impactan directamente en la calidad del servicio, la satisfacción del cliente y la competitividad del negocio.
+
+En primer lugar, la gestión de pedidos, inventario y control de prendas se realiza, en muchos casos, mediante registros físicos o sistemas básicos, lo que incrementa la probabilidad de errores, pérdidas de información y desorganización en los procesos internos. Esta falta de sistematización dificulta el seguimiento adecuado de cada orden, afectando la trazabilidad y generando retrasos en las entregas.
+
+Asimismo, existe una carencia significativa de transparencia hacia el cliente final. Los usuarios no cuentan con herramientas que les permitan conocer el estado de sus prendas en tiempo real, lo que produce incertidumbre y una percepción negativa del servicio. En un entorno donde los consumidores están acostumbrados a plataformas con seguimiento digital inmediato, esta limitación representa una desventaja crítica.
+
+Por otro lado, la logística de recojo y entrega suele gestionarse de manera empírica, sin considerar variables clave como rutas óptimas, tráfico o condiciones externas. Esta situación incrementa los costos operativos, reduce la eficiencia en el uso de recursos y afecta los tiempos de cumplimiento.
+
+Finalmente, esta combinación de ineficiencias operativas, falta de digitalización y limitada orientación al cliente genera una brecha competitiva significativa frente a grandes cadenas que sí han incorporado tecnología en sus procesos. Como resultado, las lavanderías tradicionales ven reducida su capacidad de crecimiento, fidelización de clientes y sostenibilidad en el mercado.
+
+En este contexto, se evidencia la necesidad de una solución tecnológica que permita integrar, automatizar y optimizar los procesos operativos y logísticos, alineando el servicio con las exigencias actuales del entorno digital.
+
+**Análisis 5W+2H:**
 
 #### 1.2.2. Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
