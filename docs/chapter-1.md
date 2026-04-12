@@ -44,10 +44,11 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
 
   <tr>
     <td width="140" valign="top" align="center">
-      <img src="../images/" alt="Photo" width="120" />
+      <img src="images/fotomiguel.jpg" alt="Photo" width="120" />
     </td>
     <td valign="top">
-      <strong></strong> - Ingeniería<br><br>
+      <strong>Miguel Angel Jara Espinoza - (U202512856)</strong> - Ingeniería de Software<br><br>
+        Estudiante de la carrera de Ingeniería de Sotware con mucho interes en aprender sobre nuevas tecnologías e inteligencia artificial.
     </td>
   </tr>
 
@@ -86,6 +87,8 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
     </td>
   </tr>  
 </table>
+
+
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
 
