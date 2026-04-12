@@ -44,11 +44,11 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
 
   <tr>
     <td width="140" valign="top" align="center">
-      <img src="images/fotomiguel.jpg" alt="Photo" width="120" />
+      <img src="../images/fotomiguel.jpg" alt="Photo" width="120" />
     </td>
     <td valign="top">
       <strong>Miguel Angel Jara Espinoza - (U202512856)</strong> - Ingeniería de Software<br><br>
-        Estudiante de la carrera de Ingeniería de Sotware con mucho interes en aprender sobre nuevas tecnologías e inteligencia artificial.
+        Estudiante de la carrera de Ingeniería de Sotware con mucho interes en aprender sobre nuevas tecnologías e inteligencia artificial. Con dedicación y disponibilidad para trabajos en equipo. Además de seguir las buenas prácticas y normas.
     </td>
   </tr>
 
@@ -96,7 +96,7 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
 
 En los últimos años, la transformación digital ha generado cambios significativos en los patrones de consumo, especialmente en entornos urbanos, donde los usuarios priorizan la inmediatez, la transparencia y la posibilidad de gestionar servicios mediante plataformas digitales. Este fenómeno ha impulsado el crecimiento de modelos basados en servicios bajo demanda (on-demand), los cuales han redefinido sectores como el transporte, la alimentación y el comercio electrónico (OECD, 2020).
 
-in embargo, el sector de lavanderías locales no ha evolucionado al mismo ritmo que otros servicios digitalizados. En muchos casos, estos negocios continúan operando mediante procesos manuales, registros físicos o herramientas no especializadas, lo que limita su eficiencia operativa y su capacidad de adaptación al mercado actual. De acuerdo con el Banco Interamericano de Desarrollo (BID), las micro y pequeñas empresas en América Latina presentan bajos niveles de adopción tecnológica, lo que afecta directamente su productividad y competitividad en mercados cada vez más digitalizados.
+Sin embargo, el sector de lavanderías locales no ha evolucionado al mismo ritmo que otros servicios digitalizados. En muchos casos, estos negocios continúan operando mediante procesos manuales, registros físicos o herramientas no especializadas, lo que limita su eficiencia operativa y su capacidad de adaptación al mercado actual. De acuerdo con el Banco Interamericano de Desarrollo (BID), las micro y pequeñas empresas en América Latina presentan bajos niveles de adopción tecnológica, lo que afecta directamente su productividad y competitividad en mercados cada vez más digitalizados.
 
 En el contexto peruano, la brecha digital en pequeños negocios sigue siendo un desafío relevante. Según el Instituto Nacional de Estadística e Informática (INEI), una gran proporción de microempresas aún no utiliza herramientas digitales avanzadas para la gestión de sus operaciones, lo que evidencia la necesidad de soluciones accesibles que impulsen su modernización.
 
