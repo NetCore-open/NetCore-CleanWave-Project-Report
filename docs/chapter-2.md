@@ -207,9 +207,26 @@
 
 ### 2.2.2. Registro de entrevistas
 
+#### Entrevista a Usuario (Madeleine)
+
+<div align="center">
+  <img src="../images/EntrevistaUsuarioMadeleine.png" alt="Usuario Madeleine" style="width: 75%;">
+</div>
+
+Enlace: 
+
 ### 2.2.3. Análisis de entrevistas
 
----
+####  Usuario (Madeleine)
+
+Se realizó una entrevista a una usuaria (Nutricionista, 40 años, residente de Surco) que utiliza servicios de lavandería de 1 a 2 veces por semana. El objetivo fue identificar sus principales puntos de dolor y preferencias frente a una propuesta tecnológica.
+
+**Hallazgos principales:**
+
+* **Optimización del tiempo:** Mencionó que le frustra mucho desplazarse hasta el local y descubrir que su ropa aún no está lista. Prefiere un sistema que le permita verificar el estado real de su pedido desde el celular para evitar viajes en vano.
+* **Calidad del servicio:** Comentó que ha tenido experiencias donde algunas manchas no fueron removidas por completo. Para ella, es clave que el servicio garantice una limpieza profunda y un cuidado impecable de las prendas.
+* **Digitalización y notificaciones:** Al ser una persona muy ocupada, prefiere gestionar todo vía app o web. Le gustaría recibir avisos directos (como por WhatsApp) cuando su ropa esté lista para ser recogida.
+* **Equilibrio entre rapidez y costo:** Valora mucho la velocidad de entrega, especialmente por temas de urgencia, pero espera que el precio sea justo y no se sienta como un cobro excesivo.
 
 ## 2.3. Needfinding
 
