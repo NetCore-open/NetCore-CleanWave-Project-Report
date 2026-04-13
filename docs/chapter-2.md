@@ -207,26 +207,55 @@
 
 ### 2.2.2. Registro de entrevistas
 
-#### Entrevista a Usuario (Madeleine)
-
-<div align="center">
-  <img src="../images/EntrevistaUsuarioMadeleine.png" alt="Usuario Madeleine" style="width: 75%;">
-</div>
-
-Enlace: 
-
-### 2.2.3. Análisis de entrevistas
-
-####  Usuario (Madeleine)
-
-Se realizó una entrevista a una usuaria (Nutricionista, 40 años, residente de Surco) que utiliza servicios de lavandería de 1 a 2 veces por semana. El objetivo fue identificar sus principales puntos de dolor y preferencias frente a una propuesta tecnológica.
-
-**Hallazgos principales:**
-
-* **Optimización del tiempo:** Mencionó que le frustra mucho desplazarse hasta el local y descubrir que su ropa aún no está lista. Prefiere un sistema que le permita verificar el estado real de su pedido desde el celular para evitar viajes en vano.
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Madeleine</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>- </td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>49 años</td>
+  </tr>
+  <tr>
+    <td>Rol</td>
+    <td>Nutricionista</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="../images/EntrevistaUsuarioMadeleine.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title"></p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>00:00 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td> - * **Optimización del tiempo:** Mencionó que le frustra mucho desplazarse hasta el local y descubrir que su ropa aún no está lista. Prefiere un sistema que le permita verificar el estado real de su pedido desde el celular para evitar viajes en vano.
 * **Calidad del servicio:** Comentó que ha tenido experiencias donde algunas manchas no fueron removidas por completo. Para ella, es clave que el servicio garantice una limpieza profunda y un cuidado impecable de las prendas.
 * **Digitalización y notificaciones:** Al ser una persona muy ocupada, prefiere gestionar todo vía app o web. Le gustaría recibir avisos directos (como por WhatsApp) cuando su ropa esté lista para ser recogida.
 * **Equilibrio entre rapidez y costo:** Valora mucho la velocidad de entrega, especialmente por temas de urgencia, pero espera que el precio sea justo y no se sienta como un cobro excesivo.
+</td>
+  </tr>
+</tbody>
+</table>
 
 ## 2.3. Needfinding
 
