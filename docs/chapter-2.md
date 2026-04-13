@@ -308,6 +308,58 @@
 </tbody>
 </table>
 
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Ana</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Fernandez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>60 años</td>
+  </tr>
+  <tr>
+    <td>Rol</td>
+    <td>Administradora</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="../images/EntrevistaAdminAna.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title"></p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>00:00 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    Mencionó que tuvo problemas con algunos clientes que reportaron ropa en mal estado, manifestó desconocer los daños a las ropas
+    dañadas, pero igual tuvo que reparar estos daños. Mencionó además que no estaría mal el crear una plataforma mas avanzada que le permita
+    gestionar mejor su negocio de lavandería. Contó que la gestión de los clientes es en su mayoría a travez de un cuaderno, y solo usa computadoras
+    para gestionar las boletas de pago.
+</td>
+  </tr>
+</tbody>
+</table>
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
