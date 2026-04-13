@@ -257,6 +257,57 @@
 </tbody>
 </table>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Beatriz</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Espinoza</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>55 años</td>
+  </tr>
+  <tr>
+    <td>Rol</td>
+    <td>Contadora</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="../images/EntrevistaUsuarioBeatriz.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title"></p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>00:00 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    Mencionó que le molesta que su ropa aún no esté lista luego de que vaya a la lavanderia a preguntas por ella. Prefiere una aplicación que le avise el estado de su ropa.
+    Comentó que ha tenido experiencias en las que iba a la lavandería y los ternos aún no estaban planchados. Gracias a esto ella ha gastado mucho tiempo en viaje. 
+    Al ser una persona ocupada, menciona que le gustaría tener un servicio que le avise cuando su ropa ya está lista para ser recogida. Menciona que usa mucho la aplicación de
+    WhatsApp, y que le gustaría recibir mensajes por ese medio preferiblemente.
+</td>
+  </tr>
+</tbody>
+</table>
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
