@@ -21,7 +21,7 @@
         <td colspan="3"></td>
         <td style="text-align:center;">
             <strong>Nuestra Startup</strong><br>
-            <img src="../images/logo.png" alt="Startup" style="width:100px;">
+            <img src="../images/Logo.png" alt="Startup" style="width:100px;">
         </td>
         <td style="text-align:center;">
             <strong>Rinse</strong><br>
