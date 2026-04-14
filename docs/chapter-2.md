@@ -360,6 +360,62 @@
 </tbody>
 </table>
 
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jimena</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Bartolo Corimanya</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>25 años</td>
+  </tr>
+  <tr>
+    <td>Rol</td>
+    <td>Administradora</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="../images/entre-clea.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title"></p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>00:00 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    Jimena, dueña de una lavandería, mencionó que actualmente gestiona los pedidos de forma manual, utilizando un cuaderno y etiquetas escritas a mano para identificar las prendas. Señala que esto le ha generado problemas como pérdida de prendas, confusión entre pedidos y retrasos en las entregas, especialmente cuando hay alta demanda. Además, le resulta difícil llevar un control claro del estado de cada pedido. Considera importante contar con una solución digital que le permita organizar mejor los pedidos, hacer seguimiento de las prendas y reducir errores, y estaría dispuesta a usarla si es fácil de manejar y le ahorra tiempo.
+</td>
+  </tr>
+</tbody>
+</table>
+
+### 2.2.3. Análisis de entrevistas
+
+En esta sección se presenta el análisis detallado de la información recolectada. Para cada segmento, se explican primero los hallazgos estadísticos objetivos y subjetivos, seguidos de la evidencia gráfica correspondiente.
+
+#### Segmento 1: Dueños y administradores de lavanderías
+
+#### Segmento 2: Usuarios de servicios de lavandería
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
