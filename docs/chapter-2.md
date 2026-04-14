@@ -531,7 +531,31 @@ El User Task Matrix presenta las tareas que realizan los User Persona para cumpl
 
 ### 2.3.3. User Journey Mapping
 
+<p><strong>Segmento 1 – Dueño de lavandería (Carlos Ramírez Huamán)</strong></p>
 
+El User Journey Mapping de Carlos representa el recorrido actual que experimenta como administrador de una lavandería local en la gestión diaria de pedidos, control de prendas, organización logística y comunicación con los clientes. El mapa ilustra el proceso completo (end-to-end), desde la recepción de prendas hasta la entrega final al cliente.
+
+En la situación As-Is, Carlos enfrenta un flujo de trabajo predominantemente manual y poco estructurado: registra pedidos en cuadernos, organiza las prendas de forma empírica y coordina entregas mediante llamadas o mensajes informales. Esta dinámica genera desorden operativo, pérdida de información, errores en los pedidos y dificultades para dar seguimiento al estado de cada servicio.
+
+El Journey busca evidenciar los puntos críticos de su experiencia actual, identificando las tareas, emociones, fricciones y oportunidades de mejora a lo largo de cada etapa del proceso (Recepción de prendas, Registro de pedidos, Procesamiento, Coordinación logística, Entrega y Seguimiento).
+
+<img src="../images/Customer journey map 1 carlos.png" alt="Journey Map Segmento 1" width="auto" height="450"/>
+
+<br>
+
+<p><strong>Segmento 2 – Usuario de lavandería (Andrea López García)</strong></p>
+
+El User Journey Mapping de Andrea representa el recorrido actual que experimenta como usuaria de servicios de lavandería, desde la necesidad de lavar sus prendas hasta la recolección final del pedido. Este recorrido refleja la interacción del cliente con el servicio y evidencia las limitaciones del modelo tradicional.
+
+En la situación As-Is, Andrea debe acudir físicamente a la lavandería para dejar y recoger sus prendas, sin contar con información clara sobre el estado del servicio. La falta de comunicación efectiva y seguimiento en tiempo real genera incertidumbre, pérdida de tiempo y una experiencia poco satisfactoria.
+
+Durante su recorrido, Andrea enfrenta múltiples fricciones, como la necesidad de desplazarse innecesariamente, la falta de notificaciones sobre el estado del pedido y la posibilidad de encontrar su ropa no lista al momento de recogerla.
+
+El Journey busca identificar las emociones, expectativas y dificultades presentes en cada etapa del proceso (Necesidad del servicio, Entrega de prendas, Espera, Consulta del estado, Recojo del pedido y Post-servicio).
+
+<img src="../images/Customer journey map  andrea.png" alt="Journey Map Segmento 2" width="auto" height="450"/>
+
+<br>
 
 ### 2.3.4. Empathy Mapping
 
