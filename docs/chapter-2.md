@@ -559,7 +559,15 @@ El Journey busca identificar las emociones, expectativas y dificultades presente
 
 ### 2.3.4. Empathy Mapping
 
----
+Para la elaboración de los *Empathy Maps*, el equipo partió del conocimiento y observaciones recolectadas durante el análisis de los User Persona. Se colocó al centro de cada mapa al usuario correspondiente  y se respondieron las preguntas claves sobre su entorno, emociones, comportamientos y necesidades.
+
+**Segmento 1: Administrador**
+
+<img src="../images/Carlos Ramírez Huamán empathy map.png" alt="Empathy Mapping 1" width="auto" height="1400"/>
+
+**Segmento 2: Usuario de lavandería**
+
+<img src="../images/Andrea López García map.png" alt="Empathy Mapping 2" width="auto" height="1400"/>
 
 ## 2.4. Big Picture Event Storming
 
