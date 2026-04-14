@@ -416,7 +416,7 @@ En esta sección se presenta el análisis detallado de la información recolecta
 
 El análisis revela una digitalización precaria en la gestión operativa. Como se observa en el gráfico, el 100% de los administradores utiliza cuadernos para registrar pedidos, mientras que solo un 40% emplea computadoras, principalmente para la emisión de boletas. Asimismo, el 0% cuenta con un sistema digital integrado, evidenciando una fuerte dependencia de procesos manuales.
 
-<div align="center"><img src="../images/pastel-dueños.png alt="Gráfico Estadístico Administradores" width="80%"></div>
+<div align="center"><img src="../images/pastel-dueños.png" alt="Gráfico Estadístico Administradores" width="80%"></div>
 <br>
 
 #### Segmento 2: Usuarios de servicios de lavandería
@@ -445,7 +445,33 @@ A partir del análisis de entrevistas y la recolección de información sobre la
 
 La construcción de los User Persona permite comprender en profundidad sus comportamientos, motivaciones, frustraciones y hábitos, lo cual resulta fundamental para diseñar una solución tecnológica alineada con las necesidades reales del mercado. De esta manera, se busca garantizar que la plataforma no solo resuelva problemas operativos, sino que también mejore significativamente la experiencia del usuario.
 
-** Segmento 1: Administradores de casas de reposo**
+**1) Segmento 1: Dueños y administradores de lavandería **
+
+Para este segmento se elaboró el User Persona Carlos Ramírez Huamán, propietario de una lavandería local con varios años de experiencia en el rubro.
+
+Carlos tiene 42 años y gestiona su negocio de manera tradicional, utilizando cuadernos para registrar pedidos y apoyándose ocasionalmente en herramientas básicas como Excel o aplicaciones de mensajería. Su principal objetivo es mantener el control de su operación diaria, asegurar la entrega oportuna de prendas y evitar errores que afecten la confianza de sus clientes.
+
+Sin embargo, enfrenta múltiples dificultades en su gestión diaria. Entre sus principales frustraciones se encuentran la desorganización de los pedidos, la pérdida de información, los errores en la entrega de prendas y la dificultad para coordinar eficientemente el recojo y la entrega. Asimismo, la falta de un sistema digital le impide tener visibilidad en tiempo real del estado de su negocio, lo que limita su capacidad de toma de decisiones.
+
+En cuanto a su relación con la tecnología, Carlos posee un nivel básico de manejo digital. Está familiarizado con el uso de teléfonos inteligentes y aplicaciones simples, pero no cuenta con experiencia en sistemas especializados. Por ello, requiere una solución que sea intuitiva, fácil de implementar y que no demande una curva de aprendizaje compleja.
+
+<img src="../images/Carlos Ramírez Huamán perso.png" alt="User Persona 1" width="auto" height="1900"/>
+
+<br>
+
+**2) Segmento 2: Usuarios de servicios de lavandería**
+
+Para este segmento se elaboró el User Persona Andrea López García, profesional joven que utiliza servicios de lavandería de manera frecuente debido a su estilo de vida dinámico.
+
+Andrea tiene 27 años, trabaja a tiempo completo y cuenta con poco tiempo disponible para realizar actividades domésticas. Por ello, recurre a servicios de lavandería como una solución práctica que le permita optimizar su tiempo.
+
+No obstante, su experiencia actual con estos servicios presenta diversas limitaciones. Entre sus principales frustraciones se encuentran la falta de información sobre el estado de sus prendas, la necesidad de acudir presencialmente al local para verificar pedidos y los retrasos en la entrega sin previo aviso. Estas situaciones generan pérdida de tiempo, incomodidad y desconfianza en el servicio.
+
+Andrea es una usuaria altamente familiarizada con plataformas digitales, ya que utiliza constantemente aplicaciones de delivery, transporte y servicios bajo demanda. En consecuencia, espera un nivel similar de experiencia en los servicios de lavandería, incluyendo seguimiento en tiempo real, notificaciones automáticas y facilidad de acceso desde su dispositivo móvil.
+
+<img src="../images/Andrea López García perso.png" alt="User Persona 2" width="auto" height="1900"/>
+
+<br>
 
 ### 2.3.2. User Task Matrix
 
