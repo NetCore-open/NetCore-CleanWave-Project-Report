@@ -571,6 +571,17 @@ Para la elaboración de los *Empathy Maps*, el equipo partió del conocimiento y
 
 ## 2.4. Big Picture Event Storming
 
----
+**Step 1 – Free Exploration**
+
+En esta primera etapa, el equipo realizó una sesión de lluvia de ideas con el objetivo de identificar todos los eventos relevantes dentro del dominio del servicio de lavanderías. Durante esta actividad, se buscó capturar los acontecimientos reales que ocurren en la operación diaria del negocio, sin establecer un orden específico ni una jerarquía entre ellos.
+
+<img src="../images/Event Storming.jpg" alt="bigpicture" style="width:1000px;">
+
+**Step 2 – Structured Organization**
+
+Después de listar los eventos, el equipo los organizó en flujos de negocio lógicos que reflejan las principales etapas en la operación de una casa de reposo.
+Esta estructura ayudó a identificar los procesos clave y las áreas de mejora que posteriormente podrían abordarse mediante soluciones digitales o de gestión.
+
+<img src="../images/Event_Storming_2.jpg" alt="bigpicture" style="width:1000px;">
 
 ## 2.5. Ubiquitous Language
