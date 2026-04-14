@@ -451,9 +451,6 @@ Para este segmento se elaboró el User Persona Carlos Ramírez Huamán, propieta
 
 Carlos tiene 42 años y gestiona su negocio de manera tradicional, utilizando cuadernos para registrar pedidos y apoyándose ocasionalmente en herramientas básicas como Excel o aplicaciones de mensajería. Su principal objetivo es mantener el control de su operación diaria, asegurar la entrega oportuna de prendas y evitar errores que afecten la confianza de sus clientes.
 
-Sin embargo, enfrenta múltiples dificultades en su gestión diaria. Entre sus principales frustraciones se encuentran la desorganización de los pedidos, la pérdida de información, los errores en la entrega de prendas y la dificultad para coordinar eficientemente el recojo y la entrega. Asimismo, la falta de un sistema digital le impide tener visibilidad en tiempo real del estado de su negocio, lo que limita su capacidad de toma de decisiones.
-
-En cuanto a su relación con la tecnología, Carlos posee un nivel básico de manejo digital. Está familiarizado con el uso de teléfonos inteligentes y aplicaciones simples, pero no cuenta con experiencia en sistemas especializados. Por ello, requiere una solución que sea intuitiva, fácil de implementar y que no demande una curva de aprendizaje compleja.
 
 <img src="../images/Carlos Ramírez Huamán perso.png" alt="User Persona 1" width="auto" height="1900"/>
 
@@ -465,9 +462,6 @@ Para este segmento se elaboró el User Persona Andrea López García, profesiona
 
 Andrea tiene 27 años, trabaja a tiempo completo y cuenta con poco tiempo disponible para realizar actividades domésticas. Por ello, recurre a servicios de lavandería como una solución práctica que le permita optimizar su tiempo.
 
-No obstante, su experiencia actual con estos servicios presenta diversas limitaciones. Entre sus principales frustraciones se encuentran la falta de información sobre el estado de sus prendas, la necesidad de acudir presencialmente al local para verificar pedidos y los retrasos en la entrega sin previo aviso. Estas situaciones generan pérdida de tiempo, incomodidad y desconfianza en el servicio.
-
-Andrea es una usuaria altamente familiarizada con plataformas digitales, ya que utiliza constantemente aplicaciones de delivery, transporte y servicios bajo demanda. En consecuencia, espera un nivel similar de experiencia en los servicios de lavandería, incluyendo seguimiento en tiempo real, notificaciones automáticas y facilidad de acceso desde su dispositivo móvil.
 
 <img src="../images/Andrea López García perso.png" alt="User Persona 2" width="auto" height="1900"/>
 
@@ -475,7 +469,69 @@ Andrea es una usuaria altamente familiarizada con plataformas digitales, ya que 
 
 ### 2.3.2. User Task Matrix
 
+El User Task Matrix presenta las tareas que realizan los User Persona para cumplir sus objetivos en su día a día, independientemente de si usan nuestro software o no. Se evalúa la frecuencia y la importancia de cada tarea para identificar dónde aportar valor.
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse:collapse; width:100%; font-family:Arial, sans-serif;">
+  <thead>
+    <tr style="background-color:#eef3f7;">
+      <th rowspan="2">Tarea (Task)</th>
+      <th colspan="2">Administrador (Carlos)</th>
+      <th colspan="2">Usuario (Andrea)</th>
+    </tr>
+    <tr style="background-color:#eef3f7;">
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left;">Registrar pedidos y prendas</td>
+      <td>Often</td><td>High</td>
+      <td>Rarely</td><td>Low</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Actualizar el estado del pedido</td>
+      <td>Often</td><td>High</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Coordinar recojo y entrega de prendas</td>
+      <td>Often</td><td>High</td>
+      <td>Occasionally</td><td>Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Consultar el estado del pedido</td>
+      <td>Often</td><td>Medium</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Notificar al cliente sobre avances del servicio</td>
+      <td>Occasionally</td><td>High</td>
+      <td>Often</td><td>High</td>
+    </tr
+    <tr>
+      <td style="text-align:left;">Gestionar pagos y cobros del servicio</td>
+      <td>Often</td><td>High</td>
+      <td>Occasionally</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Revisar historial de pedidos</td>
+      <td>Occasionally</td><td>Medium</td>
+      <td>Occasionally</td><td>Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Reportar problemas o incidencias</td>
+      <td>Occasionally</td><td>High</td>
+      <td>Occasionally</td><td>High</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 2.3.3. User Journey Mapping
+
+
 
 ### 2.3.4. Empathy Mapping
 
