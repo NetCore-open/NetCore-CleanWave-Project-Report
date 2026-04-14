@@ -414,11 +414,38 @@ En esta sección se presenta el análisis detallado de la información recolecta
 
 #### Segmento 1: Dueños y administradores de lavanderías
 
+El análisis revela una digitalización precaria en la gestión operativa. Como se observa en el gráfico, el 100% de los administradores utiliza cuadernos para registrar pedidos, mientras que solo un 40% emplea computadoras, principalmente para la emisión de boletas. Asimismo, el 0% cuenta con un sistema digital integrado, evidenciando una fuerte dependencia de procesos manuales.
+
+<div align="center"><img src="../images/pastel-dueños.png alt="Gráfico Estadístico Administradores" width="80%"></div>
+<br>
+
 #### Segmento 2: Usuarios de servicios de lavandería
+
+Los datos confirman una experiencia actual ineficiente y poco transparente. El 100% de los usuarios debe acudir presencialmente para verificar el estado de su pedido, y el 100% reporta haber encontrado su ropa no lista al llegar, lo que evidencia una falta total de comunicación efectiva. Además, el 75% ha perdido tiempo en desplazamientos innecesarios.
+
+<div align="center"><img src="../images/pastel-usuarios.png" alt="Gráfico Estadístico Familiares" width="80%"></div>
+<br>
+
+#### Análisis Comparativo
+
+Al comparar ambos grupos, se identifican coincidencias clave para el desarrollo de la solución. Tanto administradores como usuarios presentan un 100% de necesidad de digitalización y mejora en la comunicación, evidenciando una oportunidad clara para la implementación de una plataforma tecnológica.
+
+<div align="center"><img src="../images/barras-segmentos.png" alt="Gráfico Comparativo Segmentos" width="80%"></div>
+<br>
+
+### Conclusiones y Definición de Arquetipos
+
+Basado en el análisis estadístico, se concluye que existe una desconexión crítica entre la operación interna de las lavanderías y la experiencia del cliente. Mientras el 100% de los administradores trabaja con métodos manuales, el 100% de los usuarios demanda información en tiempo real, lo que genera ineficiencia, errores y pérdida de tiempo.
 
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
+
+A partir del análisis de entrevistas y la recolección de información sobre la operación de lavanderías locales y la experiencia de los usuarios finales, se identificaron los principales perfiles de usuarios que interactúan directamente con la solución propuesta. Estos perfiles representan los segmentos clave del sistema, ya que concentran tanto las necesidades de gestión operativa del negocio como las expectativas del cliente en cuanto a eficiencia, transparencia y comodidad del servicio.
+
+La construcción de los User Persona permite comprender en profundidad sus comportamientos, motivaciones, frustraciones y hábitos, lo cual resulta fundamental para diseñar una solución tecnológica alineada con las necesidades reales del mercado. De esta manera, se busca garantizar que la plataforma no solo resuelva problemas operativos, sino que también mejore significativamente la experiencia del usuario.
+
+** Segmento 1: Administradores de casas de reposo**
 
 ### 2.3.2. User Task Matrix
 
