@@ -53,11 +53,11 @@ La sesión se llevó a cabo de manera colaborativa utilizando la herramienta Luc
 4. Delimitación de Bounded Contexts
 5. Integración de Sistemas Externos y Queries
 
-<div align="center"><img src="../images/Subdomain1.png" alt="Design-Level Event Storming" style="width:1000px;"></div>
-<div align="center"><img src="../images/subdomain2.png" alt="Design-Level Event Storming" style="width:1000px;"></div>
-<div align="center"><img src="../images/Subdomain3.png" alt="Design-Level Event Storming" style="width:1000px;"></div>
-<div align="center"><img src="../images/Subdomain4.png" alt="Design-Level Event Storming" style="width:1000px;"></div>
-<div align="center"><img src="../images/Subdomain5.png" alt="Design-Level Event Storming" style="width:1000px;"></div>
+![Design-Level Event Storming 1](../images/Subdomain1.png)
+![Design-Level Event Storming 2](../images/subdomain2.png)
+![Design-Level Event Storming 3](../images/Subdomain3.png)
+![Design-Level Event Storming 4](../images/Subdomain4.png)
+![Design-Level Event Storming 5](../images/Subdomain5.png)
 
 ### 4.6.2. Software Architecture Context Diagram
 
