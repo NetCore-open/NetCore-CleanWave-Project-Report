@@ -37,8 +37,27 @@
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
+En esta sección, el equipo profundiza en la arquitectura de software para la solución CleanWave, tomando como base los hitos alcanzados durante el Big Picture Event Storming. 
+El objetivo es realizar una transición desde el entendimiento del negocio hacia un modelo técnico riguroso bajo la perspectiva de Domain-Driven Design (DDD).
 
+Este enfoque permite delimitar los Bounded Contexts necesarios para separar responsabilidades críticas, como el seguimiento del estado de las prendas y el sistema de atención de quejas. 
+A través de esta metodología, se han identificado los Aggregates, Events, Commands y Queries que garantizan la integridad de la lógica de negocio en cada etapa del proceso de lavandería.
+
+Finalmente, se presenta y explica la representación visual de la arquitectura utilizando el C4 Model. 
+Esta estructura jerárquica nos permite comunicar de manera efectiva la solución a través de tres niveles de detalle: el Software Architecture Context Level Diagram, los Software Architecture Container Level Diagrams y los Software Architecture Component Diagrams.
 ### 4.6.1. Design-Level Event Storming
+La sesión se llevó a cabo de manera colaborativa utilizando la herramienta LucidChart y se estructuró en las siguientes actividades clave : 
+1. Refinamiento de Eventos de Dominio
+2. Identificación de Comandos y Actores
+3. Definición de Agregados (Aggregates)
+4. Delimitación de Bounded Contexts
+5. Integración de Sistemas Externos y Queries
+
+<div align="center"><img src="../images/Subdomain1.png" alt="Design-Level Event Storming" style="width:1000px;"></div>
+<div align="center"><img src="../images/subdomain2.png" alt="Design-Level Event Storming" style="width:1000px;"></div>
+<div align="center"><img src="../images/Subdomain3.png" alt="Design-Level Event Storming" style="width:1000px;"></div>
+<div align="center"><img src="../images/Subdomain4.png" alt="Design-Level Event Storming" style="width:1000px;"></div>
+<div align="center"><img src="../images/Subdomain5.png" alt="Design-Level Event Storming" style="width:1000px;"></div>
 
 ### 4.6.2. Software Architecture Context Diagram
 
