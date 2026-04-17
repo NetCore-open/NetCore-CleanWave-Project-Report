@@ -719,4 +719,12 @@
 
 ## 3.2. Impact Mapping
 
+En el Impact Mapping del modelo de negocio digital para la gestión de lavanderías locales, el equipo elaboró el mapa en UXPressia partiendo de un Business Goal principal que cumple con los criterios SMART: “Mejorar la eficiencia operativa, reducir los errores logísticos y aumentar la satisfacción del cliente en lavanderías locales, alcanzando la afiliación de 300 negocios y 5,000 usuarios activos durante el primer año de operación”.
+
+A partir de esta meta se incorporaron como Actors/Personas a los User Personas previamente definidos: Carlos Ramírez (administrador de lavandería) y Andrea López (cliente/usuario final). Para cada uno se identificaron los Impacts esperados, es decir, cómo se busca modificar su comportamiento para contribuir al logro del objetivo. En el caso de Carlos, se plantean la optimización de la gestión de pedidos y prendas, la reducción de errores operativos derivados de procesos manuales, el mayor control del estado de los servicios y la mejora en la coordinación de recojo y entrega. En el caso de Andrea, se identifican el acceso en tiempo real al estado de sus pedidos, la reducción de la incertidumbre respecto a tiempos de entrega, el ahorro de tiempo mediante servicios de recojo y entrega, y una mayor confianza en el servicio gracias a la transparencia y comunicación constante.
+
+A partir de estos impactos se definieron los Deliverables que el sistema digital debe ofrecer para provocar dichos cambios en el comportamiento de los actores. Entre ellos se incluyen el módulo de gestión de pedidos (registro, edición, control de estados y prendas), el sistema digital centralizado para el control operativo, el panel de control en tiempo real con métricas clave, el módulo de logística con optimización de rutas mediante inteligencia artificial, y el sistema de notificaciones automáticas. Para el cliente final, se plantean el sistema de seguimiento en tiempo real del pedido, el servicio de recojo y entrega, y el módulo de comunicación directa entre cliente y lavandería.
+
+<img src="../images/impact map (1).png" alt="Impact map 1" style="width: 90%; height: auto;">
+
 ## 3.3. Product Backlog
