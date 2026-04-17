@@ -152,9 +152,27 @@ El sistema de navegación es la estructura que permite a los dueños de lavander
 
 ## 4.3. Landing Page UI Design
 
+En esta sección se detalla el diseño de la interfaz de usuario (UI) para la página comercial de CleanWave. El objetivo principal es traducir la Arquitectura de Información, previamente definida, en representaciones visuales claras y funcionales. El proceso abarca desde esquemas estructurales de baja fidelidad para validar la jerarquía de los datos, hasta el diseño final de alta fidelidad que experimentará el cliente.
+
 ### 4.3.1. Landing Page Wireframe
 
+<p align="center">
+  <img src="../images/landing-wireframe1.png" alt="Wireframe 1 de la Landing Page de CleanWave" width="85%"/>
+</p>
+
+<p align="center">
+  <img src="../images/landing-wireframe2.png" alt="Wireframe 2 de la Landing Page de CleanWave" width="85%"/>
+</p>
+
 ### 4.3.2. Landing Page Mock-up
+
+<p align="center">
+  <img src="../images/landing-mockup1.png" alt="Mock-up 1 de la Landing Page de CleanWave" width="85%"/>
+</p>
+
+<p align="center">
+  <img src="../images/landing-mockup2.png" alt="Mock-up 2 de la Landing Page de CleanWave" width="85%"/>
+</p>
 
 ## 4.4. Web Applications UX/UI Design
 
