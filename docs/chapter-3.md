@@ -728,3 +728,64 @@ A partir de estos impactos se definieron los Deliverables que el sistema digital
 <img src="../images/impact map (1).png" alt="Impact map 1" style="width: 90%; height: auto;">
 
 ## 3.3. Product Backlog
+
+En esta sección se presenta el Product Backlog priorizado, el cual contiene las Historias de Usuario y Technical Stories estimadas en Story Points. El orden de los elementos ha sido determinado por el valor que aportan al negocio, priorizando en las primeras iteraciones los elementos de la Landing Page y las funcionalidades core del sistema.
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td><strong>Orden</strong></td>
+    <td><strong>User Story Id</strong></td>
+    <td><strong>Título</strong></td>
+    <td><strong>Descripción</strong></td>
+    <td><strong>Story Points (1/2/3)</strong></td>
+  </tr>
+  <!-- LANDING -->
+  <tr><td>1</td><td>US01</td><td>Menú de navegación</td><td>Como visitante, quiero acceder a un menú de navegación para explorar fácilmente las secciones del sitio.</td><td>1</td></tr>
+  <tr><td>2</td><td>US02</td><td>Visualización de planes</td><td>Como visitante, quiero ver los planes con precios y características para compararlos.</td><td>2</td></tr>
+  <tr><td>3</td><td>US03</td><td>Selección de plan</td><td>Como visitante, quiero seleccionar un plan para iniciar el registro.</td><td>3</td></tr>
+  <tr><td>4</td><td>US04</td><td>Propuesta de valor</td><td>Como visitante, quiero entender el valor del servicio para decidir si usarlo.</td><td>1</td></tr>
+  <tr><td>5</td><td>US05</td><td>Cómo funciona</td><td>Como visitante, quiero ver cómo funciona el servicio para entender el proceso.</td><td>2</td></tr>
+  <tr><td>6</td><td>US06</td><td>Beneficios</td><td>Como visitante, quiero conocer los beneficios del servicio para evaluarlo.</td><td>1</td></tr>
+  <tr><td>7</td><td>US07</td><td>Testimonios</td><td>Como visitante, quiero ver opiniones de otros usuarios para generar confianza.</td><td>1</td></tr>
+  <tr><td>8</td><td>US08</td><td>Formulario de contacto</td><td>Como visitante, quiero enviar consultas para recibir información.</td><td>3</td></tr>
+  <tr><td>9</td><td>US09</td><td>Información de contacto</td><td>Como visitante, quiero ver medios de contacto disponibles.</td><td>1</td></tr>
+  <tr><td>10</td><td>US10</td><td>Sección “Nosotros”</td><td>Como visitante, quiero conocer la empresa para generar confianza.</td><td>1</td></tr>
+  <tr><td>11</td><td>US11</td><td>Preguntas frecuentes</td><td>Como visitante, quiero resolver dudas comunes antes de usar el servicio.</td><td>2</td></tr>
+  <tr><td>12</td><td>US12</td><td>Redes sociales</td><td>Como visitante, quiero acceder a redes sociales para conocer más información.</td><td>1</td></tr>
+  <!-- CORE -->
+  <tr><td>13</td><td>US25</td><td>Registrar pedido</td><td>Como administrador, quiero registrar pedidos para gestionar el servicio.</td><td>3</td></tr>
+  <tr><td>14</td><td>US26</td><td>Editar pedido</td><td>Como administrador, quiero modificar pedidos para corregir errores.</td><td>2</td></tr>
+  <tr><td>15</td><td>US27</td><td>Eliminar pedido</td><td>Como administrador, quiero eliminar pedidos para mantener orden.</td><td>1</td></tr>
+  <tr><td>16</td><td>US28</td><td>Registrar prendas</td><td>Como administrador, quiero registrar prendas dentro de un pedido.</td><td>3</td></tr>
+  <tr><td>17</td><td>US29</td><td>Clasificar prendas</td><td>Como administrador, quiero clasificar prendas para su tratamiento.</td><td>2</td></tr>
+  <tr><td>18</td><td>US30</td><td>Actualizar estado</td><td>Como administrador, quiero actualizar el estado del pedido.</td><td>2</td></tr>
+  <tr><td>19</td><td>US31</td><td>Consultar estado</td><td>Como cliente, quiero consultar el estado de mi pedido.</td><td>2</td></tr>
+  <tr><td>20</td><td>US32</td><td>Visualizar pedidos</td><td>Como administrador, quiero ver todos los pedidos registrados.</td><td>2</td></tr>
+  <tr><td>21</td><td>US33</td><td>Buscar pedidos</td><td>Como administrador, quiero buscar pedidos rápidamente.</td><td>1</td></tr>
+  <!-- NOTIFICACIONES -->
+  <tr><td>22</td><td>US34</td><td>Notificar pedido listo</td><td>Como sistema, quiero notificar cuando el pedido esté listo.</td><td>2</td></tr>
+  <tr><td>23</td><td>US35</td><td>Notificar retrasos</td><td>Como sistema, quiero notificar retrasos en pedidos.</td><td>2</td></tr>
+  <tr><td>24</td><td>US36</td><td>Mensajes personalizados</td><td>Como administrador, quiero enviar mensajes a clientes.</td><td>2</td></tr>
+  <!-- LOGISTICA -->
+  <tr><td>25</td><td>US37</td><td>Coordinar entrega</td><td>Como administrador, quiero coordinar la entrega del pedido.</td><td>3</td></tr>
+  <tr><td>26</td><td>US38</td><td>Solicitar recojo</td><td>Como cliente, quiero solicitar recojo de prendas.</td><td>3</td></tr>
+  <tr><td>27</td><td>US39</td><td>Consultar horario</td><td>Como cliente, quiero conocer el horario de entrega.</td><td>2</td></tr>
+  <tr><td>28</td><td>US40</td><td>Optimizar rutas</td><td>Como sistema, quiero optimizar rutas de entrega.</td><td>3</td></tr>
+  <!-- SISTEMA / SEGURIDAD -->
+  <tr><td>29</td><td>US41</td><td>Registro de usuario</td><td>Como usuario, quiero registrarme en el sistema.</td><td>2</td></tr>
+  <tr><td>30</td><td>US42</td><td>Inicio de sesión</td><td>Como usuario, quiero iniciar sesión.</td><td>2</td></tr>
+  <tr><td>31</td><td>US43</td><td>Cerrar sesión</td><td>Como usuario, quiero cerrar sesión para seguridad.</td><td>1</td></tr>
+  <tr><td>32</td><td>US44</td><td>Recuperar contraseña</td><td>Como usuario, quiero recuperar mi contraseña.</td><td>2</td></tr>
+  <tr><td>33</td><td>US45</td><td>Control de acceso</td><td>Como sistema, quiero restringir accesos según roles.</td><td>3</td></tr>
+</table>
+
+**Evidencia de Product Backlog en Jira:**
+
+A continuación, se muestra la gestión del backlog en la herramienta Jira Software, evidenciando la priorización y estimación de las historias.
+
+<div align="center">
+  <img src="../images/Product Backlog.png" alt="Evidence Product Backlog Jira" width="90%">
+  <p><em>Figura: Captura del Product Backlog en Jira Software.</em></p>
+</div>
+
+**Enlace al Product Backlog:** 
