@@ -8,6 +8,10 @@ En esta sección, presentaremos nuestro plan para el diseño, estilo y aparienci
 
 **Branding:** Para la creación del logo de nuestro producto CleanWave, se ha optado por un diseño moderno y minimalista que refleje limpieza, tecnología y eficiencia. El logotipo se compone de una tipografía sans-serif elegante, acompañada de un isotipo que simboliza la fluidez del agua y la conectividad digital (IA). Los colores utilizados son profesionales y equilibrados, reforzando la imagen de una plataforma SaaS robusta y confiable para la gestión de lavanderías.
 
+<p align="center">
+  <img src="../images/logo.png" alt="Logo de CleanWave" width="40%"/>
+</p>
+
 **Tono de Comunicación:**
 - **Confiable y Profesional:** Para transmitir seguridad a los dueños de lavanderías sobre el manejo de su negocio.
 - **Cercano y Empático:** Lenguaje directo que facilita la adopción tecnológica en negocios tradicionales.
