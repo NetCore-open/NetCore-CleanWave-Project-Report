@@ -21,7 +21,7 @@
         <td colspan="3"></td>
         <td style="text-align:center;">
             <strong>Nuestra Startup</strong><br>
-            <img src="../images/logo.png" alt="Startup" style="width:100px;">
+            <img src="../images/Logo.png" alt="Startup" style="width:100px;">
         </td>
         <td style="text-align:center;">
             <strong>Rinse</strong><br>
@@ -308,20 +308,284 @@
 </tbody>
 </table>
 
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Ana</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Fernandez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>60 años</td>
+  </tr>
+  <tr>
+    <td>Rol</td>
+    <td>Administradora</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="../images/EntrevistaAdminAna.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title"></p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>00:00 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    Mencionó que tuvo problemas con algunos clientes que reportaron ropa en mal estado, manifestó desconocer los daños a las ropas
+    dañadas, pero igual tuvo que reparar estos daños. Mencionó además que no estaría mal el crear una plataforma mas avanzada que le permita
+    gestionar mejor su negocio de lavandería. Contó que la gestión de los clientes es en su mayoría a travez de un cuaderno, y solo usa computadoras
+    para gestionar las boletas de pago.
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jimena</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Bartolo Corimanya</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>25 años</td>
+  </tr>
+  <tr>
+    <td>Rol</td>
+    <td>Administradora</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="../images/entre-clea.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title"></p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>00:00 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    Jimena, dueña de una lavandería, mencionó que actualmente gestiona los pedidos de forma manual, utilizando un cuaderno y etiquetas escritas a mano para identificar las prendas. Señala que esto le ha generado problemas como pérdida de prendas, confusión entre pedidos y retrasos en las entregas, especialmente cuando hay alta demanda. Además, le resulta difícil llevar un control claro del estado de cada pedido. Considera importante contar con una solución digital que le permita organizar mejor los pedidos, hacer seguimiento de las prendas y reducir errores, y estaría dispuesta a usarla si es fácil de manejar y le ahorra tiempo.
+</td>
+  </tr>
+</tbody>
+</table>
+
+### 2.2.3. Análisis de entrevistas
+
+En esta sección se presenta el análisis detallado de la información recolectada. Para cada segmento, se explican primero los hallazgos estadísticos objetivos y subjetivos, seguidos de la evidencia gráfica correspondiente.
+
+#### Segmento 1: Dueños y administradores de lavanderías
+
+El análisis revela una digitalización precaria en la gestión operativa. Como se observa en el gráfico, el 100% de los administradores utiliza cuadernos para registrar pedidos, mientras que solo un 40% emplea computadoras, principalmente para la emisión de boletas. Asimismo, el 0% cuenta con un sistema digital integrado, evidenciando una fuerte dependencia de procesos manuales.
+
+<div align="center"><img src="../images/pastel-dueños.png" alt="Gráfico Estadístico Administradores" width="80%"></div>
+<br>
+
+#### Segmento 2: Usuarios de servicios de lavandería
+
+Los datos confirman una experiencia actual ineficiente y poco transparente. El 100% de los usuarios debe acudir presencialmente para verificar el estado de su pedido, y el 100% reporta haber encontrado su ropa no lista al llegar, lo que evidencia una falta total de comunicación efectiva. Además, el 75% ha perdido tiempo en desplazamientos innecesarios.
+
+<div align="center"><img src="../images/pastel-usuarios.png" alt="Gráfico Estadístico Familiares" width="80%"></div>
+<br>
+
+#### Análisis Comparativo
+
+Al comparar ambos grupos, se identifican coincidencias clave para el desarrollo de la solución. Tanto administradores como usuarios presentan un 100% de necesidad de digitalización y mejora en la comunicación, evidenciando una oportunidad clara para la implementación de una plataforma tecnológica.
+
+<div align="center"><img src="../images/barras-segmentos.png" alt="Gráfico Comparativo Segmentos" width="80%"></div>
+<br>
+
+### Conclusiones y Definición de Arquetipos
+
+Basado en el análisis estadístico, se concluye que existe una desconexión crítica entre la operación interna de las lavanderías y la experiencia del cliente. Mientras el 100% de los administradores trabaja con métodos manuales, el 100% de los usuarios demanda información en tiempo real, lo que genera ineficiencia, errores y pérdida de tiempo.
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
+A partir del análisis de entrevistas y la recolección de información sobre la operación de lavanderías locales y la experiencia de los usuarios finales, se identificaron los principales perfiles de usuarios que interactúan directamente con la solución propuesta. Estos perfiles representan los segmentos clave del sistema, ya que concentran tanto las necesidades de gestión operativa del negocio como las expectativas del cliente en cuanto a eficiencia, transparencia y comodidad del servicio.
+
+La construcción de los User Persona permite comprender en profundidad sus comportamientos, motivaciones, frustraciones y hábitos, lo cual resulta fundamental para diseñar una solución tecnológica alineada con las necesidades reales del mercado. De esta manera, se busca garantizar que la plataforma no solo resuelva problemas operativos, sino que también mejore significativamente la experiencia del usuario.
+
+**1) Segmento 1: Dueños y administradores de lavandería **
+
+Para este segmento se elaboró el User Persona Carlos Ramírez Huamán, propietario de una lavandería local con varios años de experiencia en el rubro.
+
+Carlos tiene 42 años y gestiona su negocio de manera tradicional, utilizando cuadernos para registrar pedidos y apoyándose ocasionalmente en herramientas básicas como Excel o aplicaciones de mensajería. Su principal objetivo es mantener el control de su operación diaria, asegurar la entrega oportuna de prendas y evitar errores que afecten la confianza de sus clientes.
+
+
+<img src="../images/Carlos Ramírez Huamán perso.png" alt="User Persona 1" width="auto" height="1900"/>
+
+<br>
+
+**2) Segmento 2: Usuarios de servicios de lavandería**
+
+Para este segmento se elaboró el User Persona Andrea López García, profesional joven que utiliza servicios de lavandería de manera frecuente debido a su estilo de vida dinámico.
+
+Andrea tiene 27 años, trabaja a tiempo completo y cuenta con poco tiempo disponible para realizar actividades domésticas. Por ello, recurre a servicios de lavandería como una solución práctica que le permita optimizar su tiempo.
+
+
+<img src="../images/Andrea López García perso.png" alt="User Persona 2" width="auto" height="1900"/>
+
+<br>
+
 ### 2.3.2. User Task Matrix
+
+El User Task Matrix presenta las tareas que realizan los User Persona para cumplir sus objetivos en su día a día, independientemente de si usan nuestro software o no. Se evalúa la frecuencia y la importancia de cada tarea para identificar dónde aportar valor.
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse:collapse; width:100%; font-family:Arial, sans-serif;">
+  <thead>
+    <tr style="background-color:#eef3f7;">
+      <th rowspan="2">Tarea (Task)</th>
+      <th colspan="2">Administrador (Carlos)</th>
+      <th colspan="2">Usuario (Andrea)</th>
+    </tr>
+    <tr style="background-color:#eef3f7;">
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left;">Registrar pedidos y prendas</td>
+      <td>Often</td><td>High</td>
+      <td>Rarely</td><td>Low</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Actualizar el estado del pedido</td>
+      <td>Often</td><td>High</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Coordinar recojo y entrega de prendas</td>
+      <td>Often</td><td>High</td>
+      <td>Occasionally</td><td>Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Consultar el estado del pedido</td>
+      <td>Often</td><td>Medium</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Notificar al cliente sobre avances del servicio</td>
+      <td>Occasionally</td><td>High</td>
+      <td>Often</td><td>High</td>
+    </tr
+    <tr>
+      <td style="text-align:left;">Gestionar pagos y cobros del servicio</td>
+      <td>Often</td><td>High</td>
+      <td>Occasionally</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Revisar historial de pedidos</td>
+      <td>Occasionally</td><td>Medium</td>
+      <td>Occasionally</td><td>Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Reportar problemas o incidencias</td>
+      <td>Occasionally</td><td>High</td>
+      <td>Occasionally</td><td>High</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 2.3.3. User Journey Mapping
 
+<p><strong>Segmento 1 – Dueño de lavandería (Carlos Ramírez Huamán)</strong></p>
+
+El User Journey Mapping de Carlos representa el recorrido actual que experimenta como administrador de una lavandería local en la gestión diaria de pedidos, control de prendas, organización logística y comunicación con los clientes. El mapa ilustra el proceso completo (end-to-end), desde la recepción de prendas hasta la entrega final al cliente.
+
+En la situación As-Is, Carlos enfrenta un flujo de trabajo predominantemente manual y poco estructurado: registra pedidos en cuadernos, organiza las prendas de forma empírica y coordina entregas mediante llamadas o mensajes informales. Esta dinámica genera desorden operativo, pérdida de información, errores en los pedidos y dificultades para dar seguimiento al estado de cada servicio.
+
+El Journey busca evidenciar los puntos críticos de su experiencia actual, identificando las tareas, emociones, fricciones y oportunidades de mejora a lo largo de cada etapa del proceso (Recepción de prendas, Registro de pedidos, Procesamiento, Coordinación logística, Entrega y Seguimiento).
+
+<img src="../images/Customer journey map 1 carlos.png" alt="Journey Map Segmento 1" width="auto" height="450"/>
+
+<br>
+
+<p><strong>Segmento 2 – Usuario de lavandería (Andrea López García)</strong></p>
+
+El User Journey Mapping de Andrea representa el recorrido actual que experimenta como usuaria de servicios de lavandería, desde la necesidad de lavar sus prendas hasta la recolección final del pedido. Este recorrido refleja la interacción del cliente con el servicio y evidencia las limitaciones del modelo tradicional.
+
+En la situación As-Is, Andrea debe acudir físicamente a la lavandería para dejar y recoger sus prendas, sin contar con información clara sobre el estado del servicio. La falta de comunicación efectiva y seguimiento en tiempo real genera incertidumbre, pérdida de tiempo y una experiencia poco satisfactoria.
+
+Durante su recorrido, Andrea enfrenta múltiples fricciones, como la necesidad de desplazarse innecesariamente, la falta de notificaciones sobre el estado del pedido y la posibilidad de encontrar su ropa no lista al momento de recogerla.
+
+El Journey busca identificar las emociones, expectativas y dificultades presentes en cada etapa del proceso (Necesidad del servicio, Entrega de prendas, Espera, Consulta del estado, Recojo del pedido y Post-servicio).
+
+<img src="../images/Customer journey map  andrea.png" alt="Journey Map Segmento 2" width="auto" height="450"/>
+
+<br>
+
 ### 2.3.4. Empathy Mapping
 
----
+Para la elaboración de los *Empathy Maps*, el equipo partió del conocimiento y observaciones recolectadas durante el análisis de los User Persona. Se colocó al centro de cada mapa al usuario correspondiente  y se respondieron las preguntas claves sobre su entorno, emociones, comportamientos y necesidades.
+
+**Segmento 1: Administrador**
+
+<img src="../images/Carlos Ramírez Huamán empathy map.png" alt="Empathy Mapping 1" width="auto" height="1400"/>
+
+**Segmento 2: Usuario de lavandería**
+
+<img src="../images/Andrea López García map.png" alt="Empathy Mapping 2" width="auto" height="1400"/>
 
 ## 2.4. Big Picture Event Storming
 
----
+**Step 1 – Free Exploration**
+
+En esta primera etapa, el equipo realizó una sesión de lluvia de ideas con el objetivo de identificar todos los eventos relevantes dentro del dominio del servicio de lavanderías. Durante esta actividad, se buscó capturar los acontecimientos reales que ocurren en la operación diaria del negocio, sin establecer un orden específico ni una jerarquía entre ellos.
+
+<img src="../images/Event Storming.jpg" alt="bigpicture" style="width:1000px;">
+
+**Step 2 – Structured Organization**
+
+Después de listar los eventos, el equipo los organizó en flujos de negocio lógicos que reflejan las principales etapas en la operación de una casa de reposo.
+Esta estructura ayudó a identificar los procesos clave y las áreas de mejora que posteriormente podrían abordarse mediante soluciones digitales o de gestión.
+
+<img src="../images/Event_Storming_2.jpg" alt="bigpicture" style="width:1000px;">
 
 ## 2.5. Ubiquitous Language
+
+<p> En el presente proyecto, cuyo objetivo principal es mejorar la eficiencia operativa y la transparencia del servicio en lavanderías locales mediante una plataforma digital, se ha definido el siguiente <strong>lenguaje ubicuo</strong> con el fin de garantizar claridad y consistencia entre usuarios, desarrolladores y stakeholders. </p> <table border="1" style="border-collapse: collapse; width: 100%;"> <tr> <td><strong>Término</strong></td> <td><strong>Definición</strong></td> </tr> <tr> <td>Cliente</td> <td>Usuario que solicita el servicio de lavandería, entrega sus prendas y recibe información sobre el estado de su pedido.</td> </tr> <tr> <td>Administrador</td> <td>Propietario o encargado de la lavandería responsable de gestionar pedidos, operaciones y el funcionamiento general del negocio.</td> </tr> <tr> <td>Pedido</td> <td>Conjunto de prendas entregadas por el cliente para ser procesadas dentro de un ciclo de servicio (lavado, secado, planchado).</td> </tr> <tr> <td>Prenda</td> <td>Unidad individual de ropa que forma parte de un pedido y pasa por las distintas etapas del servicio.</td> </tr> <tr> <td>Estado del Pedido</td> <td>Etapa actual en la que se encuentra un pedido (Registrado, En proceso, Listo, Entregado), permitiendo su seguimiento.</td> </tr> <tr> <td>Seguimiento (Tracking)</td> <td>Visualización en tiempo real del estado del pedido, que permite al cliente conocer el progreso del servicio.</td> </tr> <tr> <td>Notificación</td> <td>Mensaje automático enviado al cliente para informarle sobre eventos relevantes (pedido listo, retraso, entrega).</td> </tr> <tr> <td>Recojo y Entrega</td> <td>Proceso logístico mediante el cual se recogen las prendas del cliente y se entregan una vez finalizado el servicio.</td> </tr> <tr> <td>Optimización Logística</td> <td>Uso de reglas o algoritmos para mejorar las rutas de recojo y entrega, reduciendo tiempos y costos operativos.</td> </tr> <tr> <td>Panel de Control (Dashboard)</td> <td>Interfaz principal para el administrador donde se visualizan pedidos, métricas y el estado general del negocio.</td> </tr> <tr> <td>Flujo del Servicio</td> <td>Secuencia de etapas que sigue un pedido desde su recepción hasta su entrega final.</td> </tr> <tr> <td>Incidencia</td> <td>Evento inesperado durante el proceso (retraso, pérdida o daño de prendas) que requiere atención.</td> </tr> <tr> <td>Pago</td> <td>Transacción realizada por el cliente para cancelar el servicio de lavandería.</td> </tr> <tr> <td>Plan de Suscripción</td> <td>Modelo de acceso tipo SaaS para lavanderías, que define funcionalidades disponibles según el plan contratado.</td> </tr> <tr> <td>Sesión</td> <td>Periodo de acceso autenticado en el que un usuario interactúa con la plataforma.</td> </tr> <tr> <td>Roles y Permisos</td> <td>Mecanismo de control que define qué acciones puede realizar cada tipo de usuario dentro del sistema.</td> </tr> </table>
+
+<p><strong>Beneficios esperados del lenguaje ubicuo:</strong></p> <ul> <li>Facilita la comunicación entre desarrolladores, usuarios y propietarios de lavanderías.</li> <li>Mejora la comprensión de los procesos y funcionalidades del sistema.</li> <li>Evita ambigüedades en la definición de requerimientos.</li> <li>Garantiza consistencia en el diseño, desarrollo e implementación del proyecto.</li> </ul>
