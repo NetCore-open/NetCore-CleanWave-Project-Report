@@ -215,6 +215,7 @@ La sesión se llevó a cabo de manera colaborativa utilizando la herramienta Luc
 
 ### 4.6.3. Software Architecture Container Diagrams
 
+<img alt="Design-Level Event Storming 1" src="../images/containerdiagram.png"/>
 
 
 ### 4.6.4. Software Architecture Components Diagrams
