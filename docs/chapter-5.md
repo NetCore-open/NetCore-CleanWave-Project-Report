@@ -69,6 +69,132 @@ function calculateTotal(price, quantity) {
   return price * quantity;
 }
 ```
+A continuación, se detallan las reglas específicas aplicadas a cada lenguaje.
+
+**HTML**
+ 
+ Se utilizará HTML5 como estándar principal para el desarrollo de la estructura de la aplicación web, debido a que proporciona etiquetas semánticas, soporte multimedia y compatibilidad con navegadores modernos.
+
+Document Type
+
+El proyecto utilizará la declaración específica de HTML5, definida como <!DOCTYPE html>, permitiendo a los navegadores interpretar correctamente la estructura del documento. 
+
+Ejemplo:
+
+```
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Laundry Platform</title>
+</head>
+<body>
+</body>
+</html>
+```
+- **Blank Lines**
+
+Se utilizarán líneas en blanco para separar grandes bloques de contenido HTML, con el objetivo de mejorar la legibilidad del documento y facilitar la identificación visual de secciones importantes de la interfaz.
+
+Ejemplo
+```
+<body>
+  <header>
+    <h1>Laundry Service</h1>
+  </header>
+
+  <section>
+    <h2>Cómo funciona</h2>
+    <p>El cliente registra o solicita su servicio y puede hacer seguimiento del pedido.</p>
+  </section>
+
+  <section>
+    <h2>Beneficios</h2>
+    <p>Mayor transparencia, ahorro de tiempo y mejor control operativo.</p>
+  </section>
+</body>
+```
+- **HTML Quotation Marks**
+
+Para los valores de atributos HTML se emplearán comillas dobles (""), manteniendo consistencia en todos los documentos del proyecto.
+
+```
+<img src="laundry-order.jpg" alt="Pedido de lavandería listo para entrega" />
+```
+- **Multimedia Fallback**
+
+Se proporcionará contenido alternativo para elementos multimedia, especialmente imágenes, con el objetivo de mejorar la accesibilidad y permitir una adecuada interpretación del contenido.
+
+Ejemplo:
+```
+<img
+  src="delivery-route.jpg"
+  alt="Ruta de entrega optimizada para pedidos de lavandería"
+  width="600"
+/>
+```
+**CSS**
+
+Se utilizará CSS3 para el diseño visual y la presentación de la aplicación web. El objetivo es mantener una hoja de estilos clara, ordenada y fácil de mantener.
+
+Property Name Stops
+
+Se utilizará un espacio después de los dos puntos (:) que acompañan a cada propiedad CSS, así como un único espacio entre la propiedad y su valor.
+
+Ejemplo:
+```
+.order-card {
+  background: #ffffff;
+  padding: 16px;
+}
+```
+- **Declaration Stops**
+
+Cada declaración de propiedad CSS finalizará con punto y coma (;) para mantener consistencia y evitar errores de interpretación.
+
+Ejemplo:
+```
+.status-label {
+  color: green;
+  font-weight: bold;
+}
+```
+- **CSS Quotation Marks**
+
+Se utilizarán comillas de manera consistente solo cuando sean necesarias, evitando su uso innecesario en rutas o propiedades donde no aporten claridad. Asimismo, se mantendrá uniformidad en el estilo de redacción de selectores y valores.
+
+Ejemplo:
+```
+.banner-title {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+```
+- **Declaration Block Separation**
+
+Se mantendrá una separación clara entre selectores y bloques de declaraciones, evitando saltos de línea innecesarios y asegurando uniformidad visual en la hoja de estilos.
+
+Ejemplo:
+```
+.delivery-info {
+  margin-top: 1rem;
+  color: #444444;
+}
+```
+**JavaScript**
+Se utilizará JavaScript como lenguaje principal para la lógica del sistema, permitiendo implementar funcionalidades como el registro de pedidos, consulta de estados, validaciones, manejo de eventos y comportamiento dinámico de la aplicación.
+- **Spaces Around Operations**
+
+Se colocarán espacios alrededor de operadores aritméticos, de comparación y asignación, así como después de las comas, para mejorar la legibilidad del código.
+
+Ejemplo:
+```
+let totalPrice = unitPrice * quantity;
+const districts = ['Miraflores', 'San Isidro', 'Barranco'];
+```
+- **End of Simple Declaration**
+Toda declaración simple deberá finalizar con punto y coma (;), incluyendo variables, constantes y asignaciones.
+
+Ejemplo:
 
 ### 5.1.4. Software Deployment Configuration
 
