@@ -211,14 +211,16 @@ La sesión se llevó a cabo de manera colaborativa utilizando la herramienta Luc
 <img alt="Design-Level Event Storming 5" src="../images/Boundedc6.png"/>
 
 ### 4.6.2. Software Architecture Context Diagram
-<img alt="Design-Level Event Storming 1" src="../images/contextdiagram1.png"/>
+<img alt="Design-Level Event Storming 1" src="../images/contextdiagram2.png"/>
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-<img alt="Design-Level Event Storming 1" src="../images/containerdiagram.png"/>
+<img alt="Design-Level Event Storming 1" src="../images/containerdiagram1.png"/>
 
 
 ### 4.6.4. Software Architecture Components Diagrams
+
+<img alt="Design-Level Event Storming 1" src="../images/componentdiagram1.png"/>
 
 ## 4.7. Software Object-Oriented Design
 
