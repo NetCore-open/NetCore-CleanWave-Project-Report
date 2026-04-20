@@ -196,6 +196,92 @@ Toda declaración simple deberá finalizar con punto y coma (;), incluyendo vari
 
 Ejemplo:
 
+```
+const orderStatus = 'ready';
+let deliveryTime = 30;
+```
+- **General Rules for Complex Statements**
+Las estructuras complejas, como condicionales, bucles y funciones, seguirán una sintaxis clara y consistente:
+
+La llave de apertura irá al final de la línea.
+Se dejará un espacio antes de la llave de apertura.
+La llave de cierre irá en una nueva línea.
+No se colocará punto y coma al final del bloque.
+
+Ejemplo:
+```
+if (orderStatus === 'ready') {
+  notifyCustomer();
+}
+```
+- **Uso de nombres descriptivos**
+Las funciones y variables deberán reflejar claramente su propósito dentro del dominio del negocio. En vez de utilizar nombres genéricos, se emplearán denominaciones relacionadas con el sistema de lavanderías. 
+
+Ejemplo:
+```
+function updateOrderStatus(orderId, newStatus) {
+  console.log(orderId, newStatus);
+}
+```
+**Gherkin**
+
+Gherkin será utilizado como lenguaje de especificación para describir escenarios de prueba y criterios de aceptación de las funcionalidades del sistema. Esto permitirá una comunicación más clara entre el equipo técnico y la perspectiva de negocio.
+- **Discernible Given-When-Then Blocks**
+
+Se empleará la estructura clásica de Gherkin basada en bloques Given – When – Then, utilizando And cuando sea necesario para añadir condiciones o resultados adicionales.
+
+Ejemplo:
+```
+Scenario: Cliente consulta el estado de su pedido
+Given que el cliente tiene un pedido registrado
+And el pedido se encuentra en proceso
+When consulta el estado del pedido
+Then el sistema muestra el estado actual
+And muestra el tiempo estimado de entrega
+```
+- **Steps with Tables**
+Cuando un escenario requiera trabajar con múltiples registros o datos tabulares, se utilizarán tablas dentro de los pasos, facilitando la comprensión del contexto del escenario.
+ 
+ Ejemplo:
+```
+Scenario: Visualizar pedidos registrados
+Given que existen los siguientes pedidos:
+| pedido   | estado      |
+| ORD-001  | en proceso  |
+| ORD-002  | listo       |
+| ORD-003  | entregado   |
+When el administrador consulta la lista de pedidos
+Then el sistema muestra los pedidos registrados
+```
+- **Reducing Noise**
+Se procurará eliminar información irrelevante de los escenarios, manteniendo únicamente los datos necesarios para comprender el comportamiento esperado del sistema. Esto permite que los criterios de aceptación sean más claros y fáciles de validar.
+
+Ejemplo:
+```
+Scenario: Pedido listo para notificación
+Given que el pedido está registrado
+And el pedido cambia a estado listo
+When el sistema procesa la actualización
+Then el cliente recibe una notificación
+```
+- **Newlines between scenarios and separator comments**
+Cuando se definan múltiples escenarios dentro de un mismo archivo, se dejarán líneas en blanco entre ellos y se podrán utilizar comentarios separadores para facilitar la lectura y navegación del documento.
+
+Ejemplo:
+```
+#------- Escenario de consulta exitosa -------
+Scenario: Cliente consulta pedido existente
+Given que el cliente tiene un pedido registrado
+When consulta el estado del pedido
+Then el sistema muestra el estado correspondiente
+
+
+#------- Escenario de pedido inexistente -------
+Scenario: Cliente consulta pedido no registrado
+Given que el cliente no tiene un pedido asociado
+When consulta el estado del pedido
+Then el sistema informa que no se encontró información
+```
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
