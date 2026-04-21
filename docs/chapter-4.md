@@ -222,21 +222,38 @@ La sesión se llevó a cabo de manera colaborativa utilizando la herramienta Luc
 <img alt="Design-Level Event Storming 5" src="../images/Boundedc6.png"/>
 
 ### 4.6.2. Software Architecture Context Diagram
-<img alt="Design-Level Event Storming 1" src="../images/contextdiagram2.png"/>
+<img alt="Context diagram" src="../images/contextdiagram2.png"/>
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-<img alt="Design-Level Event Storming 1" src="../images/containerdiagram1.png"/>
+<img alt="containerdiagram" src="../images/containerdiagram1.png"/>
 
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-<img alt="Design-Level Event Storming 1" src="../images/componentdiagram1.png"/>
+<img alt="componentdiagram" src="../images/componentdiagram1.png"/>
+
+<img alt="componentdiagram" src="../images/componentfrontend.png"/>
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
+<img alt="frontenddiagram" src="../images/frontendboundedobject.png"/>
+
+<img alt="accessdiagram" src="../images/accessbounded.png"/>
+
+<img alt="businessdiagram" src="../images/businessbounded.png"/>
+
+<img alt="customerdiagram" src="../images/customerexpbounded.png"/>
+
+<img alt="laundrydiagram" src="../images/laundryorderbounded.png"/>
+
+<img alt="logisticsdiagram" src="../images/logisticsbounded.png"/>
+
+<img alt="suscripciondiagram" src="../images/suscripcionbounded.png"/>
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams.
+
