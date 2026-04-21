@@ -157,21 +157,32 @@ En esta sección se detalla el diseño de la interfaz de usuario (UI) para la p�
 ### 4.3.1. Landing Page Wireframe
 
 <p align="center">
-  <img src="../images/landing-wireframe1.png" alt="Wireframe 1 de la Landing Page de CleanWave" width="85%"/>
+  <img src="../images/LandingWireframe1.png" alt="Wireframe 1" width="85%"/>
 </p>
 
 <p align="center">
-  <img src="../images/landing-wireframe2.png" alt="Wireframe 2 de la Landing Page de CleanWave" width="85%"/>
+  <img src="../images/LandingWireframe2.png" alt="Wireframe 2" width="85%"/>
 </p>
+
+<p align="center">
+  <img src="../images/LandingWireframe3.png" alt="Wireframe 3" width="85%"/>
+</p>
+
+Link: https://www.figma.com/design/z876Dy5cFZTavginMQPf2M/Sin-t%C3%ADtulo?node-id=0-1&t=vy9WcvpvE5uXP9R8-1
+
 
 ### 4.3.2. Landing Page Mock-up
 
 <p align="center">
-  <img src="../images/landing-mockup1.png" alt="Mock-up 1 de la Landing Page de CleanWave" width="85%"/>
+  <img src="../images/LandingMockup1.png" alt="Mock-up 1" width="85%"/>
 </p>
 
 <p align="center">
-  <img src="../images/landing-mockup2.png" alt="Mock-up 2 de la Landing Page de CleanWave" width="85%"/>
+  <img src="../images/LandingMockup2.png" alt="Mock-up 2" width="85%"/>
+</p>
+
+<p align="center">
+  <img src="../images/LandingMockup3.png" alt="Mock-up 3" width="85%"/>
 </p>
 
 ## 4.4. Web Applications UX/UI Design
@@ -203,17 +214,24 @@ La sesión se llevó a cabo de manera colaborativa utilizando la herramienta Luc
 4. Delimitación de Bounded Contexts
 5. Integración de Sistemas Externos y Queries
 
-![Design-Level Event Storming 1](../images/Subdomain1.png)
-![Design-Level Event Storming 2](../images/subdomain2.png)
-![Design-Level Event Storming 3](../images/Subdomain3.png)
-![Design-Level Event Storming 4](../images/Subdomain4.png)
-![Design-Level Event Storming 5](../images/Subdomain5.png)
+<img alt="Design-Level Event Storming 1" src="../images/Boundedc1.png"/>
+<img alt="Design-Level Event Storming 2" src="../images/Boundedc2.png"/>
+<img alt="Design-Level Event Storming 3" src="../images/Boundedc3.png"/>
+<img alt="Design-Level Event Storming 4" src="../images/Boundedc4.png"/>
+<img alt="Design-Level Event Storming 5" src="../images/Boundedc5.png"/>
+<img alt="Design-Level Event Storming 5" src="../images/Boundedc6.png"/>
 
 ### 4.6.2. Software Architecture Context Diagram
+<img alt="Design-Level Event Storming 1" src="../images/contextdiagram2.png"/>
 
 ### 4.6.3. Software Architecture Container Diagrams
 
+<img alt="Design-Level Event Storming 1" src="../images/containerdiagram1.png"/>
+
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+<img alt="Design-Level Event Storming 1" src="../images/componentdiagram1.png"/>
 
 ## 4.7. Software Object-Oriented Design
 
