@@ -168,7 +168,7 @@ En esta sección se detalla el diseño de la interfaz de usuario (UI) para la p�
   <img src="../images/LandingWireframe3.png" alt="Wireframe 3" width="85%"/>
 </p>
 
-Link: 
+Link: https://www.figma.com/design/z876Dy5cFZTavginMQPf2M/Sin-t%C3%ADtulo?node-id=0-1&t=vy9WcvpvE5uXP9R8-1
 
 
 ### 4.3.2. Landing Page Mock-up
