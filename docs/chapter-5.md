@@ -14,9 +14,12 @@ Para administrar el progreso del código, optamos por una estrategia más simple
 
 Enlace de la Landing Page en GitHub Pages: 
 
+<div align="center"> <img src="../images/Landing net.png" alt="Sprint 1 Board Screenshot" width="100%"> <p><em>Figura: Repositorio Landing Page</em>
+</p> </div>
+
 Repositorio Github de la Landing Page:
 
-<div align="center"> <img src="../images/LandingPageNet.png" alt="Sprint 1 Board Screenshot" width="100%"> <p><em>Figura: Repositorio Landing Page</em>
+<div align="center"> <img src="../images/Landing page.png" alt="Sprint 1 Board Screenshot" width="100%"> <p><em>Figura: Repositorio Landing Page</em>
 </p> </div>
 
 
@@ -284,11 +287,48 @@ Then el sistema informa que no se encontró información
 ```
 ### 5.1.4. Software Deployment Configuration
 
+Para desplegar nuestro landing page hemos optado por usar Github Pages el cual brinda la posibilidad de alojar sitios web estáticos sin costo alguno.
+
+1. Ingresamos al repositorio de nuestra landing page
+
+![Organización del repositorio](/images/Repositorio.png)
+
+2. Ingresamos al repositorio de nuestra landing page
+
+![Reposirotio Landing Page](/images/Landing%20page.png) 
+
+3. Ingresamos a la sección de "Settings" del repositorio
+
+![Settings del repositorio](/images/LandingSetting%20.png)
+
+4. En la sección de "Pages", seleccionamos la rama "main" y la carpeta raíz (root) para desplegar nuestro sitio web.
+
+![Configuración de Github Pages](/images/LandingSettingPage.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint 1
 
-#### 5.2.X.1. Sprint Planning n.
+En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint. Además, se destacarán los aspectos relacionados con la documentación de servicios, la evidencia de despliegue de software y las perspectivas de colaboración del equipo durante el sprint. Este análisis detallado nos permitirá evaluar el progreso del proyecto y realizar ajustes necesarios para futuros sprints.
+
+#### 5.2.1.1. Sprint Planning 1.
+
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1.
+
+| **Sprint #** |                 **Sprint 1**              |
+|--------------|-------------------------------------------|
+|**Sprint Planning Background**                            |
+| Date         | 06-04-2026                                |
+| Time         | 2:00 PM                                   |
+| Location     | Reunión virtual mediante meet             |
+| Prepared By  | Jhoan Darner Janampa Gutierrez            |
+| Attendees    | Almandroz Carbajal Pierina, Baca Camargo Vitaly, Pariacchi Limahuaya Sebastian, Teran Zavala Mauricio                 |
+| Sprint n-1 Review Summary | No aplica                    |
+| Sprint n-1 Retrospective Summary | No aplica             |
+| **Sprint Goal & User Stories**                           |
+|**Sprint 1**  | El sprint tiene como objetivo publicar la landing page inicial de Foundly. Esta primera entrega se incluyen secciones principales: el hero con los botones de registro e inicio de sesión, los servicios con sus respectivos modales e integrantes, el modal de plan gratuito o premium, así como las páginas específicas para emprendedor y colaborador, También se implementó el carrusel de empresas, video introductorio, la sección de la app y un footer muy completo con contacto, redes sociales y documentación legal. Se añade además un asistente virtual y se asegura el diseño responsive tanto para móviles como escritorio. El criterio de aceptación es que todos los enlaces y modales funcionen correctamente, la navegación fluida y adaptable en diversos dispositivos y la página quede desplegada en el hosting.La métrica de éxito es lograr al menos 10 visitas únicas y 20 clics en los botones principales durante este sprint.                   |
+| Sprint 1 Velocity   | 20 Story Points                    |
+| Sum of Story Points | 43 Story Points                    |
 
 #### 5.2.X.2. Aspect Leaders and Collaborators
 
