@@ -322,13 +322,13 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
 | Time         | 2:00 PM                                   |
 | Location     | Reunión virtual mediante meet             |
 | Prepared By  | Jhoan Darner Janampa Gutierrez            |
-| Attendees    | Almandroz Carbajal Pierina, Baca Camargo Vitaly, Pariacchi Limahuaya Sebastian, Teran Zavala Mauricio                 |
+| Attendees    |                  |
 | Sprint n-1 Review Summary | No aplica                    |
 | Sprint n-1 Retrospective Summary | No aplica             |
 | **Sprint Goal & User Stories**                           |
-|**Sprint 1**  | El sprint tiene como objetivo publicar la landing page inicial de Foundly. Esta primera entrega se incluyen secciones principales: el hero con los botones de registro e inicio de sesión, los servicios con sus respectivos modales e integrantes, el modal de plan gratuito o premium, así como las páginas específicas para emprendedor y colaborador, También se implementó el carrusel de empresas, video introductorio, la sección de la app y un footer muy completo con contacto, redes sociales y documentación legal. Se añade además un asistente virtual y se asegura el diseño responsive tanto para móviles como escritorio. El criterio de aceptación es que todos los enlaces y modales funcionen correctamente, la navegación fluida y adaptable en diversos dispositivos y la página quede desplegada en el hosting.La métrica de éxito es lograr al menos 10 visitas únicas y 20 clics en los botones principales durante este sprint.                   |
+|**Sprint 1**  | El sprint tiene como objetivo desarrollar y publicar la landing page inicial de la startup de lavanderías digitales, la cual permitirá presentar la propuesta de valor del servicio tanto a dueños de lavanderías como a clientes finales. Durante este sprint se implementarán las secciones principales: hero con llamada a la acción, problema y solución, sección “cómo funciona”, beneficios diferenciados para ambos segmentos, testimonios simulados, sección de planes, formulario de contacto y footer con información relevante. Asimismo, se asegurará un diseño moderno, responsive y adaptable a dispositivos móviles y escritorio. El criterio de aceptación es que todas las secciones carguen correctamente, los enlaces funcionen sin errores, el formulario valide datos correctamente y la navegación sea fluida. La landing deberá estar desplegada en un hosting accesible públicamente. Como métrica de éxito, se espera lograr al menos 15 visitas únicas y 30 interacciones en los botones principales durante el sprint.                   |
 | Sprint 1 Velocity   | 20 Story Points                    |
-| Sum of Story Points | 43 Story Points                    |
+| Sum of Story Points | 38 Story Points                    |
 
 #### 5.2.X.2. Aspect Leaders and Collaborators
 
