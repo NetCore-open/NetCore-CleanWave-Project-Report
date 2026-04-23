@@ -131,8 +131,6 @@
 
 ### 2.2.1. Diseño de entrevistas
 
-### 2.2.1. Diseño de entrevistas
-
 <h4 id="Segment">Segmento objetivo: Dueños y administradores de lavanderías</h4> 
 
 <h4 id="PreguntPersonal">Preguntas Personales:</h4> 
