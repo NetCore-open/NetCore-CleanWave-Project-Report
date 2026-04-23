@@ -444,11 +444,33 @@ Landing Page.
 
 Finalmente configuramos GitHub Pages para obtener un enlace directo a la Landing Page, facilitando la revisión continua de los cambios realizados.
 Link: https://netcore-open.github.io/NetCore-LandingPage/ 
-![GitHub Pages](../images/)
+![GitHub Pages](../images/gitpages.png)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Mediante la sección de Insights de GitHub, se presenta a continuación la evidencia de colaboración del repositorio del Landing Page, mostrando la contribución de cada miembro del equipo durante el desarrollo del Sprint 1.
+
+---
+
+#### Analíticos de GitHub — Report
+
+![Gráfica de contribuciones — Landing Page](../images/commit.png)
+
+ #### Analíticos de GitHub — Landing Page
+ 
+![Gráfica de contribuciones — Landing Page](../images/topcommit.png)
 
 
+Las imágenes evidencian la participación de los 4 integrantes del equipo en el desarrollo y despliegue del Landing Page durante el Sprint 1. La distribución de commits refleja una colaboración activa y equitativa entre todos los miembros:
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint
+| Integrante | Usuario GitHub | Commits |
+|---|---|---|
+| Jhoan Darner Janampa Gutierrez | `orraiAKBDFSK` | 21 |
+| Miguel Angel Jara Espinoza | `MiguelJara2` | 2 |
+| Gabriel Marcelo Mendoza Palacios | `GabrielMendoza18` | 5 |
+| Jorge Armando Laban Hijar | `jarlh19` | 0 |
+
+La distribución de commits confirma que todos los integrantes tuvieron participación en el Sprint 1, con una diferencia máxima de 16 commits entre el miembro más activo y el menos activo, lo que evidencia un trabajo colaborativo a lo largo del sprint.
 
 ## 5.3. Validation Interviews
 
