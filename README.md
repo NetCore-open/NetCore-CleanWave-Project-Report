@@ -1,8 +1,7 @@
-# Universidad Peruana de Ciencias Aplicadas
+<div align="center">
+<img src="../NetCore-CleanWave-Project-Report/images/UPC.png" alt="Logo-UPC" width="150">
 
-![UPC Logo](assets/img/introduction/UPC.png)
-
-**Facultad de Ingeniería**
+## Universidad Peruana de Ciencias Aplicadas
 
 **Carrera de Ingeniería de Software**
 
@@ -14,42 +13,82 @@
 
 ### "Informe de Trabajo Final"
 
-**Nombre del Startup:** 
+**Nombre del Startup:** NetCore
 
-**Nombre del Producto:** 
+**Nombre del Producto:** CleanWave
 
-**Integrantes:**
+#### Relación de integrantes
 
-| Código     | Apellidos y Nombres           |
-|------------|-------------------------------|
-|    |
-|    |
-|    |
-|            |                               |
-|            |                               |
-|            |                               |
-|            |                               | 
-
-### Abril, 2026
+| Integrante                           | Código     |
+| ------------------------------------ | ---------- |
+| Jhoan Darner Janampa Gutierrez| U202316845 |
+|          |  |
+|           |  |
+|  |  |
+|      |  |
 
 
-# Project Report
+**Mes y Año**: Marzo 2026
 
 ---
 
-## Registro de Versiones del Informe
+</div>
 
-| Version | Fecha | Autor | Descripcion de los cambios |
-|---------|-------|-------|----------------------------|
-|         |       |       |                            |
-|         |       |       |                            |
-|         |       |       |                            |
+<div class="page"></div>
+
+<br>
+
+# Registro de Versiones del Informe
+
+| Versión | Fecha | Autores | Descripción de modificación |
+|---|---|---|---|
+| AV1 | 15/03/2026 | Jhoan Darner Janampa Gutierrez <br>Miguel Angel Jara Espinoza<br>Gabriel Marcelo Mendoza Palacios<br>Jorge Armando Laban Hijar<br> | Para la AV1 se creó la estructura completa del informe incluyendo carátula, registro de versiones, tabla de contenidos y Student Outcomes.<br><br>**Capítulo I — Introducción:** Se redactó el Startup Profile, Solution Profile, Lean UX Process y segmentos objetivo.<br><br>**Capítulo II — Requirements Elicitation & Analysis:** Se elaboró el análisis de competidores, diseño y registro de entrevistas, needfinding (User Personas, Task Matrix, Journey Mapping, Empathy Mapping), Big Picture Event Storming y Ubiquitous Language.<br><br>**Capítulo III — Requirements Specification:** Se desarrollaron las User Stories, Impact Mapping y Product Backlog.<br><br>**Capítulo IV — Product Design:** Se completaron las Style Guidelines, Information Architecture, Landing Page UI Design, Web Applications UX/UI Design, Web Prototyping, Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design.<br><br>**Capítulo V — Product Implementation:** Se realizó el Software Configuration Management y la evidencia del Sprint 1, incluyendo planning, backlog, development evidence, execution evidence, services documentation, deployment evidence y collaboration insights.<br><br>Finalmente, se añadieron conclusiones preliminares, bibliografía y anexos. |
+
+# Project Report Collaboration Insights
+
+Para el desarrollo del **Project Report**, el equipo utiliza un repositorio dentro de la organización en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente al **TB1**, en coherencia con el **Registro de Versiones del Informe**.
+
+**Repositorio del informe del proyecto:** https://github.com/Launchpad-PE/Report
+
+- **Total de commits:** 257
+- **Autores contribuyentes:**
+  - Vitaly Arturo Baca Camargo ( `Mr-Code-star` )
+  - Bautista Rivera, Jose Diego ( `Gogotes17` )
+  - Sebastián Ubaldo Pariachi Limahuaya ( `SebastianLima-PE` )
+  - Ariana Lizeth Ramírez Carrasco ( `pierinaaa29` )
+  - Mauricio Alejandro Teran Zavala ( `mau-tz` )
+- La actividad se distribuyó en ramas temáticas por secciones del informe, asegurando revisiones cruzadas mediante *pull requests*.
 
 ---
 
-## Project Report Collaboration Insights
+## AV1 — Informe inicial (Semana 4)
 
----
+Durante esta fase, el equipo elaboró el **informe inicial**, que incluyó los siguientes aspectos:
+
+- **Carátula** con información institucional y de la startup.
+- **Registro de Versiones del Informe**, documentando los cambios realizados.
+- **Contenido preliminar** con tabla de contenidos, *Student Outcomes* y Capítulo I (*Introducción*).
+- **Capítulo II** con los primeros avances en *Requirements Elicitation & Analysis*.
+- **Capítulo III** con la especificación de requisitos, User Stories y Product Backlog.
+- **Capítulo IV** con los avances en *Product Design*, incluyendo Style Guidelines, wireframes y mockups.<
+- **Capítulo V** con los avnces del Product Implementation, Validation & Deployment.
+- *\*Conclusiones preliminares, bibliografía y anexos.*
+
+A continuación se presenta la captura de los analíticos de colaboración y commits en GitHub para este entregable:
+
+![Project Report Collaboration Insights TB1](resources/Images/Collaboration%20Insights/Project%20Report%20Collaboration%20Insights(AV1).png)
+
+| Integrante | Usuario GitHub | Commits | Adiciones | Eliminaciones |
+|---|---|---|---|---|
+| Vitaly Arturo Baca Camargo | `Mr-Code-star` | 189 | 4872 | 419 |
+| Bautista Rivera, Jose Diego | `Gogotes17` | 34 | 630 | 20 |
+| Sebastián Ubaldo Pariachi Limahuaya | `SebastianLima-PE` | 23 | 382 | 75 |
+| Ariana Lizeth Ramírez Carrasco | `pierinaaa29` | 6 | 247 | 49 |
+| Mauricio Alejandro Teran Zavala | `mau-tz` | 5 | 127 | 4 |
+
+La colaboración fue activa y equitativa, con aportes sustanciales de todos los integrantes en la redacción y organización del informe.
+
+<>br
 
 ## Contenido
 
