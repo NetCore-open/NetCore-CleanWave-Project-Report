@@ -202,6 +202,12 @@ Link: https://www.figma.com/design/z876Dy5cFZTavginMQPf2M/Sin-t%C3%ADtulo?node-i
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+<img alt="Design-Level Event Storming 1" src="../images/REGISTROUSUARIO.png"/>
+<img alt="Design-Level Event Storming 1" src="../images/CAMBIOPASSWORD.png"/>
+<img alt="Design-Level Event Storming 1" src="../images/RESERVARCITA.png"/>
+<img alt="Design-Level Event Storming 1" src="../images/PAGOPORSERVICIO.png"/>
+
+
 ### 4.4.2. Web Applications Mock-ups
 
 ### 4.4.3. Web Applications User Flow Diagrams
