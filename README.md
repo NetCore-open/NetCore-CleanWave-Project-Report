@@ -48,16 +48,15 @@
 
 Para el desarrollo del **Project Report**, el equipo utiliza un repositorio dentro de la organización en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente al **TB1**, en coherencia con el **Registro de Versiones del Informe**.
 
-**Repositorio del informe del proyecto:** https://github.com/Launchpad-PE/Report
+**Repositorio del informe del proyecto:** https://github.com/NetCore-open/NetCore-CleanWave-Project-Report
 
-- **Total de commits:** 257
+- **Total de commits:** 60
 - **Autores contribuyentes:**
-  - Vitaly Arturo Baca Camargo ( `Mr-Code-star` )
-  - Bautista Rivera, Jose Diego ( `Gogotes17` )
-  - Sebastián Ubaldo Pariachi Limahuaya ( `SebastianLima-PE` )
-  - Ariana Lizeth Ramírez Carrasco ( `pierinaaa29` )
-  - Mauricio Alejandro Teran Zavala ( `mau-tz` )
-- La actividad se distribuyó en ramas temáticas por secciones del informe, asegurando revisiones cruzadas mediante *pull requests*.
+  - Jhoan Darner Janampa Gutierrez ( `orraiAKBDFSK` )
+  - Miguel Angel Jara Espinoza ( `MiguelJara2` )
+  - Gabriel Marcelo Mendoza Palacios ( `GabrielMendoza18` )
+  - Jorge Armando Laban Hijar ( `jarlh19` )
+
 
 ---
 
@@ -76,15 +75,14 @@ Durante esta fase, el equipo elaboró el **informe inicial**, que incluyó los s
 
 A continuación se presenta la captura de los analíticos de colaboración y commits en GitHub para este entregable:
 
-![Project Report Collaboration Insights TB1](resources/Images/Collaboration%20Insights/Project%20Report%20Collaboration%20Insights(AV1).png)
+![Project Report Collaboration Insights TB1](../NetCore-CleanWave-Project-Report/images/colaboracionAV1.png)
 
 | Integrante | Usuario GitHub | Commits | Adiciones | Eliminaciones |
 |---|---|---|---|---|
-| Vitaly Arturo Baca Camargo | `Mr-Code-star` | 189 | 4872 | 419 |
-| Bautista Rivera, Jose Diego | `Gogotes17` | 34 | 630 | 20 |
-| Sebastián Ubaldo Pariachi Limahuaya | `SebastianLima-PE` | 23 | 382 | 75 |
-| Ariana Lizeth Ramírez Carrasco | `pierinaaa29` | 6 | 247 | 49 |
-| Mauricio Alejandro Teran Zavala | `mau-tz` | 5 | 127 | 4 |
+| Jhoan Darner Janampa Gutierrez | `orraiAKBDFSK` | 50 | 1,708  | 71  |
+| Miguel Angel Jara Espinoza | `MiguelJara2` | 12 | 167  | 21  |
+| Gabriel Marcelo Mendoza Palacios | `GabrielMendoza18` | 9 | 188  | 6  |
+| Jorge Armando Laban Hijar | `jarlh19` | 0 | 0 | 0 |
 
 La colaboración fue activa y equitativa, con aportes sustanciales de todos los integrantes en la redacción y organización del informe.
 
@@ -203,3 +201,28 @@ La colaboración fue activa y equitativa, con aportes sustanciales de todos los 
 #### 5.3.3. Evaluaciones según heurísticas
 
 ### 5.4. Video About-the-Product
+
+---
+
+## [Conclusiones](Conclusiones.md#Conclusiones)
+
+
+## [Bibliografía](Bibliografia.md#bibliografia)
+
+---
+
+## [Anexos](Anexos.md#anexos)
+
+<br>
+
+# ABET – EAC - Student Outcome 3
+
+**Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---|---|---|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Jhoan Darner Janampa Gutierrez<br>AV1<br>.<br>.<br>.<br><br>Miguel Angel Jara Espinoza<br>AV1<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br><br>Gabriel Marcelo Mendoza Palacios<br>AV1<br>.<br>.<br><br>Jorge Armando Laban Hijar<br>AV1<br>.<br>. | El grupo demostró capacidad de comunicación oral efectiva al exponer los avances del proyecto ante diferentes audiencias, incluyendo docentes y compañeros. Durante el AV1, cada integrante presentó sus contribuciones de forma clara y estructurada, adaptando el nivel técnico del discurso según el contexto. Las exposiciones reflejaron dominio del tema y coherencia con los objetivos del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | Jhoan Darner Janampa Gutierrez<br>AV1<br>.<br>.<br>.<br><br>Miguel Angel Jara Espinoza<br>AV1<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br><br>Gabriel Marcelo Mendoza Palacios<br>AV1<br>.<br>.<br><br>Jorge Armando Laban Hijar<br>AV1<br>.<br>. | A lo largo del AV1, el grupo elaboró documentación técnica y visual de calidad, incluyendo diagramas, guidelines, mockups, user stories y el product backlog. Estos entregables evidencian la capacidad del equipo para comunicarse por escrito con precisión, empleando formatos adecuados para distintas audiencias: técnica (diagramas, bounded context) y de usuario final (landing page, entrevistas). La redacción fue clara, organizada y alineada a los estándares del curso. |
+
