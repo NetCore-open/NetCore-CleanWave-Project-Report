@@ -24,6 +24,7 @@
 | Jhoan Darner Janampa Gutierrez| U202316845 |
 | Miguel Angel Jara Espinoza         | U202512856 |
 | Gabriel Marcelo Mendoza Palacios          | U202416908 |
+| Jorge Armando Laban Hijar          | U201616054 |
 
 
 **Mes y Año**: Marzo 2026
