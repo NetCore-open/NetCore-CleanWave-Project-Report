@@ -64,10 +64,11 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
 
   <tr>
     <td width="140" valign="top" align="center">
-      <img src="../images/" alt=" Photo" width="120" />
+      <img src="../images/jorgelh.png" alt=" Photo" width="120" />
     </td>
     <td valign="top">
-      <strong></strong> -<br><br>
+      <strong>Jorge Armando Laban Hijar - (U201616054)</strong> - Ingenieria de Software<br><br>
+        Soy estudiante de Ingeniería de Software. He desarrollado una gran pasión por la tecnología y el desarrollo de software. Me interesa mucho cómo la tecnología puede resolver problemas complejos y mejorar la vida de las personas, y siempre busco aprender y actualizarme en las últimas tendencias del sector.
     </td>
   </tr>
 
