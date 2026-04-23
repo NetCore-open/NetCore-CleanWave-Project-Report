@@ -34,7 +34,7 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
 <table border="1" width="100%">
   <tr>
     <td width="140" valign="top" align="center">
-      <img src="../images/" alt=" Jhoan Photo" width="120" />
+      <img src="../images/Jhoan_janampa.jpg" alt=" Jhoan Photo" width="120" />
     </td>
     <td valign="top">
       <strong>Jhoan Darner Janampa Gutierrez - (U202323319)</strong> - Ingeniería de Software<br><br>
