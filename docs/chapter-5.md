@@ -472,12 +472,246 @@ Las imágenes evidencian la participación de los 4 integrantes del equipo en el
 
 La distribución de commits confirma que todos los integrantes tuvieron participación en el Sprint 1, con una diferencia máxima de 16 commits entre el miembro más activo y el menos activo, lo que evidencia un trabajo colaborativo a lo largo del sprint.
 
-## 5.3. Validation Interviews
+# Conclusiones
 
-### 5.3.1. Diseño de Entrevistas
+El desarrollo de la solución digital orientada a la **gestión de lavanderías locales** permitió al equipo contrastar los supuestos iniciales planteados durante el proceso Lean UX con los resultados obtenidos en las etapas de análisis, diseño y validación conceptual. A partir de ello, se identificaron oportunidades claras de mejora, así como la viabilidad del modelo propuesto para resolver problemas reales del sector.
 
-### 5.3.2. Registro de Entrevistas
+### En relación a los Problem Statements
 
-### 5.3.3. Evaluaciones según heurísticas
+1. **Problem Statement 1 — Procesos manuales y falta de control en la gestión de pedidos**  
+El equipo planteó que las lavanderías locales operan principalmente mediante procesos manuales, lo que genera errores logísticos, pérdida de información y falta de seguimiento adecuado de los pedidos. Este diagnóstico se sustenta en el análisis del contexto, donde se evidenció el uso de herramientas informales como cuadernos, mensajes por WhatsApp y registros no centralizados. La solución propuesta integra estas funciones en una plataforma digital, permitiendo gestionar pedidos, estados y prendas en un solo sistema, reduciendo significativamente la posibilidad de errores.
 
-## 5.4. Video About-the-Product
+2. **Problem Statement 2 — Falta de transparencia y mala experiencia del cliente**  
+Se identificó que los usuarios finales no cuentan con mecanismos para conocer el estado de sus pedidos en tiempo real, lo que genera incertidumbre, pérdida de tiempo y desconfianza en el servicio. La propuesta de una plataforma con seguimiento en tiempo real y notificaciones automáticas responde directamente a esta problemática, mejorando la comunicación entre cliente y lavandería.
+
+---
+
+### En relación a los Assumptions
+
+1. **Assumption sobre el comportamiento del administrador de lavandería**  
+Se asumió que los dueños de lavanderías estarían dispuestos a adoptar una solución digital para optimizar su operación. Este supuesto se considera válido, ya que la propuesta ofrece beneficios claros como reducción de errores, mejor control de pedidos y optimización del tiempo. Sin embargo, se identifica que puede existir resistencia inicial debido a la falta de familiaridad con herramientas digitales, lo que sugiere la necesidad de incorporar procesos de onboarding simples e intuitivos.
+
+2. **Assumption sobre el comportamiento del cliente final**  
+Se asumió que los usuarios valoran la posibilidad de hacer seguimiento en tiempo real de sus pedidos y recibir notificaciones. Este supuesto es altamente consistente con las tendencias actuales de consumo digital, donde los usuarios buscan inmediatez, control y transparencia en los servicios que utilizan.
+
+3. **Assumption sobre la optimización logística mediante tecnología**  
+Se asumió que la incorporación de algoritmos de optimización de rutas (IA) mejorará la eficiencia en los procesos de recojo y entrega. Este supuesto representa uno de los principales diferenciadores de la solución, ya que permite reducir tiempos de entrega y costos operativos, generando valor tanto para el negocio como para el cliente.
+
+---
+
+### En relación a los Hypothesis Statements y criterios de éxito
+
+1. **Hipótesis 1 — Reducción de errores operativos**  
+Se plantea que al menos el 50% de los errores asociados a la gestión manual de pedidos serán eliminados en los primeros meses de uso del sistema. Esta hipótesis se basa en la digitalización de procesos y centralización de la información, lo cual reduce la dependencia de registros informales.
+
+2. **Hipótesis 2 — Mejora en la experiencia del cliente**  
+Se plantea que al menos el 60% de los usuarios percibirá una mejora en la transparencia y control del servicio gracias al acceso en tiempo real al estado de sus pedidos. Este criterio es coherente con la incorporación de funcionalidades de seguimiento y notificación.
+
+3. **Hipótesis 3 — Adopción del sistema por lavanderías locales**  
+Se plantea que al menos el 30% de las lavanderías contactadas estarán dispuestas a probar la plataforma en un entorno piloto. Este indicador dependerá de la facilidad de uso del sistema y del valor percibido por los administradores.
+
+---
+
+# Recomendaciones y Roadmap
+
+A partir de los resultados obtenidos, el equipo propone los siguientes pasos para el desarrollo del modelo de negocio digital:
+
+## Corto plazo — Lanzamiento piloto (0 a 3 meses)
+
+- Publicar la **Landing Page** desarrollada como primera etapa de validación del modelo de negocio.  
+- Implementar una versión inicial del sistema con funcionalidades básicas de registro y seguimiento de pedidos.  
+- Validar la propuesta con un grupo reducido de lavanderías locales (piloto).  
+- Incorporar un flujo de onboarding sencillo para facilitar la adopción del sistema por parte de los administradores.  
+
+## Mediano plazo — Crecimiento (3 a 9 meses)
+
+- Implementar el sistema completo de gestión de pedidos con estados, historial y control de prendas.  
+- Integrar el sistema de notificaciones automáticas (pedido listo, retrasos, etc.).  
+- Incorporar el módulo de logística con programación de recojo y entrega.  
+- Lanzar campañas de adquisición de usuarios en redes sociales para aumentar la base de clientes.  
+
+## Largo plazo — Escalabilidad (9 a 18 meses)
+
+- Desarrollar la aplicación móvil para clientes y administradores.  
+- Implementar algoritmos avanzados de optimización de rutas mediante inteligencia artificial.  
+- Integrar métodos de pago digitales (Yape, Plin, etc.).  
+- Expandir el modelo a otras ciudades y mercados regionales.  
+- Incorporar analítica de datos para mejorar la toma de decisiones en las lavanderías.  
+
+## 📚 Bibliografía
+
+
+**Akerele, J. I., Uzoka, A., Ojukwu, P. U., & Olamijuwon, O. J. (2024).**
+Increasing software deployment speed in agile environments through automated configuration management.
+*International Journal of Engineering Research Updates, 7*(02), 028–035.
+🔗 [Ver artículo](https://orionjournals.com/ijeru/sites/default/files/IJERU-2024-0047.pdf)
+
+---
+
+**Arroyo Galán, S., Conde Cubas, Y. D., & Dorta Yagüe, A. (2022).**
+*Aplicación web de soporte al aprendizaje-servicio.*
+🔗 [Ver recurso](https://hdl.handle.net/20.500.14352/3285)
+
+---
+
+**Asonze, C. U., et al. (2024).**
+Evaluating the trade-offs between wireless security and performance in IoT networks.
+*SSRN 4927991.*
+🔗 [Ver artículo](https://www.researchgate.net/publication/383174817_Evaluating_the_Trade-offs_between_Wireless_Security_and_Performance_in_IoT_Networks_A_Case_Study_of_Web_Applications_in_AI-Driven_Home_Appliances)
+
+---
+
+**Balepur, N., et al. (2025).**
+Whose boat does it float? Improving personalization in preference tuning via inferred user personas.
+*arXiv preprint arXiv:2501.11549.*
+🔗 [Ver artículo](https://doi.org/10.48550/arXiv.2501.11549)
+
+---
+
+**Castro Sanz, R. (2024).**
+*Desarrollo de una aplicación web para gestión de tareas a través de un dashboard personalizable.*
+🔗 [Ver recurso](http://hdl.handle.net/10017/62796)
+
+---
+
+**DemandSage. (2024).**
+*Startup statistics.*
+🔗 [Ver estadísticas](https://www.demandsage.com/startup-statistics)
+
+---
+
+**Eras, C. M., Badillo, P. R., & Urrutia, D. M. (2020).**
+El fracaso de la actividad emprendedora en el contexto latinoamericano.
+*Revista UNIANDES Episteme, 7*(2), 162–176.
+🔗 [Ver artículo](https://dialnet.unirioja.es/descarga/articulo/8298146.pdf)
+
+---
+
+**Exploding Topics. (2024).**
+*Startup failure statistics.*
+🔗 [Ver estadísticas](https://explodingtopics.com/blog/startup-failure-stats)
+
+---
+
+**Growthlist. (2024).**
+*Startup failure statistics.*
+🔗 [Ver estadísticas](https://growthlist.co/startup-failure-statistics)
+
+---
+
+**Guan, M. Y., et al. (2024).**
+*Deliberative alignment: Reasoning enables safer language models.*
+*arXiv preprint arXiv:2412.16339.*
+🔗 [Ver artículo](https://arxiv.org/abs/2412.16339)
+
+---
+
+**Joseph, H., Sicard, B., David, J., & Ospina, A. (2021).**
+*Impacto latino: casos de emprendedores sociales de América Latina.*
+Editorial CESA.
+🔗 [Ver libro](https://books.google.com.pe/books?id=bTRTEAAAQBAJ)
+
+---
+
+**Kiourtis, A., et al. (2024).**
+Sustainable UI/UX design: Best practices for CO2 emission reduction in applications.
+*9th International Conference on Smart and Sustainable Technologies (SpliTech)* (pp. 1–6). IEEE.
+🔗 [Ver artículo](https://ieeexplore.ieee.org/abstract/document/10612495)
+
+---
+
+**Latam Republic. (2023).**
+*Startup trends and failures.*
+🔗 [Ver recurso](https://www.latamrepublic.com/v/)
+
+---
+
+**Nirumand, A., & Cabot, J. (s.f.).**
+*From mockups to IFML-like GUI models: Using large language models in web engineering.*
+🔗 [Ver capítulo](https://link.springer.com/chapter/10.1007/978-3-031-97207-2_20)
+
+---
+
+**Panamerican World. (2023).**
+*Startups failure in Latin America.*
+🔗 [Ver artículo](https://panamericanworld.com/en/magazine/startups/startups-failure-latinamerica)
+
+---
+
+**Purwanto, M. E., Hasanah, H., & Purwanto, E. (2024).**
+Improving customer service quality through the use of Google Suite in creating landing pages.
+*Jurnal Ekonomi, 13*(02), 502–510.
+🔗 [Ver artículo](https://ejournal.seaninstitute.or.id/index.php/Ekonomi/article/view/4399)
+
+---
+
+**Shofiana, A., Riadi, A. A., & Evanita, E. (2025).**
+Public complaint information system in government to improve web public services.
+*Revista La Multiapp, 6*(4), 750–764.
+🔗 [Ver artículo](https://www.newinera.com/index.php/JournalLaMultiapp/article/view/2419/1982)
+
+---
+
+**Torres Martín, G., & López Rodríguez, R. (2024).**
+*Projectpulse, una aplicación web de gestión de tareas orientada a empresas.*
+🔗 [Ver recurso](https://hdl.handle.net/20.500.14352/101430)
+
+---
+
+**U.S. Chamber of Commerce. (2023).**
+*Why small businesses fail.*
+🔗 [Ver artículo](https://www.uschamber.com/co/start/strategy/why-small-businesses-fail)
+
+---
+
+**Wicaksono, A. J. A., & Kusumandyoko, T. C. (2024).**
+Pengembangan user interface halaman utama pada Wicaraku sebagai media pengenalan terapi gangguan berbicara.
+*BARIK – Jurnal S1 Desain Komunikasi Visual, 6*(1), 233–247.
+🔗 [Ver artículo](https://ejournal.unesa.ac.id/index.php/JDKV/article/view/62835)
+
+---
+
+**Cómo crear un user journey map: Una guía. Coursera (2023)**
+
+🔗[Ver Articulo](https://www.coursera.org/mx/articles/creating-user-journey-maps-a-guide?msockid=35f7cd24a3526d172d46db55a2476cea)
+# Anexos
+
+
+---
+
+### Anexo A: Prototipos y Diseño
+
+| Recurso | Enlace |
+|---|---|
+| Web Applications Wireframes (Figma) | https://www.figma.com/design/BYuUfCInkNhZI1UaLu4JJV/WireFrame-Landing-Page-CleanWave?node-id=0-1&t=j8CbnUXdVDki8n37-1 |
+| Web Applications Mock-ups (Figma) | https://www.figma.com/design/BYuUfCInkNhZI1UaLu4JJV/WireFrame-Landing-Page-CleanWave?node-id=0-1&t=j8CbnUXdVDki8n37-1 |
+| Web Applications Prototyping (Figma) | https://www.figma.com/design/BYuUfCInkNhZI1UaLu4JJV/WireFrame-Landing-Page-CleanWave?node-id=0-1&t=j8CbnUXdVDki8n37-1 |
+
+---
+
+### Anexo B: Gestión del Proyecto
+
+| Recurso | Enlace |
+|---|---|
+| Design-Level Event Storming (Miro) | https://miro.com/app/board/uXjVGm-88A8=/ |
+| Sprint Backlog 1 (Jira) | https://upc-team-k20qr1ry.atlassian.net/jira/software/projects/CLEAN/boards/68/backlog |
+
+---
+
+### Anexo C: Videos del Producto
+
+| Recurso | Enlace |
+|---|---|
+| Video About-the-Product | — |
+
+---
+
+### Anexo D: Videos de Exposiciones
+
+| Entrega | Título | Enlace |
+|---|---|---|
+| TB1 | Exposición TB1 — Foundly | — |
+| TP | Exposición TP — Foundly | — |
+| TB2 | Exposición TB2 — Foundly | — |
+| TF | Exposición TF — Foundly | — |
+
