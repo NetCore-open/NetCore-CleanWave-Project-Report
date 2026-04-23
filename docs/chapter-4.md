@@ -268,3 +268,14 @@ La sesión se llevó a cabo de manera colaborativa utilizando la herramienta Luc
 
 ### 4.8.1. Database Diagrams.
 
+<img alt="logisticsdiagram" src="../images/dbdiagram1.png"/>
+
+<img alt="logisticsdiagram" src="../images/dbdiagram2.png"/>
+
+<img alt="logisticsdiagram" src="../images/dbdiagram3.png"/>
+
+<img alt="logisticsdiagram" src="../images/dbdiagram4.png"/>
+
+<img alt="logisticsdiagram" src="../images/dbdiagram5.png"/>
+
+<img alt="logisticsdiagram" src="../images/dbdiagram6.png"/>
