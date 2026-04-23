@@ -386,8 +386,37 @@ Enlace: [Enlace Sprint 1](https://upc-team-k20qr1ry.atlassian.net/jira/software/
 | **US19** | Demo del servicio | WI-19 | Implementar demo visual | Simular flujo del pedido (registro → proceso → entrega) | 5 | Jhoan Janampa Gutierrez | Done |
 | **US20** | Política de privacidad | WI-20 | Implementar sección legal | Agregar políticas y términos de uso | 2 | Jhoan Janampa Gutierrez | Done |
 
+#### 5.2.1.4. Development Evidence for Sprint Review
 
-#### 5.2.X.4. Development Evidence for Sprint Review
+A continuación presentaremos los commits realizados en el repositorio de nuestra Landing Page, todos estos commits se han hecho en la rama “main” durante el desarrollo de nuestro Sprint 1.
+
+## Git Commit History – NetCore-LandingPage
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed On (Date) |
+|:-----------|:-------|:----------|:---------------|:--------------------|:--------------------|
+| NetCore-LandingPage | main | e9c7a8c7d61c7e733a584432af5a25fdd02f775d | feat: implement smooth scroll and DOM interactions | Added smooth scrolling behavior and JavaScript DOM event handling | Apr 21, 2026 |
+| NetCore-LandingPage | main | 97d53eee124543db7fcbf953abe234b08e120407 | feat: adjust image and text grid for about section | Refined layout grid for the 'About Us' section images and text | Apr 21, 2026 |
+| NetCore-LandingPage | main | bcd0f18d9fb7b45ac2972d61bc322a1af95e34f9 | feat: add team information block | Created a new block to display team member details | Apr 21, 2026 |
+| NetCore-LandingPage | main | 2263d347d00df669fcb26aa4474ea9d0f12889fc | feat | General feature implementation and updates | Apr 21, 2026 |
+| NetCore-LandingPage | main | 976825500023eb767bb97a999fd45524324b78c3 | feat: create mock layout for live logistics dashboard | Initial design for the logistics tracking dashboard interface | Apr 21, 2026 |
+| NetCore-LandingPage | main | a5c1006695119b650e76030cb649ad83f3900789 | feat: design large buttons for role selection | Implemented high-visibility buttons for user role selection | Apr 21, 2026 |
+| NetCore-LandingPage | main | 9db716e5e0fb26ef44e603dfbda9613d0b837d00 | feat: add B2B and B2C roles division | Separated logic and views for B2B and B2C segments | Apr 21, 2026 |
+| NetCore-LandingPage | main | 9cba14f6b7ad666d3f79cef8967d52b6957e2244 | feat: design floating cards for services | Added CSS for floating card effects in the services section | Apr 21, 2026 |
+| NetCore-LandingPage | main | ce161bbface1d4799a6c8bee2707b95ccf2a92b5 | feat: mockup core services grid | Developed the main grid layout for primary service offerings | Apr 21, 2026 |
+| NetCore-LandingPage | main | 496946242a7a251264d4e85d2f815e2864a18260 | feat: design hero section typography and stats grid | Styled the hero typography and added the statistics grid | Apr 21, 2026 |
+| NetCore-LandingPage | main | 3b4d7de4469ec4ca64ebd76278dbda8bd9d4bd4a | feat: build main hero section with metrics | Integrated real-time or static metrics into the hero area | Apr 21, 2026 |
+| NetCore-LandingPage | main | ab88999e81b12c296315bda67b5ad9d7ea1fc81f | feat: apply fixed design and blur to navbar | Added sticky positioning and backdrop-blur filter to the navbar | Apr 21, 2026 |
+| NetCore-LandingPage | main | ab88999e81b12c296315bda67b5ad9d7ea1fc81f | feat: mockup top navigation bar | Initial mockup of the fixed top navigation menu | Apr 21, 2026 |
+| NetCore-LandingPage | main | af5020f9e58e846b5d7356bcf337c16d1525f1cc | feat: create reusable components (buttons and badges) | Built reusable button and badge components for the UI | Apr 21, 2026 |
+| NetCore-LandingPage | main | d59656cb7b76735c3397ec0a463e415bd234b92f | feat: add color palette, typography, and CSS reset | Defined global styles, variables, and typography rules | Apr 21, 2026 |
+| NetCore-LandingPage | main | 414901b4c9710534e0991b99edc18ca1171f2f9f | feat: create base HTML structure and link static files | Initialized index.html and linked CSS/JS assets | Apr 21, 2026 |
+| NetCore-LandingPage | main | 35bd7458f3ae0f246c79e418748a40ae2bb2bc9d | Resolve merge conflicts | Fixed synchronization issues during branch merging | Apr 21, 2026 |
+| NetCore-LandingPage | main | 35bd7458f3ae0f246c79e418748a40ae2bb2bc9d | feat: add color palette, typography, and CSS reset | Re-applied global style settings and design tokens | Apr 21, 2026 |
+| NetCore-LandingPage | main | 5480b53b30733e6beef387a4beae0f9e65fe395c | feat: create base HTML structure and link static file | Refined base structure and static linking | Apr 21, 2026 |
+| NetCore-LandingPage | main | 9db716e5e0fb26ef44e603dfbda9613d0b837d00 | Fix header formatting in README.md | Corrected Markdown syntax errors in the documentation | Apr 20, 2026 |
+| NetCore-LandingPage | main | 11f3c1c8a8651140f46fdc4207907ccf2bf2ca0d | Landing page | General updates and content polish for the main landing | Apr 20, 2026 |
+| NetCore-LandingPage | main | 34c4ee17f2eef2fd76ba92af5802ce91d5504658 | Initial commit | Project initialization and repository setup | Apr 17, 2026 |
+
 
 #### 5.2.X.5. Execution Evidence for Sprint Review
 
