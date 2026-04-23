@@ -185,6 +185,10 @@ Link: https://www.figma.com/design/z876Dy5cFZTavginMQPf2M/Sin-t%C3%ADtulo?node-i
   <img src="../images/LandingMockup3.png" alt="Mock-up 3" width="85%"/>
 </p>
 
+<p align="center">
+  <img src="../images/LandingMockup4.png" alt="Mock-up 4" width="85%"/>
+</p>
+
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
