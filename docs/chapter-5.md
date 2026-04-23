@@ -330,9 +330,62 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
 | Sprint 1 Velocity   | 20 Story Points                    |
 | Sum of Story Points | 38 Story Points                    |
 
-#### 5.2.X.2. Aspect Leaders and Collaborators
+#### 5.2.1.2. Aspect Leaders and Collaborators
 
-#### 5.2.X.3. Sprint Backlog n.
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los
+colaboradores para este Sprint 1 
+
+|Team Members (Last Name, First Name)|     GitHub Username     |   Landing Page   |
+|------------------------------------|-------------------------|------------------|
+| Miguel Angel Jara Espinoza |    MiguelJara2        |        C         |
+| Janampa Gutierrez Jhoan Darner        |      orraiAKBDFSK      |        L         |
+| Gabriel Marcelo Mendoza Palacios        |        GabrielMendoza18        |        C         |
+| Jorge Armando Laban Hijar |   jarlh19    |        C         |
+
+
+#### 5.2.1.3. Sprint Backlog n.
+
+El Sprint Backlog es el artefacto que recoge el conjunto de User Stories seleccionadas para el Sprint y las descompone en tareas o work-items concretos que el
+equipo de desarrollo debe realizar. A diferencia del Product Backlog, que contiene todas las funcionalidades priorizadas del producto, el Sprint Backlog se centra
+únicamente en los elementos comprometidos para un Sprint específico.
+
+En este caso, el Sprint Backlog 1 está orientado al desarrollo de la Landing Page de la plataforma CleanWave, incluyendo la implementación del hero, secciones de
+servicios, modales, páginas de rol, footer, asistente virtual y ajustes de responsividad.
+
+
+Enlace: [Enlace Sprint 1](https://upc-team-k20qr1ry.atlassian.net/jira/software/projects/CLEAN/boards/68/backlog?epics=visible&selectedIssue=CLEAN-16) 
+
+
+<div align="center"> <img src="../images/Sprint1.png" alt="Sprint 1 Board Screenshot" width="100%"> <p><em>Figura: Sprint 1</em>
+</p> </div>
+
+
+
+## Sprint Backlog – Sprint 1
+
+| ID US | Título User Story | ID WI | Título Work-Item | Descripción | Est. (Hrs) | Asignado a | Estado |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
+| **US01** | Menú de navegación | WI-01 | Implementar navbar | Crear barra de navegación con enlaces a Inicio, Beneficios, Planes y Contacto | 3 | Jhoan Janampa Gutierrez | Done |
+| **US02** | Visualización de planes | WI-02 | Implementar sección de planes | Mostrar planes con precio, características y botón de acción | 4 | Jhoan Janampa Gutierrez | Done |
+| **US03** | Selección de plan | WI-03 | Implementar selección de plan | Permitir seleccionar un plan y redirigir al registro | 3 | Jhoan Janampa Gutierrez | Done |
+| **US04** | Propuesta de valor | WI-04 | Implementar sección hero | Crear sección principal con título, descripción y botones CTA | 4 | Jhoan Janampa Gutierrez | Done |
+| **US05** | Cómo funciona | WI-05 | Implementar sección “Cómo funciona” | Mostrar flujo del servicio en pasos (registro, proceso, entrega) | 4 | Jhoan Janampa Gutierrez | Done |
+| **US06** | Beneficios | WI-06 | Implementar sección beneficios | Mostrar beneficios para lavanderías y clientes | 3 | Jhoan Janampa Gutierrez | Done |
+| **US07** | Testimonios | WI-07 | Implementar testimonios | Crear sección con opiniones simuladas de usuarios | 3 | Jhoan Janampa Gutierrez | Done |
+| **US08** | Formulario de contacto | WI-08 | Implementar formulario | Crear formulario con validación y confirmación | 5 | Jhoan Janampa Gutierrez | Done |
+| **US09** | Información de contacto | WI-09 | Implementar sección contacto | Mostrar correo, teléfono y ubicación | 2 | Jhoan Janampa Gutierrez | Done |
+| **US10** | Sección “Nosotros” | WI-10 | Implementar sección empresa | Mostrar información de la startup | 3 | Jhoan Janampa Gutierrez | Done |
+| **US11** | Preguntas frecuentes | WI-11 | Implementar FAQ | Crear lista de preguntas y respuestas | 3 | Jhoan Janampa Gutierrez | Done |
+| **US12** | Redes sociales | WI-12 | Implementar redes sociales | Agregar enlaces a redes sociales | 2 | Jhoan Janampa Gutierrez | Done |
+| **US13** | Footer | WI-13 | Implementar footer | Agregar enlaces legales y contacto | 3 | Jhoan Janampa Gutierrez | Done |
+| **US14** | Responsividad | WI-14 | Adaptar diseño responsive | Ajustar diseño a móvil, tablet y desktop | 6 | Jhoan Janampa Gutierrez | Done |
+| **US15** | CTA principal | WI-15 | Implementar botones CTA | Crear botones de acción para registro y contacto | 2 | Jhoan Janampa Gutierrez | Done |
+| **US16** | Sección cobertura | WI-16 | Implementar cobertura | Mostrar zonas donde opera el servicio | 3 | Jhoan Janampa Gutierrez | Done |
+| **US17** | Beneficios lavandería | WI-17 | Implementar beneficios B2B | Mostrar beneficios para negocios | 3 | Jhoan Janampa Gutierrez | Done |
+| **US18** | Beneficios usuario | WI-18 | Implementar beneficios cliente | Mostrar beneficios para usuarios finales | 3 | Jhoan Janampa Gutierrez | Done |
+| **US19** | Demo del servicio | WI-19 | Implementar demo visual | Simular flujo del pedido (registro → proceso → entrega) | 5 | Jhoan Janampa Gutierrez | Done |
+| **US20** | Política de privacidad | WI-20 | Implementar sección legal | Agregar políticas y términos de uso | 2 | Jhoan Janampa Gutierrez | Done |
+
 
 #### 5.2.X.4. Development Evidence for Sprint Review
 
