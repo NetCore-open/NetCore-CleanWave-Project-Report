@@ -131,8 +131,6 @@
 
 ### 2.2.1. Diseño de entrevistas
 
-### 2.2.1. Diseño de entrevistas
-
 <h4 id="Segment">Segmento objetivo: Dueños y administradores de lavanderías</h4> 
 
 <h4 id="PreguntPersonal">Preguntas Personales:</h4> 
@@ -222,7 +220,7 @@
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>- </td>
+    <td>Del Carmen</td>
   </tr>
   <tr>
     <td>Edad</td>
@@ -238,14 +236,14 @@
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title"></p></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416908_upc_edu_pe/IQCO56Ai47_pS694zMw-m0kKAQgynVAr787B5dfQfAieBnc?e=LgVhlz" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416908_upc_edu_pe/IQCO56Ai47_pS694zMw-m0kKAQgynVAr787B5dfQfAieBnc?e=LgVhlz</a></td>
   </tr>
     <td>Timing donde inicia la entrevista<br></td>
     <td>00:00 min</td>
   </tr>
   <tr>
     <td>Duración de la entrevista<br></td>
-    <td>00:00 min</td>
+    <td>02:52 min</td>
   <tr>
     <td>Resumen</td>
     <td> Mencionó que le frustra mucho desplazarse hasta el local y descubrir que su ropa aún no está lista. Prefiere un sistema que le permita verificar el estado real de su pedido desde el celular para evitar viajes en vano.
@@ -288,14 +286,14 @@
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title"></p></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416908_upc_edu_pe/IQCO56Ai47_pS694zMw-m0kKAQgynVAr787B5dfQfAieBnc?e=LgVhlz" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416908_upc_edu_pe/IQCO56Ai47_pS694zMw-m0kKAQgynVAr787B5dfQfAieBnc?e=LgVhlz</a></td>
   </tr>
     <td>Timing donde inicia la entrevista<br></td>
-    <td>00:00 min</td>
+    <td>02:53 min</td>
   </tr>
   <tr>
     <td>Duración de la entrevista<br></td>
-    <td>00:00 min</td>
+    <td>04:57 min</td>
   <tr>
     <td>Resumen</td>
     <td>
@@ -340,14 +338,14 @@
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title"></p></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416908_upc_edu_pe/IQCO56Ai47_pS694zMw-m0kKAQgynVAr787B5dfQfAieBnc?e=LgVhlz" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416908_upc_edu_pe/IQCO56Ai47_pS694zMw-m0kKAQgynVAr787B5dfQfAieBnc?e=LgVhlz</a></td>
   </tr>
     <td>Timing donde inicia la entrevista<br></td>
-    <td>00:00 min</td>
+    <td>04:58 min</td>
   </tr>
   <tr>
     <td>Duración de la entrevista<br></td>
-    <td>00:00 min</td>
+    <td>09:27 min</td>
   <tr>
     <td>Resumen</td>
     <td>
@@ -391,14 +389,14 @@
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title"></p></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416908_upc_edu_pe/IQCO56Ai47_pS694zMw-m0kKAQgynVAr787B5dfQfAieBnc?e=LgVhlz" target="_blank">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416908_upc_edu_pe/IQCO56Ai47_pS694zMw-m0kKAQgynVAr787B5dfQfAieBnc?e=LgVhlz</a></td>
   </tr>
     <td>Timing donde inicia la entrevista<br></td>
-    <td>00:00 min</td>
+    <td>09:28 min</td>
   </tr>
   <tr>
     <td>Duración de la entrevista<br></td>
-    <td>00:00 min</td>
+    <td>11:59 min</td>
   <tr>
     <td>Resumen</td>
     <td>
