@@ -193,6 +193,13 @@ Link: https://www.figma.com/design/z876Dy5cFZTavginMQPf2M/Sin-t%C3%ADtulo?node-i
 
 ### 4.4.1. Web Applications Wireframes
 
+<img alt="Design-Level Event Storming 1" src="../images/perfilCliente.JPG"/>
+<img alt="Design-Level Event Storming 1" src="../images/perfilLavanderia.JPG"/>
+<img alt="Design-Level Event Storming 1" src="../images/loginCleanwave.JPG"/>
+<img alt="Design-Level Event Storming 1" src="../images/citaLavanderia.JPG"/>
+<img alt="Design-Level Event Storming 1" src="../images/pagoServicioLavanderia.JPG"/>
+<img alt="Design-Level Event Storming 1" src="../images/calificacionLavanderia.JPG"/>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.2. Web Applications Mock-ups
