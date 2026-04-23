@@ -62,31 +62,6 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
     </td>
   </tr>
 
-  <tr>
-    <td width="140" valign="top" align="center">
-      <img src="../images/" alt=" Photo" width="120" />
-    </td>
-    <td valign="top">
-      <strong></strong> -<br><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="140" valign="top" align="center">
-      <img src="../images/" alt="Photo" width="120" />
-    </td>
-    <td valign="top">
-      <strong></strong> - Ingeniería<br><br>
-    </td>
-  </tr>
-<tr>
-    <td width="140" valign="top" align="center">
-      <img src="../images" alt="Photo" width="120" />
-    </td>
-    <td valign="top">
-      <strong></strong> - Ingeniería <br><br>
-    </td>
-  </tr>  
 </table>
 
 
