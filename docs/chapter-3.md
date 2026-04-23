@@ -784,8 +784,8 @@ En esta sección se presenta el Product Backlog priorizado, el cual contiene las
 A continuación, se muestra la gestión del backlog en la herramienta Jira Software, evidenciando la priorización y estimación de las historias.
 
 <div align="center">
-  <img src="../images/Product Backlog.png" alt="Evidence Product Backlog Jira" width="90%">
+  <img src="../images/backlog.png" alt="Evidence Product Backlog Jira" width="90%">
   <p><em>Figura: Captura del Product Backlog en Jira Software.</em></p>
 </div>
 
-**Enlace al Product Backlog:** 
+**Enlace al Product Backlog:**: https://upc-team-k20qr1ry.atlassian.net/jira/software/projects/CLEAN/boards/68/backlog 
