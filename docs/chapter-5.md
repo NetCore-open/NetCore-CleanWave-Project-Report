@@ -472,12 +472,3 @@ Las imágenes evidencian la participación de los 4 integrantes del equipo en el
 
 La distribución de commits confirma que todos los integrantes tuvieron participación en el Sprint 1, con una diferencia máxima de 16 commits entre el miembro más activo y el menos activo, lo que evidencia un trabajo colaborativo a lo largo del sprint.
 
-## 5.3. Validation Interviews
-
-### 5.3.1. Diseño de Entrevistas
-
-### 5.3.2. Registro de Entrevistas
-
-### 5.3.3. Evaluaciones según heurísticas
-
-## 5.4. Video About-the-Product
