@@ -54,14 +54,38 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
 
   <tr>
     <td width="140" valign="top" align="center">
-      <img src="../images/fotogabriel.png" alt="Gabriel Photo" width="120" />
+      <img src="../images/" alt=" " width="120" />
     </td>
     <td valign="top">
-      <strong>Gabriel Marcelo Mendoza Palacios - (U202416908)</strong> - Ingeniería de Software<br><br>
-      Soy estudiante de Ingeniería de Software con interes en seguir desarrollando mis habilidades de manera constante. Suelo trabajar de forma ordenada y cumplir con mis responsabilidades, aportando en entornos colaborativos. Tengo conocimientos en C++ y Python, que utilizo para resolver problemas y entender mejor el desarrollo de software. Busco seguir aprendiendo a través de nuevos retos y experiencias que me permitan crecer tanto a nivel académico como profesional.
+      <strong></strong> - Ingeniería <br><br>
     </td>
   </tr>
 
+  <tr>
+    <td width="140" valign="top" align="center">
+      <img src="../images/" alt=" Photo" width="120" />
+    </td>
+    <td valign="top">
+      <strong></strong> -<br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="140" valign="top" align="center">
+      <img src="../images/" alt="Photo" width="120" />
+    </td>
+    <td valign="top">
+      <strong></strong> - Ingeniería<br><br>
+    </td>
+  </tr>
+<tr>
+    <td width="140" valign="top" align="center">
+      <img src="../images" alt="Photo" width="120" />
+    </td>
+    <td valign="top">
+      <strong></strong> - Ingeniería <br><br>
+    </td>
+  </tr>  
 </table>
 
 
