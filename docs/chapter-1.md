@@ -61,30 +61,13 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
       Soy estudiante de Ingeniería de Software con interes en seguir desarrollando mis habilidades de manera constante. Suelo trabajar de forma ordenada y cumplir con mis responsabilidades, aportando en entornos colaborativos. Tengo conocimientos en C++ y Python, que utilizo para resolver problemas y entender mejor el desarrollo de software. Busco seguir aprendiendo a través de nuevos retos y experiencias que me permitan crecer tanto a nivel académico como profesional.
     </td>
   </tr>
-
-  <tr>
-    <td width="140" valign="top" align="center">
-      <img src="../images/" alt=" Photo" width="120" />
-    </td>
-    <td valign="top">
-      <strong></strong> -<br><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="140" valign="top" align="center">
-      <img src="../images/" alt="Photo" width="120" />
-    </td>
-    <td valign="top">
-      <strong></strong> - Ingeniería<br><br>
-    </td>
-  </tr>
 <tr>
     <td width="140" valign="top" align="center">
-      <img src="../images" alt="Photo" width="120" />
+      <img src="../images/jorgelh.png" alt="Gabriel Photo" width="120" />
     </td>
     <td valign="top">
-      <strong></strong> - Ingeniería <br><br>
+      <strong>Jorge Laban Hijar - (U201616054)</strong> - Ingeniería de Software<br><br>
+      Soy estudiante de Ingeniería de Software con interes en seguir desarrollando mis habilidades de manera constante. He desarrollado una gran pasión por la tecnología y el desarrollo de software. Me interesa mucho cómo la tecnología puede resolver problemas complejos y mejorar la vida de las personas, y siempre busco aprender y actualizarme en las últimas tendencias del sector.
     </td>
   </tr>  
 </table>
