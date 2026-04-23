@@ -420,9 +420,33 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 #### 5.2.X.5. Execution Evidence for Sprint Review
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
+Lo que se logró en el Sprint 1 es desplegar una primera versión de la landing page. En esta logramos desarrollar la barra navegadora, las secciones establecidas
+de la Landing Page y el formulario de contacto. También se adoptó exitosamente la metodología GitFlow, trabajando en la branch principal “main”.
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
+![Inicio](../images/landing.1.png)
+![Que Ofrecemos](../images/landing.2.png)
+![Somos Cloud](../images/landing.3.png)
+![iot](../images/landing.4.png)
+![Labs](../images/landing.5.png)
+![Planes](../images/landing.6.png)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante el desarrollo del Sprint 1, logramos avances significativos en la creación y configuración del repositorio del proyecto destinado a la Landing Page. Contar con esta base desde el inicio facilitó la organización del trabajo y la estructuración de las ideas del equipo.
+
+En la siguiente etapa, optamos por aprovechar las herramientas colaborativas de GitHub, lo que permitió mejorar la coordinación entre los integrantes. Gracias a esto, se consiguió una implementación fluida y ordenada. Asimismo, al brindar acceso al repositorio a todo el equipo y centralizar el trabajo en la rama principal, los commits se realizaron de manera rápida y sin inconvenientes, permitiendo que cada miembro pudiera visualizar los cambios y el progreso de forma constante.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+A continuación, detallaremos los procesos realizados a lo largo del Sprint 1: Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro
+Landing Page.
+![Repositorio Landing Page](../images/Landing%20page.png)
+
+Finalmente configuramos GitHub Pages para obtener un enlace directo a la Landing Page, facilitando la revisión continua de los cambios realizados.
+Link: https://netcore-open.github.io/NetCore-LandingPage/ 
+![GitHub Pages](../images/)
+
+
 
 #### 5.2.X.8. Team Collaboration Insights during Sprint
 
