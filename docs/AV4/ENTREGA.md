@@ -1,5 +1,5 @@
-<div align="center">
-<img src="../NetCore-CleanWave-Project-Report/images/UPC.png" alt="Logo-UPC" width="150">
+
+![Logo-UPC](/images/UPC.png)
 
 ## Universidad Peruana de Ciencias Aplicadas
 
@@ -73,7 +73,8 @@ Durante esta fase, el equipo elaboró el **informe inicial**, que incluyó los s
 
 A continuación se presenta la captura de los analíticos de colaboración y commits en GitHub para este entregable:
 
-![Project Report Collaboration Insights TB1](../NetCore-CleanWave-Project-Report/images/colaboracionAV1.png)
+![Project Report Collaboration Insights TB1](/images/colaboracionAV1.png)
+
 
 | Integrante | Usuario GitHub | Commits | Adiciones | Eliminaciones |
 |---|---|---|---|---|
@@ -234,13 +235,13 @@ Desarrollar soluciones tecnológicas innovadoras, accesibles y eficientes que pe
 Convertirnos en la plataforma líder de digitalización para lavanderías en Latinoamérica, impulsando la transformación tecnológica de negocios tradicionales mediante automatización logística y experiencias digitales centradas en el usuario.
 
 #### 1.1.2. Perfiles de integrantes del equipo
-
+ 
 <div style="page-break-after: always;"></div>
 
 <table border="1" width="100%">
   <tr>
     <td width="140" valign="top" align="center">
-      <img src="../images/Jhoan_janampa.jpg" alt=" Jhoan Photo" width="120" />
+  <img src="/images/Jhoan_janampa.jpg" alt="Jhoan Photo" width="120">
     </td>
     <td valign="top">
       <strong>Jhoan Darner Janampa Gutierrez - (U202323319)</strong> - Ingeniería de Software<br><br>
@@ -428,7 +429,7 @@ reciben notificaciones automáticas sobre el estado de su servicio,
 mediante un sistema de alertas integrado.
 
 ##### 1.2.2.4. Lean UX Canvas
-<img src="../images/Lean Canvas.png" alt="Lean UX Canvas" width="auto" height="550"/>
+![Lean UX Canvas](/images/Lean%20Canvas.png)
 
 ### 1.3. Segmentos objetivo
 
@@ -881,22 +882,19 @@ En esta sección se presenta el análisis detallado de la información recolecta
 
 El análisis revela una digitalización precaria en la gestión operativa. Como se observa en el gráfico, el 100% de los administradores utiliza cuadernos para registrar pedidos, mientras que solo un 40% emplea computadoras, principalmente para la emisión de boletas. Asimismo, el 0% cuenta con un sistema digital integrado, evidenciando una fuerte dependencia de procesos manuales.
 
-<div align="center"><img src="../images/pastel-dueños.png" alt="Gráfico Estadístico Administradores" width="80%"></div>
-<br>
+![Gráfico Estadístico Administradores](/images/pastel-dueños.png)
 
 #### Segmento 2: Usuarios de servicios de lavandería
 
 Los datos confirman una experiencia actual ineficiente y poco transparente. El 100% de los usuarios debe acudir presencialmente para verificar el estado de su pedido, y el 100% reporta haber encontrado su ropa no lista al llegar, lo que evidencia una falta total de comunicación efectiva. Además, el 75% ha perdido tiempo en desplazamientos innecesarios.
 
-<div align="center"><img src="../images/pastel-usuarios.png" alt="Gráfico Estadístico Familiares" width="80%"></div>
-<br>
+![Gráfico Estadístico Familiares](/images/pastel-usuarios.png)
 
 #### Análisis Comparativo
 
 Al comparar ambos grupos, se identifican coincidencias clave para el desarrollo de la solución. Tanto administradores como usuarios presentan un 100% de necesidad de digitalización y mejora en la comunicación, evidenciando una oportunidad clara para la implementación de una plataforma tecnológica.
 
-<div align="center"><img src="../images/barras-segmentos.png" alt="Gráfico Comparativo Segmentos" width="80%"></div>
-<br>
+![Gráfico Estadístico Familiares](/images/barras-segmentos.png)
 
 ### Conclusiones y Definición de Arquetipos
 
@@ -917,7 +915,7 @@ Para este segmento se elaboró el User Persona Carlos Ramírez Huamán, propieta
 Carlos tiene 42 años y gestiona su negocio de manera tradicional, utilizando cuadernos para registrar pedidos y apoyándose ocasionalmente en herramientas básicas como Excel o aplicaciones de mensajería. Su principal objetivo es mantener el control de su operación diaria, asegurar la entrega oportuna de prendas y evitar errores que afecten la confianza de sus clientes.
 
 
-<img src="../images/Carlos Ramírez Huamán perso.png" alt="User Persona 1" width="auto" height="1900"/>
+![User Persona 1](/images/Carlos%20Ramírez%20Huamán%20perso.png)
 
 <br>
 
@@ -928,7 +926,7 @@ Para este segmento se elaboró el User Persona Andrea López García, profesiona
 Andrea tiene 27 años, trabaja a tiempo completo y cuenta con poco tiempo disponible para realizar actividades domésticas. Por ello, recurre a servicios de lavandería como una solución práctica que le permita optimizar su tiempo.
 
 
-<img src="../images/Andrea López García perso.png" alt="User Persona 2" width="auto" height="1900"/>
+![User persona 2](/images/Andrea%20López%20García%20perso.png)
 
 <br>
 
@@ -1003,8 +1001,7 @@ El User Journey Mapping de Carlos representa el recorrido actual que experimenta
 En la situación As-Is, Carlos enfrenta un flujo de trabajo predominantemente manual y poco estructurado: registra pedidos en cuadernos, organiza las prendas de forma empírica y coordina entregas mediante llamadas o mensajes informales. Esta dinámica genera desorden operativo, pérdida de información, errores en los pedidos y dificultades para dar seguimiento al estado de cada servicio.
 
 El Journey busca evidenciar los puntos críticos de su experiencia actual, identificando las tareas, emociones, fricciones y oportunidades de mejora a lo largo de cada etapa del proceso (Recepción de prendas, Registro de pedidos, Procesamiento, Coordinación logística, Entrega y Seguimiento).
-
-<img src="../images/Customer journey map 1 carlos.png" alt="Journey Map Segmento 1" width="auto" height="450"/>
+![Journey map 1](/images/Customer%20journey%20map%201%20carlos.png)
 
 <br>
 
@@ -1018,7 +1015,7 @@ Durante su recorrido, Andrea enfrenta múltiples fricciones, como la necesidad d
 
 El Journey busca identificar las emociones, expectativas y dificultades presentes en cada etapa del proceso (Necesidad del servicio, Entrega de prendas, Espera, Consulta del estado, Recojo del pedido y Post-servicio).
 
-<img src="../images/Customer journey map  andrea.png" alt="Journey Map Segmento 2" width="auto" height="450"/>
+![Map 2](/images/Customer%20journey%20map%20%20andrea.png)
 
 <br>
 
@@ -1028,11 +1025,11 @@ Para la elaboración de los *Empathy Maps*, el equipo partió del conocimiento y
 
 **Segmento 1: Administrador**
 
-<img src="../images/Carlos Ramírez Huamán empathy map.png" alt="Empathy Mapping 1" width="auto" height="1400"/>
+![Empathy Mapping1](/images/Carlos%20Ramírez%20Huamán%20empathy%20map.png)
 
 **Segmento 2: Usuario de lavandería**
 
-<img src="../images/Andrea López García map.png" alt="Empathy Mapping 2" width="auto" height="1400"/>
+![Empaty map](/images/Andrea%20López%20García%20map.png)
 
 ## 2.4. Big Picture Event Storming
 
@@ -1040,14 +1037,14 @@ Para la elaboración de los *Empathy Maps*, el equipo partió del conocimiento y
 
 En esta primera etapa, el equipo realizó una sesión de lluvia de ideas con el objetivo de identificar todos los eventos relevantes dentro del dominio del servicio de lavanderías. Durante esta actividad, se buscó capturar los acontecimientos reales que ocurren en la operación diaria del negocio, sin establecer un orden específico ni una jerarquía entre ellos.
 
-<img src="../images/Event Storming.jpg" alt="bigpicture" style="width:1000px;">
+![Event Storming](/images/Event%20Storming.jpg)
 
 **Step 2 – Structured Organization**
 
 Después de listar los eventos, el equipo los organizó en flujos de negocio lógicos que reflejan las principales etapas en la operación de una casa de reposo.
 Esta estructura ayudó a identificar los procesos clave y las áreas de mejora que posteriormente podrían abordarse mediante soluciones digitales o de gestión.
 
-<img src="../images/Event_Storming_2.jpg" alt="bigpicture" style="width:1000px;">
+![Storming](/images/Event_Storming_2.jpg)
 
 ## 2.5. Ubiquitous Language
 
@@ -1781,7 +1778,7 @@ A partir de esta meta se incorporaron como Actors/Personas a los User Personas p
 
 A partir de estos impactos se definieron los Deliverables que el sistema digital debe ofrecer para provocar dichos cambios en el comportamiento de los actores. Entre ellos se incluyen el módulo de gestión de pedidos (registro, edición, control de estados y prendas), el sistema digital centralizado para el control operativo, el panel de control en tiempo real con métricas clave, el módulo de logística con optimización de rutas mediante inteligencia artificial, y el sistema de notificaciones automáticas. Para el cliente final, se plantean el sistema de seguimiento en tiempo real del pedido, el servicio de recojo y entrega, y el módulo de comunicación directa entre cliente y lavandería.
 
-<img src="../images/impact map (1).png" alt="Impact map 1" style="width: 90%; height: auto;">
+![Impact map](/images/impact%20map%20(1).png)
 
 ## 3.3. Product Backlog
 
@@ -1839,10 +1836,9 @@ En esta sección se presenta el Product Backlog priorizado, el cual contiene las
 
 A continuación, se muestra la gestión del backlog en la herramienta Jira Software, evidenciando la priorización y estimación de las historias.
 
-<div align="center">
-  <img src="../images/backlog.png" alt="Evidence Product Backlog Jira" width="90%">
+  ![backlog](/images/backlog.png)  
   <p><em>Figura: Captura del Product Backlog en Jira Software.</em></p>
-</div>
+
 
 **Enlace al Product Backlog:**: https://upc-team-k20qr1ry.atlassian.net/jira/software/projects/CLEAN/boards/68/backlog 
 # Capítulo IV: Product Design
@@ -1855,9 +1851,7 @@ En esta sección, presentaremos nuestro plan para el diseño, estilo y aparienci
 
 **Branding:** Para la creación del logo de nuestro producto CleanWave, se ha optado por un diseño moderno y minimalista que refleje limpieza, tecnología y eficiencia. El logotipo se compone de una tipografía sans-serif elegante, acompañada de un isotipo que simboliza la fluidez del agua y la conectividad digital (IA). Los colores utilizados son profesionales y equilibrados, reforzando la imagen de una plataforma SaaS robusta y confiable para la gestión de lavanderías.
 
-<p align="center">
-  <img src="../images/logo.png" alt="Logo de CleanWave" width="40%"/>
-</p>
+![](/images/logo.png)
 
 **Tono de Comunicación:**
 - **Confiable y Profesional:** Para transmitir seguridad a los dueños de lavanderías sobre el manejo de su negocio.
@@ -1883,13 +1877,9 @@ En esta sección, presentaremos nuestro plan para el diseño, estilo y aparienci
 | Azul Detalle | #4A5FAB | Iconografía y componentes de apoyo. |
 | Fondo | #FFFDFE | Fondo general de la aplicación y paneles de datos. |
 
-<p align="center">
-  <img src="../images/paleta-colores.png" alt="Paleta Colores" width="50%"/>
-</p>
+![Colores](/images/paleta-colores.png)
 
-<p align="center">
-  <img src="../images/paleta-colores-muestra.png" alt="Paleta Muestra" width="0%"/>
-</p>
+![](/images/paleta-colores-muestra.png)
 
 **Espaciado y Distribución:** El espaciado en CleanWave es fundamental para transmitir orden y pulcritud, reflejando la esencia de nuestro servicio de lavandería. Se ha diseñado una estructura con márgenes amplios entre cada elemento para que la gestión de pedidos y el seguimiento de prendas sean visualmente ligeros y fáciles de entender. Utilizaremos medidas proporcionales en toda la interfaz para asegurar que el diseño se vea organizado, equilibrado y profesional en cualquier pantalla.
 
@@ -2003,49 +1993,32 @@ En esta sección se detalla el diseño de la interfaz de usuario (UI) para la p�
 
 ### 4.3.1. Landing Page Wireframe
 
-<p align="center">
-  <img src="../images/LandingWireframe1.png" alt="Wireframe 1" width="85%"/>
-</p>
+![wireframes](/images/LandingWireframe1.png)
 
-<p align="center">
-  <img src="../images/LandingWireframe2.png" alt="Wireframe 2" width="85%"/>
-</p>
+![](/images/LandingWireframe2.png)
 
-<p align="center">
-  <img src="../images/LandingWireframe3.png" alt="Wireframe 3" width="85%"/>
-</p>
+![](/images/LandingWireframe3.png)
 
 Link: https://www.figma.com/design/z876Dy5cFZTavginMQPf2M/Sin-t%C3%ADtulo?node-id=0-1&t=vy9WcvpvE5uXP9R8-1
 
 
 ### 4.3.2. Landing Page Mock-up
 
-<p align="center">
-  <img src="../images/LandingMockup1.png" alt="Mock-up 1" width="85%"/>
-</p>
-
-<p align="center">
-  <img src="../images/LandingMockup2.png" alt="Mock-up 2" width="85%"/>
-</p>
-
-<p align="center">
-  <img src="../images/LandingMockup3.png" alt="Mock-up 3" width="85%"/>
-</p>
-
-<p align="center">
-  <img src="../images/LandingMockup4.png" alt="Mock-up 4" width="85%"/>
-</p>
+![Mock-up 1](/images/LandingMockup1.png)
+![Mock-up 2](/images/LandingMockup2.png)
+![Mock-up 3](/images/LandingMockup3.png)
+![Mock-up 4](/images/LandingMockup4.png)
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
-<img alt="Design-Level Event Storming 1" src="../images/perfilCliente.JPG"/>
-<img alt="Design-Level Event Storming 1" src="../images/perfilLavanderia.JPG"/>
-<img alt="Design-Level Event Storming 1" src="../images/loginCleanwave.JPG"/>
-<img alt="Design-Level Event Storming 1" src="../images/citaLavanderia.JPG"/>
-<img alt="Design-Level Event Storming 1" src="../images/pagoServicioLavanderia.JPG"/>
-<img alt="Design-Level Event Storming 1" src="../images/calificacionLavanderia.JPG"/>
+![Design-Level Event Storming 1](/images/perfilCliente.JPG)
+![Design-Level Event Storming 1](/images/perfilLavanderia.JPG)
+![Design-Level Event Storming 1](/images/loginCleanwave.JPG)
+![Design-Level Event Storming 1](/images/citaLavanderia.JPG)
+![Design-Level Event Storming 1](/images/pagoServicioLavanderia.JPG)
+![Design-Level Event Storming 1](/images/calificacionLavanderia.JPG)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -2072,60 +2045,46 @@ La sesión se llevó a cabo de manera colaborativa utilizando la herramienta Luc
 4. Delimitación de Bounded Contexts
 5. Integración de Sistemas Externos y Queries
 
-<img alt="Design-Level Event Storming 1" src="../images/Boundedc1.png"/>
-<img alt="Design-Level Event Storming 2" src="../images/Boundedc2.png"/>
-<img alt="Design-Level Event Storming 3" src="../images/Boundedc3.png"/>
-<img alt="Design-Level Event Storming 4" src="../images/Boundedc4.png"/>
-<img alt="Design-Level Event Storming 5" src="../images/Boundedc5.png"/>
-<img alt="Design-Level Event Storming 5" src="../images/Boundedc6.png"/>
+![Design-Level Event Storming 1](/images/Boundedc1.png)
+![Design-Level Event Storming 2](/images/Boundedc2.png)
+![Design-Level Event Storming 3](/images/Boundedc3.png)
+![Design-Level Event Storming 4](/images/Boundedc4.png)
+![Design-Level Event Storming 5](/images/Boundedc5.png)
+![Design-Level Event Storming 6](/images/Boundedc6.png)
 
 ### 4.6.2. Software Architecture Context Diagram
-<img alt="Context diagram" src="../images/contextdiagram2.png"/>
-
+![Context diagram](/images/contextdiagram2.png)
 ### 4.6.3. Software Architecture Container Diagrams
 
-<img alt="containerdiagram" src="../images/containerdiagram1.png"/>
-
+![containerdiagram](/images/containerdiagram1.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-<img alt="componentdiagram" src="../images/componentdiagram1.png"/>
-
-<img alt="componentdiagram" src="../images/componentfrontend.png"/>
+![componentdiagram](/images/componentdiagram1.png)
+![componentdiagram](/images/componentfrontend.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
-<img alt="frontenddiagram" src="../images/frontendboundedobject.png"/>
-
-<img alt="accessdiagram" src="../images/accessbounded.png"/>
-
-<img alt="businessdiagram" src="../images/businessbounded.png"/>
-
-<img alt="customerdiagram" src="../images/customerexpbounded.png"/>
-
-<img alt="laundrydiagram" src="../images/laundryorderbounded.png"/>
-
-<img alt="logisticsdiagram" src="../images/logisticsbounded.png"/>
-
-<img alt="suscripciondiagram" src="../images/suscripcionbounded.png"/>
+![frontenddiagram](/images/frontendboundedobject.png)
+![accessdiagram](/images/accessbounded.png)
+![businessdiagram](/images/businessbounded.png)
+![customerdiagram](/images/customerexpbounded.png)
+![laundrydiagram](/images/laundryorderbounded.png)
+![logisticsdiagram](/images/logisticsbounded.png)
+![suscripciondiagram](/images/suscripcionbounded.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams.
 
-<img alt="logisticsdiagram" src="../images/dbdiagram1.png"/>
-
-<img alt="logisticsdiagram" src="../images/dbdiagram2.png"/>
-
-<img alt="logisticsdiagram" src="../images/dbdiagram3.png"/>
-
-<img alt="logisticsdiagram" src="../images/dbdiagram4.png"/>
-
-<img alt="logisticsdiagram" src="../images/dbdiagram5.png"/>
-
-<img alt="logisticsdiagram" src="../images/dbdiagram6.png"/>
+![logisticsdiagram](/images/dbdiagram1.png)
+![logisticsdiagram](/images/dbdiagram2.png)
+![logisticsdiagram](/images/dbdiagram3.png)
+![logisticsdiagram](/images/dbdiagram4.png)
+![logisticsdiagram](/images/dbdiagram5.png)
+![logisticsdiagram](/images/dbdiagram6.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2143,13 +2102,13 @@ Para administrar el progreso del código, optamos por una estrategia más simple
 
 Enlace de la Landing Page en GitHub Pages: 
 
-<div align="center"> <img src="../images/Landing net.png" alt="Sprint 1 Board Screenshot" width="100%"> <p><em>Figura: Repositorio Landing Page</em>
-</p> </div>
+![Sprint 1 Board Screenshot](/images/Landing%20net.png)
+*Figura: Repositorio Landing Page*
 
 Repositorio Github de la Landing Page:
 
-<div align="center"> <img src="../images/Landing page.png" alt="Sprint 1 Board Screenshot" width="100%"> <p><em>Figura: Repositorio Landing Page</em>
-</p> </div>
+![Sprint 1 Board Screenshot](/images/Landing%20page.png)
+*Figura: Repositorio Landing Page*
 
 
 ### 5.1.3. Source Code Style Guide & Conventions
@@ -2485,8 +2444,8 @@ servicios, modales, páginas de rol, footer, asistente virtual y ajustes de resp
 Enlace: [Enlace Sprint 1](https://upc-team-k20qr1ry.atlassian.net/jira/software/projects/CLEAN/boards/68/backlog?epics=visible&selectedIssue=CLEAN-16) 
 
 
-<div align="center"> <img src="../images/Sprint1.png" alt="Sprint 1 Board Screenshot" width="100%"> <p><em>Figura: Sprint 1</em>
-</p> </div>
+![Sprint 1 Board Screenshot](/images/Sprint1.png)
+*Figura: Sprint 1*
 
 
 
@@ -2552,12 +2511,12 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 Lo que se logró en el Sprint 1 es desplegar una primera versión de la landing page. En esta logramos desarrollar la barra navegadora, las secciones establecidas
 de la Landing Page y el formulario de contacto. También se adoptó exitosamente la metodología GitFlow, trabajando en la branch principal “main”.
 
-![Inicio](../images/landing.1.png)
-![Que Ofrecemos](../images/landing.2.png)
-![Somos Cloud](../images/landing.3.png)
-![iot](../images/landing.4.png)
-![Labs](../images/landing.5.png)
-![Planes](../images/landing.6.png)
+![Inicio](/images/landing.1.png)
+![Que Ofrecemos](/images/landing.2.png)
+![Somos Cloud](/images/landing.3.png)
+![iot](/images/landing.4.png)
+![Labs](/images/landing.5.png)
+![Planes](/images/landing.6.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2569,11 +2528,11 @@ En la siguiente etapa, optamos por aprovechar las herramientas colaborativas de 
 
 A continuación, detallaremos los procesos realizados a lo largo del Sprint 1: Lo primero que realizamos fue crear dos repositorios en GitHub, uno para nuestro
 Landing Page.
-![Repositorio Landing Page](../images/Landing%20page.png)
+![Repositorio Landing Page](/images/Landing%20page.png)
 
 Finalmente configuramos GitHub Pages para obtener un enlace directo a la Landing Page, facilitando la revisión continua de los cambios realizados.
 Link: https://netcore-open.github.io/NetCore-LandingPage/ 
-![GitHub Pages](../images/gitpages.png)
+![GitHub Pages](/images/gitpages.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2583,11 +2542,11 @@ Mediante la sección de Insights de GitHub, se presenta a continuación la evide
 
 #### Analíticos de GitHub — Report
 
-![Gráfica de contribuciones — Landing Page](../images/commit.png)
+![Gráfica de contribuciones — Landing Page](/images/commit.png)
 
  #### Analíticos de GitHub — Landing Page
  
-![Gráfica de contribuciones — Landing Page](../images/topcommit.png)
+![Gráfica de contribuciones — Landing Page](/images/topcommit.png)
 
 
 Las imágenes evidencian la participación de los 4 integrantes del equipo en el desarrollo y despliegue del Landing Page durante el Sprint 1. La distribución de commits refleja una colaboración activa y equitativa entre todos los miembros:
