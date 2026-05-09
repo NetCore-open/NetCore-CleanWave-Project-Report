@@ -25,6 +25,7 @@
 | Miguel Angel Jara Espinoza         | U202512856 |
 | Gabriel Marcelo Mendoza Palacios          | U202416908 |
 | Jorge Armando Laban Hijar          | U201616054 |
+| Nestor Molina Umeres               | U201220092 |
 
 
 **Mes y Año**: Marzo 2026
