@@ -474,7 +474,9 @@ La distribución de commits confirma que todos los integrantes tuvieron particip
 
 #### 5.2.2. Sprint 2
 
-En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1.
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2.
+
+#### 5.2.2.1.Sprint Planning 2.
 
 | **Sprint #** |                 **Sprint 1**              |
 |--------------|-------------------------------------------|
@@ -490,11 +492,25 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
 |**Sprint 2**  | El sprint tiene como objetivo desarrollar el frontend funcional de la plataforma de gestión de lavanderías, utilizando una Fake API para simular la interacción con datos del sistema. Durante este sprint se implementarán las vistas principales relacionadas con pedidos, prendas, estados del servicio, consulta de pedidos y navegación interna del sistema. Asimismo, se utilizarán datos simulados para validar el flujo de interacción entre administrador y cliente sin depender todavía del backend real. El criterio de aceptación es que las vistas del sistema funcionen correctamente, que la Fake API permita listar, registrar, actualizar y consultar pedidos simulados, y que la navegación entre secciones sea fluida y responsive. La métrica de éxito será completar los principales flujos frontend sin errores críticos y validar al menos 5 pedidos simulados durante las pruebas internas. sprint.                   |
 | Sprint 1 Velocity   | 28 Story Points                    |
 | Sum of Story Points | 54 Story Points                    |
- 
 
-#### 5.2.2.1.Sprint Planning 2.
 #### 5.2.2.2. Aspect Leaders and Collaborators.
+
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los
+colaboradores para este Sprint 1 
+
+|Team Members (Last Name, First Name)|     GitHub Username     |   Landing Page   |
+|------------------------------------|-------------------------|------------------|
+| Miguel Angel Jara Espinoza |    MiguelJara2        |        C         |
+| Janampa Gutierrez Jhoan Darner        |      orraiAKBDFSK      |        L         |
+| Gabriel Marcelo Mendoza Palacios        |        GabrielMendoza18        |        C         |
+| Jorge Armando Laban Hijar |   jarlh19    |        C         |
+| Nestor Marcial Molina Umeres |   nestoroUpc   |        C         |
 #### 5.2.2.3.Sprint Backlog 2.
+
+El siguiente Sprint Backlog presenta las historias de usuario y tareas planificadas para el Sprint 2, orientado a la implementación del frontend en Angular y Angular Material.
+
+Todas las tareas son monitoreadas y actualizadas mediante Jira Software.
+
 #### 5.2.2.4.Development Evidence for Sprint Review.
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
