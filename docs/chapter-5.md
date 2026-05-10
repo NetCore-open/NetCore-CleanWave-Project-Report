@@ -472,3 +472,31 @@ Las imágenes evidencian la participación de los 4 integrantes del equipo en el
 
 La distribución de commits confirma que todos los integrantes tuvieron participación en el Sprint 1, con una diferencia máxima de 16 commits entre el miembro más activo y el menos activo, lo que evidencia un trabajo colaborativo a lo largo del sprint.
 
+#### 5.2.2. Sprint 2
+
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1.
+
+| **Sprint #** |                 **Sprint 1**              |
+|--------------|-------------------------------------------|
+|**Sprint Planning Background**                            |
+| Date         | 20-04-2026                                |
+| Time         | 2:00 PM                                   |
+| Location     | Reunión virtual mediante meet             |
+| Prepared By  | Jhoan Darner Janampa Gutierrez            |
+| Attendees    |                  |
+| Sprint n-1 Review Summary | Durante el Sprint 1 se desarrolló y publicó la Landing Page inicial del proyecto, incluyendo las secciones principales, navegación responsive y formularios de contacto. Se validó correctamente la propuesta visual y la experiencia de navegación.                  |
+| Sprint n-1 Retrospective Summary |El equipo identificó una buena distribución de tareas frontend; sin embargo, se detectó la necesidad de mejorar la integración entre componentes y optimizar tiempos de validación antes del despliegue.duplicaciones.             |
+| **Sprint Goal & User Stories**                           |
+|**Sprint 2**  | El sprint tiene como objetivo desarrollar el frontend funcional de la plataforma de gestión de lavanderías, utilizando una Fake API para simular la interacción con datos del sistema. Durante este sprint se implementarán las vistas principales relacionadas con pedidos, prendas, estados del servicio, consulta de pedidos y navegación interna del sistema. Asimismo, se utilizarán datos simulados para validar el flujo de interacción entre administrador y cliente sin depender todavía del backend real. El criterio de aceptación es que las vistas del sistema funcionen correctamente, que la Fake API permita listar, registrar, actualizar y consultar pedidos simulados, y que la navegación entre secciones sea fluida y responsive. La métrica de éxito será completar los principales flujos frontend sin errores críticos y validar al menos 5 pedidos simulados durante las pruebas internas. sprint.                   |
+| Sprint 1 Velocity   | 28 Story Points                    |
+| Sum of Story Points | 54 Story Points                    |
+ 
+
+#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+#### 5.2.2.3.Sprint Backlog 2.
+#### 5.2.2.4.Development Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
