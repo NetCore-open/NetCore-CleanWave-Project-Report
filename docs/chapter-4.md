@@ -209,6 +209,10 @@ Link: https://www.figma.com/design/z876Dy5cFZTavginMQPf2M/Sin-t%C3%ADtulo?node-i
 
 
 ### 4.4.2. Web Applications Mock-ups
+<img alt="Design-Level Event Storming 1" src="../images/mockupIniciarSesion.JPG"/>
+<img alt="Design-Level Event Storming 1" src="../images/mockupPerfilUsuario.JPG"/>
+<img alt="Design-Level Event Storming 1" src="../images/mockupRegistroUsuario.JPG"/>
+<img alt="Design-Level Event Storming 1" src="../images/mockupCambioContra.JPG"/>
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
