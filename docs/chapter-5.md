@@ -386,6 +386,26 @@ Enlace: [Enlace Sprint 1](https://upc-team-k20qr1ry.atlassian.net/jira/software/
 | **US19** | Demo del servicio | WI-19 | Implementar demo visual | Simular flujo del pedido (registro → proceso → entrega) | 5 | Jhoan Janampa Gutierrez | Done |
 | **US20** | Política de privacidad | WI-20 | Implementar sección legal | Agregar políticas y términos de uso | 2 | Jhoan Janampa Gutierrez | Done |
 
+| ID US | Título User Story | ID WI | Título Work-Item | Descripción | Est. (Hrs) | Asignado a | Estado |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
+| **US25** | Registrar pedido | WI-21 | Implementar formulario de pedidos | Crear formulario para registrar pedidos utilizando Angular y Angular Material | 4 | Jhoan Janampa Gutierrez | Done |
+| **US25** | Registrar pedido | WI-22 | Integrar Fake API de pedidos | Consumir Fake API para almacenar pedidos simulados | 3 | Jhoan Janampa Gutierrez | Done |
+| **US25** | Registrar pedido | WI-23 | Validar registro de pedidos | Implementar validaciones de campos obligatorios y mensajes de error | 2 | Jhoan Janampa Gutierrez | Done |
+| **US26** | Editar pedido | WI-24 | Implementar edición de pedidos | Crear funcionalidad para modificar pedidos existentes | 4 | Jhoan Janampa Gutierrez | In-Process |
+| **US26** | Editar pedido | WI-25 | Actualizar pedidos en Fake API | Implementar actualización de pedidos mediante Fake API | 3 | Jhoan Janampa Gutierrez | To-do |
+| **US27** | Eliminar pedido | WI-26 | Implementar eliminación de pedidos | Permitir eliminar pedidos desde la interfaz administrativa | 2 | Jhoan Janampa Gutierrez | To-do |
+| **US27** | Eliminar pedido | WI-27 | Sincronizar eliminación con Fake API | Eliminar pedidos simulados desde Fake API | 2 | Jhoan Janampa Gutierrez | To-do |
+| **US28** | Registrar prendas | WI-28 | Crear módulo de prendas | Diseñar componente para agregar prendas dentro de un pedido | 3 | Jhoan Janampa Gutierrez | Done |
+| **US28** | Registrar prendas | WI-29 | Implementar formulario dinámico de prendas | Permitir registrar múltiples prendas por pedido | 4 | Jhoan Janampa Gutierrez | In-Process |
+| **US29** | Clasificar prendas | WI-30 | Implementar clasificación de prendas | Permitir clasificar prendas por tipo y servicio | 3 | Jhoan Janampa Gutierrez | To-do |
+| **US30** | Actualizar estado del pedido | WI-31 | Crear flujo de estados | Implementar estados: pendiente, lavado, listo y entregado | 3 | Jhoan Janampa Gutierrez | Done |
+| **US30** | Actualizar estado del pedido | WI-32 | Actualizar estados mediante Fake API | Sincronizar cambios de estado utilizando Fake API | 3 | Jhoan Janampa Gutierrez | In-Process |
+| **US31** | Consultar estado del pedido | WI-33 | Diseñar vista de consulta | Crear interfaz para consultar pedidos registrados | 3 | Jhoan Janampa Gutierrez | Done |
+| **US31** | Consultar estado del pedido | WI-34 | Implementar búsqueda de pedidos | Permitir búsqueda por código o nombre del cliente | 3 | Jhoan Janampa Gutierrez | In-Process |
+| **US32** | Visualizar lista de pedidos | WI-35 | Implementar tabla de pedidos | Crear tabla responsive para visualizar pedidos registrados | 4 | Jhoan Janampa Gutierrez | Done |
+| **US32** | Visualizar lista de pedidos | WI-36 | Integrar listado desde Fake API | Mostrar pedidos obtenidos desde Fake API | 3 | Jhoan Janampa Gutierrez | Done |
+| **US33** | Buscar pedidos | WI-37 | Implementar filtros de búsqueda | Agregar filtros por estado y fecha | 3 | Jhoan Janampa Gutierrez | To-do |
+| **US14** | Responsividad | WI-38 | Adaptar frontend responsive | Ajustar vistas para móviles, tablet y escritorio | 5 | Jhoan Janampa Gutierrez | In-Process |
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 A continuación presentaremos los commits realizados en el repositorio de nuestra Landing Page, todos estos commits se han hecho en la rama “main” durante el desarrollo de nuestro Sprint 1.
@@ -504,15 +524,149 @@ colaboradores para este Sprint 1
 | Janampa Gutierrez Jhoan Darner        |      orraiAKBDFSK      |        L         |
 | Gabriel Marcelo Mendoza Palacios        |        GabrielMendoza18        |        C         |
 | Jorge Armando Laban Hijar |   jarlh19    |        C         |
-| Nestor Marcial Molina Umeres |   nestoroUpc   |        C         |
+| Nestor Marcial Molina Umeres |   jarlh19    |        C         |
 #### 5.2.2.3.Sprint Backlog 2.
 
-El siguiente Sprint Backlog presenta las historias de usuario y tareas planificadas para el Sprint 2, orientado a la implementación del frontend en Angular y Angular Material.
+El Sprint 2 representa la transición entre la validación visual del producto (Landing Page) y el desarrollo de las funcionalidades core del sistema. El objetivo principal es construir la lógica de negocio mínima necesaria para validar el funcionamiento operativo de la plataforma de lavanderías digitales.
 
-Todas las tareas son monitoreadas y actualizadas mediante Jira Software.
+Todas las tareas son monitoreadas y actualizadas mediante **Jira Software**.
+
+<div align="center"> <img src="../images/Jira.png" alt="Sprint 2 Board Screenshot" width="100%"> <p><em>Figura: Tablero del Sprint 2 en Jira Software</em>
+</p> </div>
+
+
 
 #### 5.2.2.4.Development Evidence for Sprint Review.
+
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="9">https://github.com/NetCore-open/NetCore-FrontEnd</td>
+      <td>main</td>
+      <td>d2e8b00</td>
+      <td>feat(jam): add JAM module scaffolding</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>ff01fea</td>
+      <td>feat: add SignIn component with validation</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>fa75547</td>
+      <td>feat: add Familiar and SignUpFamiliar components</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>ec5cece</td>
+      <td>feat: add Welcome component with greeting</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>0fbc1ac</td>
+      <td>feat: add AuthenticationSection component</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>b8cb684</td>
+      <td>feat: add Administrator and SignUpAdministrator components</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>4e12667</td>
+      <td>feat(i18n): add English and Spanish language support</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>9763508</td>
+      <td>feat: add language switcher and layout components</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>4ccacbc</td>
+      <td>chore: default Angular setup</td>
+      <td>28-09-2025</td>
+    </tr>
+    <tr>
+      <td rowspan="4">https://github.com/NetCore-open/NetCore-FrontEnd</td>
+      <td>develop</td>
+      <td>5f14512</td>
+      <td>feat(env): update API base URL for development and production</td>
+      <td>10-10-2025</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>2886e0b</td>
+      <td>feat(firebase): update hosting configuration</td>
+      <td>10-10-2025</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>251c8a9</td>
+      <td>feat(env): add employee endpoint to development</td>
+      <td>10-10-2025</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>ee86134</td>
+      <td>feat(firebase): configure Firebase hosting</td>
+      <td>10-10-2025</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+
+<p>
+  Durante el Sprint 2, se logró implementar completamente el módulo de gestión de tareas con integración 
+  a la API Backend. El frontend permite listar, filtrar y navegar entre tareas por miembro y estado, 
+  así como visualizar detalles asociados. Además, se mejoró la navegación y el diseño visual adaptando 
+  elementos con Angular Material.
+</p>
+
+<h5>Video de demostración de funcionalidad:</h5>
+<p>
+  <strong>URL Youtube:</strong>  <br>
+  <strong>Duración:</strong> [10:23:00]
+</p>
+
+<h5>Capturas de pantalla principales:</h5>
+
+<p><strong>Módulo de Residentes - Nueva entrada:</strong></p>
+<img src="../images/New-Resident1.jpg" alt="New-Resident1">
+
+<img src="../images/New-Resident2.jpg" alt="New-Resident2">
+
+<p><strong>Módulo de Residentes - Listado:</strong></p>
+<img src="../images/Resident-List.jpg" alt="Resident-List">
+
+<p><strong>Módulo de Residentes - Detalle:</strong></p>
+<img src="../images/Resident.jpg" alt="Resident">
+
+<p><strong>Módulo de Medicamentos - Listado:</strong></p>
+<img src="../images/Medication-List.jpg" alt="Medication-List">
+
+<p><strong>Módulo de Medicamentos - Detalle:</strong></p>
+<img src="../images/Medication.jpg" alt="Medication">
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
