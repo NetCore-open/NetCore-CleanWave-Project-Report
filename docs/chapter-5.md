@@ -498,7 +498,7 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2
 
 #### 5.2.2.1.Sprint Planning 2.
 
-| **Sprint #** |                 **Sprint 1**              |
+| **Sprint #** |                 **Sprint 2**              |
 |--------------|-------------------------------------------|
 |**Sprint Planning Background**                            |
 | Date         | 20-04-2026                                |
@@ -650,23 +650,61 @@ Todas las tareas son monitoreadas y actualizadas mediante **Jira Software**.
 
 <h5>Capturas de pantalla principales:</h5>
 
-<p><strong>Módulo de Residentes - Nueva entrada:</strong></p>
-<img src="../images/New-Resident1.jpg" alt="New-Resident1">
+<p><strong>inicio:</strong></p>
+<img src="../images/front1.png" alt="New-Resident1">
 
-<img src="../images/New-Resident2.jpg" alt="New-Resident2">
+<img src="../images/front2.png" alt="New-Resident2">
 
-<p><strong>Módulo de Residentes - Listado:</strong></p>
-<img src="../images/Resident-List.jpg" alt="Resident-List">
+<p><strong>inventario</strong></p>
+<img src="../images/front3.png" alt="Resident-List">
 
-<p><strong>Módulo de Residentes - Detalle:</strong></p>
-<img src="../images/Resident.jpg" alt="Resident">
+<p><strong>ordenes</strong></p>
+<img src="../images/front4.png" alt="Resident">
 
-<p><strong>Módulo de Medicamentos - Listado:</strong></p>
-<img src="../images/Medication-List.jpg" alt="Medication-List">
+<p><strong>logistca</strong></p>
+<img src="../images/front5.png" alt="Medication-List">
 
-<p><strong>Módulo de Medicamentos - Detalle:</strong></p>
-<img src="../images/Medication.jpg" alt="Medication">
+<p><strong>planes</strong></p>
+<img src="../images/front6.png" alt="Medication">
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
+En el Sprint 2, el equipo diseñó, programó e integró el módulo frontend con la API Backend de VEYRA. Se estableció la comunicación con éxito entre el Frontend y los servicios REST proporcionados por el Backend, implementando las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para las principales entidades. La documentación del servicio se presenta a continuación, cumpliendo con los lineamientos de especificación de Endpoints, verbos HTTP, sintaxis de llamada y explicación del respon
+
+| Endpoint simulado | Metodo HTTP | Descripción | URL  |
+|---|---|---|---|
+| /users | GET | Lista todos usuarios | https://cleanwave-api-yd7q.onrender.com/usersprojects 
+| /laundries | GET | lsita todos los lundries | https://cleanwave-api-yd7q.onrender.com/laundries |
+| /plans | GET | Lista todos los planes | https://cleanwave-api-yd7q.onrender.com/plans | GET | Obtiene perfil de un usuario | http://localhost:3000/users/:id |
+| /subscriptions | GET | Lista las suscripciones |https://cleanwave-api-yd7q.onrender.com/subscriptions  |
+| /transactions | GET | Registra una las transacciones | https://cleanwave-api-yd7q.onrender.com/transactions |
+| /orders | GET | Lista los pedidos | https://cleanwave-api-yd7q.onrender.com/orders |
+| /deliveries | GET | lista los deliveries| https://cleanwave-api-yd7q.onrender.com/deliveries |
+| /notifications | GET | Lista notificaciones del usuario | https://cleanwave-api-yd7q.onrender.com/notifications |
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+<p>
+  <a href="https://net-core-front-end.vercel.app/login">Frontend CleanWave</a> — 
+  <a href="https://net-core-front-end.vercel.app/logine">https://net-core-front-end.vercel.app/login</a>
+</p>
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
+<p>
+Durante el Sprint 2, los analíticos de colaboración del repositorio CleanWave-Frontend evidencian una participación de  los integrantes del equipo sobre el código de la aplicación web CleanWave. A lo largo del sprint se registran commits asociados a la implementación de los módulos de gestión de notificaciones, users y pagos, así como a la integración con los servicios REST del backend y a las mejoras visuales con Angular y Angular Material. Esta actividad confirma que la construcción de la Web Application se realizó de forma incremental, definidas en el Sprint 2 Goal y la matriz LACX (API Integration, Task UI, Members & Groups).
+</p>
+
+<img src="../images/overview.png" alt="overview-sprint2">
+
+<p>
+El Network Graph correspondiente al Sprint 2 muestra un uso activo del flujo de trabajo basado en GitFlow, con ramas de características (features) creadas para la integración Frontend–Backend, la interfaz de gestión de users y los componentes, que luego son fusionadas a la rama principal tras las respectivas revisiones de código. Este patrón de ramas coordinaron el trabajo con sus colaboradores, alineados con las prácticas definidas para el proyecto (feature branches, revisiones colaborativas y consolidación en main/develop), reforzando la trazabilidad y la calidad del código entregado durante el sprint.
+</p>
+
+<img src="../images/ramas.png" alt="network-graph-sprint2">
+
+<p>
+Finalmente, el gráfico de Visitors del repositorio frontend muestra un incremento de visitas y vistas de página conforme se acercan las fechas de integración y despliegue del producto, lo que sugiere que el equipo utilizó activamente el repositorio como punto central para revisar avances, validar funcionalidades y preparar la Sprint Review. En conjunto, estos analíticos de overview, network graph y visitors demuestran que, durante el Sprint 2, no todos los miembros del equipo participaron efectivamente en la implementación del producto web (Web Application) y en su integración con los Web Services, no cumpliendo con el principio de que cada integrante contribuya a los distintos productos definidos en el proyecto (Landing Page, Web Applications, Web Services) según el alcance de cada sprint.
+</p>
+
+<img src="../images/clones.png" alt="visitors-sprint2">
