@@ -286,6 +286,9 @@ El bounded context Billing gestiona los planes de suscripción y las transaccion
 
 ### 4.7.1. Class Diagrams
 
+<img alt="frontenddiagram" src="../images/class.png"/>
+
+
 <img alt="frontenddiagram" src="../images/frontendboundedobject.png"/>
 
 <img alt="accessdiagram" src="../images/accessbounded.png"/>
@@ -303,7 +306,6 @@ El bounded context Billing gestiona los planes de suscripción y las transaccion
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams.
-
 
 ### Diagrama del frontend completo:
 <img alt="suscripciondiagram" src="../images/FRONT 1.png"/>
