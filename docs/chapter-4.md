@@ -228,19 +228,45 @@ A través de esta metodología, se han identificado los Aggregates, Events, Comm
 Finalmente, se presenta y explica la representación visual de la arquitectura utilizando el C4 Model. 
 Esta estructura jerárquica nos permite comunicar de manera efectiva la solución a través de tres niveles de detalle: el Software Architecture Context Level Diagram, los Software Architecture Container Level Diagrams y los Software Architecture Component Diagrams.
 ### 4.6.1. Design-Level Event Storming
-La sesión se llevó a cabo de manera colaborativa utilizando la herramienta LucidChart y se estructuró en las siguientes actividades clave : 
-1. Refinamiento de Eventos de Dominio
-2. Identificación de Comandos y Actores
-3. Definición de Agregados (Aggregates)
-4. Delimitación de Bounded Contexts
-5. Integración de Sistemas Externos y Queries
+La sesión se llevó a cabo de manera colaborativa utilizando la herramienta LucidChart y se estructuró en las siguientes actividades.
 
-<img alt="Design-Level Event Storming 1" src="../images/Boundedc1.png"/>
-<img alt="Design-Level Event Storming 2" src="../images/Boundedc2.png"/>
-<img alt="Design-Level Event Storming 3" src="../images/Boundedc3.png"/>
-<img alt="Design-Level Event Storming 4" src="../images/Boundedc4.png"/>
-<img alt="Design-Level Event Storming 5" src="../images/Boundedc5.png"/>
-<img alt="Design-Level Event Storming 5" src="../images/Boundedc6.png"/>
+
+1. Bounded Context User: 
+El bounded context Users se encarga de la autenticación y control de acceso dentro de CleanWave. Administra procesos como el registro de usuarios, inicio de sesión y asignación de roles (administrador o cliente). Su propósito es garantizar que cada usuario acceda únicamente a las funcionalidades correspondientes a su perfil dentro de la plataforma.
+
+1. Bounded Context **User**
+
+El bounded context Users se encarga de la autenticación y control de acceso dentro de CleanWave. Administra procesos como el registro de usuarios, inicio de sesión y asignación de roles (administrador o cliente). Su propósito es garantizar que cada usuario acceda únicamente a las funcionalidades correspondientes a su perfil dentro de la plataforma.
+   
+   <img src="../images/1.png" alt="Bounded Context" style="width:auto; height:auto; border:2px solid #00bfff;">
+
+   
+2. Bounded Context **Orders**
+
+El bounded context Orders gestiona el ciclo de vida completo de los pedidos de lavandería en CleanWave. Administra procesos como la creación de pedidos, el registro de prendas, la actualización de estados y la cancelación. Su propósito es centralizar la operación principal del negocio, permitiendo tanto a clientes como administradores hacer seguimiento en tiempo real del estado de cada pedido.
+   
+   <img src="../images/2.png" alt="Bounded Context" style="width:auto; height:auto; border:2px solid #00bfff;">
+
+
+3. Bounded Context **Logistics**
+
+El bounded context Logistics se encarga de la gestión de recogidas y entregas asociadas a los pedidos. Administra procesos como la creación de deliveries, la asignación de repartidores y la actualización del estado de cada entrega. Su propósito es coordinar la operación de campo de la lavandería, asegurando que cada pedido sea recogido y entregado en el tiempo y lugar acordados.
+   
+   <img src="../images/3.png" alt="Bounded Context" style="width:auto; height:auto; border:2px solid #00bfff;">
+
+
+4. Bounded Context **Billing**
+
+El bounded context Billing gestiona los planes de suscripción y las transacciones económicas de las lavanderías dentro de CleanWave. Administra procesos como la suscripción a un plan, la cancelación y el registro de transacciones asociadas. Su propósito es controlar el acceso a las funcionalidades premium de la plataforma y mantener un historial financiero confiable para cada negocio.
+   
+   <img src="../images/4.png" alt="Bounded Context" style="width:auto; height:auto; border:2px solid #00bfff;">
+
+
+5. Bounded Context **Notifications**
+
+  El bounded context Notifications se encarga de la comunicación automática entre la plataforma y sus usuarios. Administra eventos como la confirmación de pedidos, actualizaciones de estado y alertas del sistema, permitiendo marcarlas como leídas o eliminarlas. Su propósito es mantener a clientes y administradores informados en tiempo real sobre cualquier cambio relevante dentro de su operación.
+   
+   <img src="../images/5.png" alt="Bounded Context" style="width:auto; height:auto; border:2px solid #00bfff;">>
 
 ### 4.6.2. Software Architecture Context Diagram
 <img alt="Context diagram" src="../images/contextdiagram2.png"/>
