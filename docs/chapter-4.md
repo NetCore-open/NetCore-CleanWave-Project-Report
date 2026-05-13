@@ -264,7 +264,7 @@ El bounded context Billing gestiona los planes de suscripción y las transaccion
 
 5. Bounded Context **Notifications**
 
-  El bounded context Notifications se encarga de la comunicación automática entre la plataforma y sus usuarios. Administra eventos como la confirmación de pedidos, actualizaciones de estado y alertas del sistema, permitiendo marcarlas como leídas o eliminarlas. Su propósito es mantener a clientes y administradores informados en tiempo real sobre cualquier cambio relevante dentro de su operación.
+   El bounded context Notifications se encarga de la comunicación automática entre la plataforma y sus usuarios. Administra eventos como la confirmación de pedidos, actualizaciones de estado y alertas del sistema, permitiendo marcarlas como leídas o eliminarlas. Su propósito es mantener a clientes y administradores informados en tiempo real sobre cualquier cambio relevante dentro de su operación.
    
    <img src="../images/5.png" alt="Bounded Context" style="width:auto; height:auto; border:2px solid #00bfff;">>
 
@@ -303,6 +303,11 @@ El bounded context Billing gestiona los planes de suscripción y las transaccion
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams.
+
+
+### Diagrama del frontend completo:
+<img alt="suscripciondiagram" src="../images/FRONT 1.png"/>
+
 
 <img alt="logisticsdiagram" src="../images/dbdiagram1.png"/>
 
