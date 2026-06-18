@@ -1,4 +1,4 @@
-# Capítulo V: Product Implementation, Validation & Deployment
+﻿# Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
 
@@ -386,6 +386,26 @@ Enlace: [Enlace Sprint 1](https://upc-team-k20qr1ry.atlassian.net/jira/software/
 | **US19** | Demo del servicio | WI-19 | Implementar demo visual | Simular flujo del pedido (registro → proceso → entrega) | 5 | Jhoan Janampa Gutierrez | Done |
 | **US20** | Política de privacidad | WI-20 | Implementar sección legal | Agregar políticas y términos de uso | 2 | Jhoan Janampa Gutierrez | Done |
 
+| ID US | Título User Story | ID WI | Título Work-Item | Descripción | Est. (Hrs) | Asignado a | Estado |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
+| **US25** | Registrar pedido | WI-21 | Implementar formulario de pedidos | Crear formulario para registrar pedidos utilizando Angular y Angular Material | 4 | Jhoan Janampa Gutierrez | Done |
+| **US25** | Registrar pedido | WI-22 | Integrar Fake API de pedidos | Consumir Fake API para almacenar pedidos simulados | 3 | Jhoan Janampa Gutierrez | Done |
+| **US25** | Registrar pedido | WI-23 | Validar registro de pedidos | Implementar validaciones de campos obligatorios y mensajes de error | 2 | Jhoan Janampa Gutierrez | Done |
+| **US26** | Editar pedido | WI-24 | Implementar edición de pedidos | Crear funcionalidad para modificar pedidos existentes | 4 | Jhoan Janampa Gutierrez | In-Process |
+| **US26** | Editar pedido | WI-25 | Actualizar pedidos en Fake API | Implementar actualización de pedidos mediante Fake API | 3 | Jhoan Janampa Gutierrez | To-do |
+| **US27** | Eliminar pedido | WI-26 | Implementar eliminación de pedidos | Permitir eliminar pedidos desde la interfaz administrativa | 2 | Jhoan Janampa Gutierrez | To-do |
+| **US27** | Eliminar pedido | WI-27 | Sincronizar eliminación con Fake API | Eliminar pedidos simulados desde Fake API | 2 | Jhoan Janampa Gutierrez | To-do |
+| **US28** | Registrar prendas | WI-28 | Crear módulo de prendas | Diseñar componente para agregar prendas dentro de un pedido | 3 | Jhoan Janampa Gutierrez | Done |
+| **US28** | Registrar prendas | WI-29 | Implementar formulario dinámico de prendas | Permitir registrar múltiples prendas por pedido | 4 | Jhoan Janampa Gutierrez | In-Process |
+| **US29** | Clasificar prendas | WI-30 | Implementar clasificación de prendas | Permitir clasificar prendas por tipo y servicio | 3 | Jhoan Janampa Gutierrez | To-do |
+| **US30** | Actualizar estado del pedido | WI-31 | Crear flujo de estados | Implementar estados: pendiente, lavado, listo y entregado | 3 | Jhoan Janampa Gutierrez | Done |
+| **US30** | Actualizar estado del pedido | WI-32 | Actualizar estados mediante Fake API | Sincronizar cambios de estado utilizando Fake API | 3 | Jhoan Janampa Gutierrez | In-Process |
+| **US31** | Consultar estado del pedido | WI-33 | Diseñar vista de consulta | Crear interfaz para consultar pedidos registrados | 3 | Jhoan Janampa Gutierrez | Done |
+| **US31** | Consultar estado del pedido | WI-34 | Implementar búsqueda de pedidos | Permitir búsqueda por código o nombre del cliente | 3 | Jhoan Janampa Gutierrez | In-Process |
+| **US32** | Visualizar lista de pedidos | WI-35 | Implementar tabla de pedidos | Crear tabla responsive para visualizar pedidos registrados | 4 | Jhoan Janampa Gutierrez | Done |
+| **US32** | Visualizar lista de pedidos | WI-36 | Integrar listado desde Fake API | Mostrar pedidos obtenidos desde Fake API | 3 | Jhoan Janampa Gutierrez | Done |
+| **US33** | Buscar pedidos | WI-37 | Implementar filtros de búsqueda | Agregar filtros por estado y fecha | 3 | Jhoan Janampa Gutierrez | To-do |
+| **US14** | Responsividad | WI-38 | Adaptar frontend responsive | Ajustar vistas para móviles, tablet y escritorio | 5 | Jhoan Janampa Gutierrez | In-Process |
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 A continuación presentaremos los commits realizados en el repositorio de nuestra Landing Page, todos estos commits se han hecho en la rama “main” durante el desarrollo de nuestro Sprint 1.
@@ -471,6 +491,223 @@ Las imágenes evidencian la participación de los 4 integrantes del equipo en el
 | Jorge Armando Laban Hijar | `jarlh19` | 0 |
 
 La distribución de commits confirma que todos los integrantes tuvieron participación en el Sprint 1, con una diferencia máxima de 16 commits entre el miembro más activo y el menos activo, lo que evidencia un trabajo colaborativo a lo largo del sprint.
+
+#### 5.2.2. Sprint 2
+
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2.
+
+#### 5.2.2.1.Sprint Planning 2.
+
+| **Sprint #** |                 **Sprint 2**              |
+|--------------|-------------------------------------------|
+|**Sprint Planning Background**                            |
+| Date         | 20-04-2026                                |
+| Time         | 2:00 PM                                   |
+| Location     | Reunión virtual mediante meet             |
+| Prepared By  | Jhoan Darner Janampa Gutierrez            |
+| Attendees    |                  |
+| Sprint n-1 Review Summary | Durante el Sprint 1 se desarrolló y publicó la Landing Page inicial del proyecto, incluyendo las secciones principales, navegación responsive y formularios de contacto. Se validó correctamente la propuesta visual y la experiencia de navegación.                  |
+| Sprint n-1 Retrospective Summary |El equipo identificó una buena distribución de tareas frontend; sin embargo, se detectó la necesidad de mejorar la integración entre componentes y optimizar tiempos de validación antes del despliegue.duplicaciones.             |
+| **Sprint Goal & User Stories**                           |
+|**Sprint 2**  | El sprint tiene como objetivo desarrollar el frontend funcional de la plataforma de gestión de lavanderías, utilizando una Fake API para simular la interacción con datos del sistema. Durante este sprint se implementarán las vistas principales relacionadas con pedidos, prendas, estados del servicio, consulta de pedidos y navegación interna del sistema. Asimismo, se utilizarán datos simulados para validar el flujo de interacción entre administrador y cliente sin depender todavía del backend real. El criterio de aceptación es que las vistas del sistema funcionen correctamente, que la Fake API permita listar, registrar, actualizar y consultar pedidos simulados, y que la navegación entre secciones sea fluida y responsive. La métrica de éxito será completar los principales flujos frontend sin errores críticos y validar al menos 5 pedidos simulados durante las pruebas internas. sprint.                   |
+| Sprint 1 Velocity   | 28 Story Points                    |
+| Sum of Story Points | 54 Story Points                    |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los
+colaboradores para este Sprint 1 
+
+|Team Members (Last Name, First Name)|     GitHub Username     |   Landing Page   |
+|------------------------------------|-------------------------|------------------|
+| Miguel Angel Jara Espinoza |    MiguelJara2        |        C         |
+| Janampa Gutierrez Jhoan Darner        |      orraiAKBDFSK      |        L         |
+| Gabriel Marcelo Mendoza Palacios        |        GabrielMendoza18        |        C         |
+| Jorge Armando Laban Hijar |   jarlh19    |        C         |
+| Nestor Marcial Molina Umeres |   jarlh19    |        C         |
+#### 5.2.2.3.Sprint Backlog 2.
+
+El Sprint 2 representa la transición entre la validación visual del producto (Landing Page) y el desarrollo de las funcionalidades core del sistema. El objetivo principal es construir la lógica de negocio mínima necesaria para validar el funcionamiento operativo de la plataforma de lavanderías digitales.
+
+Todas las tareas son monitoreadas y actualizadas mediante **Jira Software**.
+
+<div align="center"> <img src="../images/Jira.png" alt="Sprint 2 Board Screenshot" width="100%"> <p><em>Figura: Tablero del Sprint 2 en Jira Software</em>
+</p> </div>
+
+
+
+#### 5.2.2.4.Development Evidence for Sprint Review.
+
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="9">https://github.com/NetCore-open/NetCore-FrontEnd</td>
+      <td>main</td>
+      <td>d2e8b00</td>
+      <td>feat(jam): add JAM module scaffolding</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>ff01fea</td>
+      <td>feat: add SignIn component with validation</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>fa75547</td>
+      <td>feat: add Familiar and SignUpFamiliar components</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>ec5cece</td>
+      <td>feat: add Welcome component with greeting</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>0fbc1ac</td>
+      <td>feat: add AuthenticationSection component</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>b8cb684</td>
+      <td>feat: add Administrator and SignUpAdministrator components</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>4e12667</td>
+      <td>feat(i18n): add English and Spanish language support</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>9763508</td>
+      <td>feat: add language switcher and layout components</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>4ccacbc</td>
+      <td>chore: default Angular setup</td>
+      <td>28-09-2025</td>
+    </tr>
+    <tr>
+      <td rowspan="4">https://github.com/NetCore-open/NetCore-FrontEnd</td>
+      <td>develop</td>
+      <td>5f14512</td>
+      <td>feat(env): update API base URL for development and production</td>
+      <td>10-10-2025</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>2886e0b</td>
+      <td>feat(firebase): update hosting configuration</td>
+      <td>10-10-2025</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>251c8a9</td>
+      <td>feat(env): add employee endpoint to development</td>
+      <td>10-10-2025</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>ee86134</td>
+      <td>feat(firebase): configure Firebase hosting</td>
+      <td>10-10-2025</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+<p>
+  Durante el Sprint 2, se logró implementar completamente el módulo de gestión de tareas con integración 
+  a la API Backend. El frontend permite listar, filtrar y navegar entre tareas por miembro y estado, 
+  así como visualizar detalles asociados. Además, se mejoró la navegación y el diseño visual adaptando 
+  elementos con Angular Material.
+</p>
+
+<h5>Video de demostración de funcionalidad:</h5>
+<p>
+  <strong>URL Youtube:</strong>  <br>
+  <strong>Duración:</strong> [10:23:00]
+</p>
+
+<h5>Capturas de pantalla principales:</h5>
+
+<p><strong>inicio:</strong></p>
+<img src="../images/front1.png" alt="New-Resident1">
+
+<img src="../images/front2.png" alt="New-Resident2">
+
+<p><strong>inventario</strong></p>
+<img src="../images/front3.png" alt="Resident-List">
+
+<p><strong>ordenes</strong></p>
+<img src="../images/front4.png" alt="Resident">
+
+<p><strong>logistca</strong></p>
+<img src="../images/front5.png" alt="Medication-List">
+
+<p><strong>planes</strong></p>
+<img src="../images/front6.png" alt="Medication">
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
+En el Sprint 2, el equipo diseñó, programó e integró el módulo frontend con la API Backend de VEYRA. Se estableció la comunicación con éxito entre el Frontend y los servicios REST proporcionados por el Backend, implementando las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para las principales entidades. La documentación del servicio se presenta a continuación, cumpliendo con los lineamientos de especificación de Endpoints, verbos HTTP, sintaxis de llamada y explicación del respon
+
+| Endpoint simulado | Metodo HTTP | Descripción | URL  |
+|---|---|---|---|
+| /users | GET | Lista todos usuarios | https://cleanwave-api-yd7q.onrender.com/usersprojects 
+| /laundries | GET | lsita todos los lundries | https://cleanwave-api-yd7q.onrender.com/laundries |
+| /plans | GET | Lista todos los planes | https://cleanwave-api-yd7q.onrender.com/plans | GET | Obtiene perfil de un usuario | http://localhost:3000/users/:id |
+| /subscriptions | GET | Lista las suscripciones |https://cleanwave-api-yd7q.onrender.com/subscriptions  |
+| /transactions | GET | Registra una las transacciones | https://cleanwave-api-yd7q.onrender.com/transactions |
+| /orders | GET | Lista los pedidos | https://cleanwave-api-yd7q.onrender.com/orders |
+| /deliveries | GET | lista los deliveries| https://cleanwave-api-yd7q.onrender.com/deliveries |
+| /notifications | GET | Lista notificaciones del usuario | https://cleanwave-api-yd7q.onrender.com/notifications |
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+<p>
+  <a href="https://net-core-front-end.vercel.app/login">Frontend CleanWave</a> — 
+  <a href="https://net-core-front-end.vercel.app/logine">https://net-core-front-end.vercel.app/login</a>
+</p>
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+<p>
+Durante el Sprint 2, los analíticos de colaboración del repositorio CleanWave-Frontend evidencian una participación de  los integrantes del equipo sobre el código de la aplicación web CleanWave. A lo largo del sprint se registran commits asociados a la implementación de los módulos de gestión de notificaciones, users y pagos, así como a la integración con los servicios REST del backend y a las mejoras visuales con Angular y Angular Material. Esta actividad confirma que la construcción de la Web Application se realizó de forma incremental, definidas en el Sprint 2 Goal y la matriz LACX (API Integration, Task UI, Members & Groups).
+</p>
+
+<img src="../images/overview.png" alt="overview-sprint2">
+
+<p>
+El Network Graph correspondiente al Sprint 2 muestra un uso activo del flujo de trabajo basado en GitFlow, con ramas de características (features) creadas para la integración Frontend–Backend, la interfaz de gestión de users y los componentes, que luego son fusionadas a la rama principal tras las respectivas revisiones de código. Este patrón de ramas coordinaron el trabajo con sus colaboradores, alineados con las prácticas definidas para el proyecto (feature branches, revisiones colaborativas y consolidación en main/develop), reforzando la trazabilidad y la calidad del código entregado durante el sprint.
+</p>
+
+<img src="../images/ramas.png" alt="network-graph-sprint2">
+
+<p>
+Finalmente, el gráfico de Visitors del repositorio frontend muestra un incremento de visitas y vistas de página conforme se acercan las fechas de integración y despliegue del producto, lo que sugiere que el equipo utilizó activamente el repositorio como punto central para revisar avances, validar funcionalidades y preparar la Sprint Review. En conjunto, estos analíticos de overview, network graph y visitors demuestran que, durante el Sprint 2, no todos los miembros del equipo participaron efectivamente en la implementación del producto web (Web Application) y en su integración con los Web Services, no cumpliendo con el principio de que cada integrante contribuya a los distintos productos definidos en el proyecto (Landing Page, Web Applications, Web Services) según el alcance de cada sprint.
+</p>
+
+<img src="../images/clones.png" alt="visitors-sprint2">
 
 # Conclusiones
 
