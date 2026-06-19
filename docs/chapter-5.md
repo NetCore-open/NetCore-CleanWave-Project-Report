@@ -1,4 +1,4 @@
-# Capítulo V: Product Implementation, Validation & Deployment
+﻿# Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
 
@@ -386,6 +386,26 @@ Enlace: [Enlace Sprint 1](https://upc-team-k20qr1ry.atlassian.net/jira/software/
 | **US19** | Demo del servicio | WI-19 | Implementar demo visual | Simular flujo del pedido (registro → proceso → entrega) | 5 | Jhoan Janampa Gutierrez | Done |
 | **US20** | Política de privacidad | WI-20 | Implementar sección legal | Agregar políticas y términos de uso | 2 | Jhoan Janampa Gutierrez | Done |
 
+| ID US | Título User Story | ID WI | Título Work-Item | Descripción | Est. (Hrs) | Asignado a | Estado |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
+| **US25** | Registrar pedido | WI-21 | Implementar formulario de pedidos | Crear formulario para registrar pedidos utilizando Angular y Angular Material | 4 | Jhoan Janampa Gutierrez | Done |
+| **US25** | Registrar pedido | WI-22 | Integrar Fake API de pedidos | Consumir Fake API para almacenar pedidos simulados | 3 | Jhoan Janampa Gutierrez | Done |
+| **US25** | Registrar pedido | WI-23 | Validar registro de pedidos | Implementar validaciones de campos obligatorios y mensajes de error | 2 | Jhoan Janampa Gutierrez | Done |
+| **US26** | Editar pedido | WI-24 | Implementar edición de pedidos | Crear funcionalidad para modificar pedidos existentes | 4 | Jhoan Janampa Gutierrez | In-Process |
+| **US26** | Editar pedido | WI-25 | Actualizar pedidos en Fake API | Implementar actualización de pedidos mediante Fake API | 3 | Jhoan Janampa Gutierrez | To-do |
+| **US27** | Eliminar pedido | WI-26 | Implementar eliminación de pedidos | Permitir eliminar pedidos desde la interfaz administrativa | 2 | Jhoan Janampa Gutierrez | To-do |
+| **US27** | Eliminar pedido | WI-27 | Sincronizar eliminación con Fake API | Eliminar pedidos simulados desde Fake API | 2 | Jhoan Janampa Gutierrez | To-do |
+| **US28** | Registrar prendas | WI-28 | Crear módulo de prendas | Diseñar componente para agregar prendas dentro de un pedido | 3 | Jhoan Janampa Gutierrez | Done |
+| **US28** | Registrar prendas | WI-29 | Implementar formulario dinámico de prendas | Permitir registrar múltiples prendas por pedido | 4 | Jhoan Janampa Gutierrez | In-Process |
+| **US29** | Clasificar prendas | WI-30 | Implementar clasificación de prendas | Permitir clasificar prendas por tipo y servicio | 3 | Jhoan Janampa Gutierrez | To-do |
+| **US30** | Actualizar estado del pedido | WI-31 | Crear flujo de estados | Implementar estados: pendiente, lavado, listo y entregado | 3 | Jhoan Janampa Gutierrez | Done |
+| **US30** | Actualizar estado del pedido | WI-32 | Actualizar estados mediante Fake API | Sincronizar cambios de estado utilizando Fake API | 3 | Jhoan Janampa Gutierrez | In-Process |
+| **US31** | Consultar estado del pedido | WI-33 | Diseñar vista de consulta | Crear interfaz para consultar pedidos registrados | 3 | Jhoan Janampa Gutierrez | Done |
+| **US31** | Consultar estado del pedido | WI-34 | Implementar búsqueda de pedidos | Permitir búsqueda por código o nombre del cliente | 3 | Jhoan Janampa Gutierrez | In-Process |
+| **US32** | Visualizar lista de pedidos | WI-35 | Implementar tabla de pedidos | Crear tabla responsive para visualizar pedidos registrados | 4 | Jhoan Janampa Gutierrez | Done |
+| **US32** | Visualizar lista de pedidos | WI-36 | Integrar listado desde Fake API | Mostrar pedidos obtenidos desde Fake API | 3 | Jhoan Janampa Gutierrez | Done |
+| **US33** | Buscar pedidos | WI-37 | Implementar filtros de búsqueda | Agregar filtros por estado y fecha | 3 | Jhoan Janampa Gutierrez | To-do |
+| **US14** | Responsividad | WI-38 | Adaptar frontend responsive | Ajustar vistas para móviles, tablet y escritorio | 5 | Jhoan Janampa Gutierrez | In-Process |
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 A continuación presentaremos los commits realizados en el repositorio de nuestra Landing Page, todos estos commits se han hecho en la rama “main” durante el desarrollo de nuestro Sprint 1.
@@ -472,12 +492,463 @@ Las imágenes evidencian la participación de los 4 integrantes del equipo en el
 
 La distribución de commits confirma que todos los integrantes tuvieron participación en el Sprint 1, con una diferencia máxima de 16 commits entre el miembro más activo y el menos activo, lo que evidencia un trabajo colaborativo a lo largo del sprint.
 
-## 5.3. Validation Interviews
+#### 5.2.2. Sprint 2
 
-### 5.3.1. Diseño de Entrevistas
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2.
 
-### 5.3.2. Registro de Entrevistas
+#### 5.2.2.1.Sprint Planning 2.
 
-### 5.3.3. Evaluaciones según heurísticas
+| **Sprint #** |                 **Sprint 2**              |
+|--------------|-------------------------------------------|
+|**Sprint Planning Background**                            |
+| Date         | 20-04-2026                                |
+| Time         | 2:00 PM                                   |
+| Location     | Reunión virtual mediante meet             |
+| Prepared By  | Jhoan Darner Janampa Gutierrez            |
+| Attendees    |                  |
+| Sprint n-1 Review Summary | Durante el Sprint 1 se desarrolló y publicó la Landing Page inicial del proyecto, incluyendo las secciones principales, navegación responsive y formularios de contacto. Se validó correctamente la propuesta visual y la experiencia de navegación.                  |
+| Sprint n-1 Retrospective Summary |El equipo identificó una buena distribución de tareas frontend; sin embargo, se detectó la necesidad de mejorar la integración entre componentes y optimizar tiempos de validación antes del despliegue.duplicaciones.             |
+| **Sprint Goal & User Stories**                           |
+|**Sprint 2**  | El sprint tiene como objetivo desarrollar el frontend funcional de la plataforma de gestión de lavanderías, utilizando una Fake API para simular la interacción con datos del sistema. Durante este sprint se implementarán las vistas principales relacionadas con pedidos, prendas, estados del servicio, consulta de pedidos y navegación interna del sistema. Asimismo, se utilizarán datos simulados para validar el flujo de interacción entre administrador y cliente sin depender todavía del backend real. El criterio de aceptación es que las vistas del sistema funcionen correctamente, que la Fake API permita listar, registrar, actualizar y consultar pedidos simulados, y que la navegación entre secciones sea fluida y responsive. La métrica de éxito será completar los principales flujos frontend sin errores críticos y validar al menos 5 pedidos simulados durante las pruebas internas. sprint.                   |
+| Sprint 1 Velocity   | 28 Story Points                    |
+| Sum of Story Points | 54 Story Points                    |
 
-## 5.4. Video About-the-Product
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los
+colaboradores para este Sprint 1 
+
+|Team Members (Last Name, First Name)|     GitHub Username     |   Landing Page   |
+|------------------------------------|-------------------------|------------------|
+| Miguel Angel Jara Espinoza |    MiguelJara2        |        C         |
+| Janampa Gutierrez Jhoan Darner        |      orraiAKBDFSK      |        L         |
+| Gabriel Marcelo Mendoza Palacios        |        GabrielMendoza18        |        C         |
+| Jorge Armando Laban Hijar |   jarlh19    |        C         |
+| Nestor Marcial Molina Umeres |   jarlh19    |        C         |
+#### 5.2.2.3.Sprint Backlog 2.
+
+El Sprint 2 representa la transición entre la validación visual del producto (Landing Page) y el desarrollo de las funcionalidades core del sistema. El objetivo principal es construir la lógica de negocio mínima necesaria para validar el funcionamiento operativo de la plataforma de lavanderías digitales.
+
+Todas las tareas son monitoreadas y actualizadas mediante **Jira Software**.
+
+<div align="center"> <img src="../images/Jira.png" alt="Sprint 2 Board Screenshot" width="100%"> <p><em>Figura: Tablero del Sprint 2 en Jira Software</em>
+</p> </div>
+
+
+
+#### 5.2.2.4.Development Evidence for Sprint Review.
+
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="9">https://github.com/NetCore-open/NetCore-FrontEnd</td>
+      <td>main</td>
+      <td>d2e8b00</td>
+      <td>feat(jam): add JAM module scaffolding</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>ff01fea</td>
+      <td>feat: add SignIn component with validation</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>fa75547</td>
+      <td>feat: add Familiar and SignUpFamiliar components</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>ec5cece</td>
+      <td>feat: add Welcome component with greeting</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>0fbc1ac</td>
+      <td>feat: add AuthenticationSection component</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>b8cb684</td>
+      <td>feat: add Administrator and SignUpAdministrator components</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>4e12667</td>
+      <td>feat(i18n): add English and Spanish language support</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>9763508</td>
+      <td>feat: add language switcher and layout components</td>
+      <td>29-09-2025</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>4ccacbc</td>
+      <td>chore: default Angular setup</td>
+      <td>28-09-2025</td>
+    </tr>
+    <tr>
+      <td rowspan="4">https://github.com/NetCore-open/NetCore-FrontEnd</td>
+      <td>develop</td>
+      <td>5f14512</td>
+      <td>feat(env): update API base URL for development and production</td>
+      <td>10-10-2025</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>2886e0b</td>
+      <td>feat(firebase): update hosting configuration</td>
+      <td>10-10-2025</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>251c8a9</td>
+      <td>feat(env): add employee endpoint to development</td>
+      <td>10-10-2025</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>ee86134</td>
+      <td>feat(firebase): configure Firebase hosting</td>
+      <td>10-10-2025</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+<p>
+  Durante el Sprint 2, se logró implementar completamente el módulo de gestión de tareas con integración 
+  a la API Backend. El frontend permite listar, filtrar y navegar entre tareas por miembro y estado, 
+  así como visualizar detalles asociados. Además, se mejoró la navegación y el diseño visual adaptando 
+  elementos con Angular Material.
+</p>
+
+<h5>Video de demostración de funcionalidad:</h5>
+<p>
+  <strong>URL Youtube:</strong>  <br>
+  <strong>Duración:</strong> [10:23:00]
+</p>
+
+<h5>Capturas de pantalla principales:</h5>
+
+<p><strong>inicio:</strong></p>
+<img src="../images/front1.png" alt="New-Resident1">
+
+<img src="../images/front2.png" alt="New-Resident2">
+
+<p><strong>inventario</strong></p>
+<img src="../images/front3.png" alt="Resident-List">
+
+<p><strong>ordenes</strong></p>
+<img src="../images/front4.png" alt="Resident">
+
+<p><strong>logistca</strong></p>
+<img src="../images/front5.png" alt="Medication-List">
+
+<p><strong>planes</strong></p>
+<img src="../images/front6.png" alt="Medication">
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
+En el Sprint 2, el equipo diseñó, programó e integró el módulo frontend con la API Backend de VEYRA. Se estableció la comunicación con éxito entre el Frontend y los servicios REST proporcionados por el Backend, implementando las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para las principales entidades. La documentación del servicio se presenta a continuación, cumpliendo con los lineamientos de especificación de Endpoints, verbos HTTP, sintaxis de llamada y explicación del respon
+
+| Endpoint simulado | Metodo HTTP | Descripción | URL  |
+|---|---|---|---|
+| /users | GET | Lista todos usuarios | https://cleanwave-api-yd7q.onrender.com/usersprojects 
+| /laundries | GET | lsita todos los lundries | https://cleanwave-api-yd7q.onrender.com/laundries |
+| /plans | GET | Lista todos los planes | https://cleanwave-api-yd7q.onrender.com/plans | GET | Obtiene perfil de un usuario | http://localhost:3000/users/:id |
+| /subscriptions | GET | Lista las suscripciones |https://cleanwave-api-yd7q.onrender.com/subscriptions  |
+| /transactions | GET | Registra una las transacciones | https://cleanwave-api-yd7q.onrender.com/transactions |
+| /orders | GET | Lista los pedidos | https://cleanwave-api-yd7q.onrender.com/orders |
+| /deliveries | GET | lista los deliveries| https://cleanwave-api-yd7q.onrender.com/deliveries |
+| /notifications | GET | Lista notificaciones del usuario | https://cleanwave-api-yd7q.onrender.com/notifications |
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+<p>
+  <a href="https://net-core-front-end.vercel.app/login">Frontend CleanWave</a> — 
+  <a href="https://net-core-front-end.vercel.app/logine">https://net-core-front-end.vercel.app/login</a>
+</p>
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+<p>
+Durante el Sprint 2, los analíticos de colaboración del repositorio CleanWave-Frontend evidencian una participación de  los integrantes del equipo sobre el código de la aplicación web CleanWave. A lo largo del sprint se registran commits asociados a la implementación de los módulos de gestión de notificaciones, users y pagos, así como a la integración con los servicios REST del backend y a las mejoras visuales con Angular y Angular Material. Esta actividad confirma que la construcción de la Web Application se realizó de forma incremental, definidas en el Sprint 2 Goal y la matriz LACX (API Integration, Task UI, Members & Groups).
+</p>
+
+<img src="../images/overview.png" alt="overview-sprint2">
+
+<p>
+El Network Graph correspondiente al Sprint 2 muestra un uso activo del flujo de trabajo basado en GitFlow, con ramas de características (features) creadas para la integración Frontend–Backend, la interfaz de gestión de users y los componentes, que luego son fusionadas a la rama principal tras las respectivas revisiones de código. Este patrón de ramas coordinaron el trabajo con sus colaboradores, alineados con las prácticas definidas para el proyecto (feature branches, revisiones colaborativas y consolidación en main/develop), reforzando la trazabilidad y la calidad del código entregado durante el sprint.
+</p>
+
+<img src="../images/ramas.png" alt="network-graph-sprint2">
+
+<p>
+Finalmente, el gráfico de Visitors del repositorio frontend muestra un incremento de visitas y vistas de página conforme se acercan las fechas de integración y despliegue del producto, lo que sugiere que el equipo utilizó activamente el repositorio como punto central para revisar avances, validar funcionalidades y preparar la Sprint Review. En conjunto, estos analíticos de overview, network graph y visitors demuestran que, durante el Sprint 2, no todos los miembros del equipo participaron efectivamente en la implementación del producto web (Web Application) y en su integración con los Web Services, no cumpliendo con el principio de que cada integrante contribuya a los distintos productos definidos en el proyecto (Landing Page, Web Applications, Web Services) según el alcance de cada sprint.
+</p>
+
+<img src="../images/clones.png" alt="visitors-sprint2">
+
+# Conclusiones
+
+El desarrollo de la solución digital orientada a la **gestión de lavanderías locales** permitió al equipo contrastar los supuestos iniciales planteados durante el proceso Lean UX con los resultados obtenidos en las etapas de análisis, diseño y validación conceptual. A partir de ello, se identificaron oportunidades claras de mejora, así como la viabilidad del modelo propuesto para resolver problemas reales del sector.
+
+### En relación a los Problem Statements
+
+1. **Problem Statement 1 — Procesos manuales y falta de control en la gestión de pedidos**  
+El equipo planteó que las lavanderías locales operan principalmente mediante procesos manuales, lo que genera errores logísticos, pérdida de información y falta de seguimiento adecuado de los pedidos. Este diagnóstico se sustenta en el análisis del contexto, donde se evidenció el uso de herramientas informales como cuadernos, mensajes por WhatsApp y registros no centralizados. La solución propuesta integra estas funciones en una plataforma digital, permitiendo gestionar pedidos, estados y prendas en un solo sistema, reduciendo significativamente la posibilidad de errores.
+
+2. **Problem Statement 2 — Falta de transparencia y mala experiencia del cliente**  
+Se identificó que los usuarios finales no cuentan con mecanismos para conocer el estado de sus pedidos en tiempo real, lo que genera incertidumbre, pérdida de tiempo y desconfianza en el servicio. La propuesta de una plataforma con seguimiento en tiempo real y notificaciones automáticas responde directamente a esta problemática, mejorando la comunicación entre cliente y lavandería.
+
+---
+
+### En relación a los Assumptions
+
+1. **Assumption sobre el comportamiento del administrador de lavandería**  
+Se asumió que los dueños de lavanderías estarían dispuestos a adoptar una solución digital para optimizar su operación. Este supuesto se considera válido, ya que la propuesta ofrece beneficios claros como reducción de errores, mejor control de pedidos y optimización del tiempo. Sin embargo, se identifica que puede existir resistencia inicial debido a la falta de familiaridad con herramientas digitales, lo que sugiere la necesidad de incorporar procesos de onboarding simples e intuitivos.
+
+2. **Assumption sobre el comportamiento del cliente final**  
+Se asumió que los usuarios valoran la posibilidad de hacer seguimiento en tiempo real de sus pedidos y recibir notificaciones. Este supuesto es altamente consistente con las tendencias actuales de consumo digital, donde los usuarios buscan inmediatez, control y transparencia en los servicios que utilizan.
+
+3. **Assumption sobre la optimización logística mediante tecnología**  
+Se asumió que la incorporación de algoritmos de optimización de rutas (IA) mejorará la eficiencia en los procesos de recojo y entrega. Este supuesto representa uno de los principales diferenciadores de la solución, ya que permite reducir tiempos de entrega y costos operativos, generando valor tanto para el negocio como para el cliente.
+
+---
+
+### En relación a los Hypothesis Statements y criterios de éxito
+
+1. **Hipótesis 1 — Reducción de errores operativos**  
+Se plantea que al menos el 50% de los errores asociados a la gestión manual de pedidos serán eliminados en los primeros meses de uso del sistema. Esta hipótesis se basa en la digitalización de procesos y centralización de la información, lo cual reduce la dependencia de registros informales.
+
+2. **Hipótesis 2 — Mejora en la experiencia del cliente**  
+Se plantea que al menos el 60% de los usuarios percibirá una mejora en la transparencia y control del servicio gracias al acceso en tiempo real al estado de sus pedidos. Este criterio es coherente con la incorporación de funcionalidades de seguimiento y notificación.
+
+3. **Hipótesis 3 — Adopción del sistema por lavanderías locales**  
+Se plantea que al menos el 30% de las lavanderías contactadas estarán dispuestas a probar la plataforma en un entorno piloto. Este indicador dependerá de la facilidad de uso del sistema y del valor percibido por los administradores.
+
+---
+
+# Recomendaciones y Roadmap
+
+A partir de los resultados obtenidos, el equipo propone los siguientes pasos para el desarrollo del modelo de negocio digital:
+
+## Corto plazo — Lanzamiento piloto (0 a 3 meses)
+
+- Publicar la **Landing Page** desarrollada como primera etapa de validación del modelo de negocio.  
+- Implementar una versión inicial del sistema con funcionalidades básicas de registro y seguimiento de pedidos.  
+- Validar la propuesta con un grupo reducido de lavanderías locales (piloto).  
+- Incorporar un flujo de onboarding sencillo para facilitar la adopción del sistema por parte de los administradores.  
+
+## Mediano plazo — Crecimiento (3 a 9 meses)
+
+- Implementar el sistema completo de gestión de pedidos con estados, historial y control de prendas.  
+- Integrar el sistema de notificaciones automáticas (pedido listo, retrasos, etc.).  
+- Incorporar el módulo de logística con programación de recojo y entrega.  
+- Lanzar campañas de adquisición de usuarios en redes sociales para aumentar la base de clientes.  
+
+## Largo plazo — Escalabilidad (9 a 18 meses)
+
+- Desarrollar la aplicación móvil para clientes y administradores.  
+- Implementar algoritmos avanzados de optimización de rutas mediante inteligencia artificial.  
+- Integrar métodos de pago digitales (Yape, Plin, etc.).  
+- Expandir el modelo a otras ciudades y mercados regionales.  
+- Incorporar analítica de datos para mejorar la toma de decisiones en las lavanderías.  
+
+## 📚 Bibliografía
+
+
+**Akerele, J. I., Uzoka, A., Ojukwu, P. U., & Olamijuwon, O. J. (2024).**
+Increasing software deployment speed in agile environments through automated configuration management.
+*International Journal of Engineering Research Updates, 7*(02), 028–035.
+🔗 [Ver artículo](https://orionjournals.com/ijeru/sites/default/files/IJERU-2024-0047.pdf)
+
+---
+
+**Arroyo Galán, S., Conde Cubas, Y. D., & Dorta Yagüe, A. (2022).**
+*Aplicación web de soporte al aprendizaje-servicio.*
+🔗 [Ver recurso](https://hdl.handle.net/20.500.14352/3285)
+
+---
+
+**Asonze, C. U., et al. (2024).**
+Evaluating the trade-offs between wireless security and performance in IoT networks.
+*SSRN 4927991.*
+🔗 [Ver artículo](https://www.researchgate.net/publication/383174817_Evaluating_the_Trade-offs_between_Wireless_Security_and_Performance_in_IoT_Networks_A_Case_Study_of_Web_Applications_in_AI-Driven_Home_Appliances)
+
+---
+
+**Balepur, N., et al. (2025).**
+Whose boat does it float? Improving personalization in preference tuning via inferred user personas.
+*arXiv preprint arXiv:2501.11549.*
+🔗 [Ver artículo](https://doi.org/10.48550/arXiv.2501.11549)
+
+---
+
+**Castro Sanz, R. (2024).**
+*Desarrollo de una aplicación web para gestión de tareas a través de un dashboard personalizable.*
+🔗 [Ver recurso](http://hdl.handle.net/10017/62796)
+
+---
+
+**DemandSage. (2024).**
+*Startup statistics.*
+🔗 [Ver estadísticas](https://www.demandsage.com/startup-statistics)
+
+---
+
+**Eras, C. M., Badillo, P. R., & Urrutia, D. M. (2020).**
+El fracaso de la actividad emprendedora en el contexto latinoamericano.
+*Revista UNIANDES Episteme, 7*(2), 162–176.
+🔗 [Ver artículo](https://dialnet.unirioja.es/descarga/articulo/8298146.pdf)
+
+---
+
+**Exploding Topics. (2024).**
+*Startup failure statistics.*
+🔗 [Ver estadísticas](https://explodingtopics.com/blog/startup-failure-stats)
+
+---
+
+**Growthlist. (2024).**
+*Startup failure statistics.*
+🔗 [Ver estadísticas](https://growthlist.co/startup-failure-statistics)
+
+---
+
+**Guan, M. Y., et al. (2024).**
+*Deliberative alignment: Reasoning enables safer language models.*
+*arXiv preprint arXiv:2412.16339.*
+🔗 [Ver artículo](https://arxiv.org/abs/2412.16339)
+
+---
+
+**Joseph, H., Sicard, B., David, J., & Ospina, A. (2021).**
+*Impacto latino: casos de emprendedores sociales de América Latina.*
+Editorial CESA.
+🔗 [Ver libro](https://books.google.com.pe/books?id=bTRTEAAAQBAJ)
+
+---
+
+**Kiourtis, A., et al. (2024).**
+Sustainable UI/UX design: Best practices for CO2 emission reduction in applications.
+*9th International Conference on Smart and Sustainable Technologies (SpliTech)* (pp. 1–6). IEEE.
+🔗 [Ver artículo](https://ieeexplore.ieee.org/abstract/document/10612495)
+
+---
+
+**Latam Republic. (2023).**
+*Startup trends and failures.*
+🔗 [Ver recurso](https://www.latamrepublic.com/v/)
+
+---
+
+**Nirumand, A., & Cabot, J. (s.f.).**
+*From mockups to IFML-like GUI models: Using large language models in web engineering.*
+🔗 [Ver capítulo](https://link.springer.com/chapter/10.1007/978-3-031-97207-2_20)
+
+---
+
+**Panamerican World. (2023).**
+*Startups failure in Latin America.*
+🔗 [Ver artículo](https://panamericanworld.com/en/magazine/startups/startups-failure-latinamerica)
+
+---
+
+**Purwanto, M. E., Hasanah, H., & Purwanto, E. (2024).**
+Improving customer service quality through the use of Google Suite in creating landing pages.
+*Jurnal Ekonomi, 13*(02), 502–510.
+🔗 [Ver artículo](https://ejournal.seaninstitute.or.id/index.php/Ekonomi/article/view/4399)
+
+---
+
+**Shofiana, A., Riadi, A. A., & Evanita, E. (2025).**
+Public complaint information system in government to improve web public services.
+*Revista La Multiapp, 6*(4), 750–764.
+🔗 [Ver artículo](https://www.newinera.com/index.php/JournalLaMultiapp/article/view/2419/1982)
+
+---
+
+**Torres Martín, G., & López Rodríguez, R. (2024).**
+*Projectpulse, una aplicación web de gestión de tareas orientada a empresas.*
+🔗 [Ver recurso](https://hdl.handle.net/20.500.14352/101430)
+
+---
+
+**U.S. Chamber of Commerce. (2023).**
+*Why small businesses fail.*
+🔗 [Ver artículo](https://www.uschamber.com/co/start/strategy/why-small-businesses-fail)
+
+---
+
+**Wicaksono, A. J. A., & Kusumandyoko, T. C. (2024).**
+Pengembangan user interface halaman utama pada Wicaraku sebagai media pengenalan terapi gangguan berbicara.
+*BARIK – Jurnal S1 Desain Komunikasi Visual, 6*(1), 233–247.
+🔗 [Ver artículo](https://ejournal.unesa.ac.id/index.php/JDKV/article/view/62835)
+
+---
+
+**Cómo crear un user journey map: Una guía. Coursera (2023)**
+
+🔗[Ver Articulo](https://www.coursera.org/mx/articles/creating-user-journey-maps-a-guide?msockid=35f7cd24a3526d172d46db55a2476cea)
+# Anexos
+
+
+---
+
+### Anexo A: Prototipos y Diseño
+
+| Recurso | Enlace |
+|---|---|
+| Web Applications Wireframes (Figma) | https://www.figma.com/design/BYuUfCInkNhZI1UaLu4JJV/WireFrame-Landing-Page-CleanWave?node-id=0-1&t=j8CbnUXdVDki8n37-1 |
+| Web Applications Mock-ups (Figma) | https://www.figma.com/design/BYuUfCInkNhZI1UaLu4JJV/WireFrame-Landing-Page-CleanWave?node-id=0-1&t=j8CbnUXdVDki8n37-1 |
+| Web Applications Prototyping (Figma) | https://www.figma.com/design/BYuUfCInkNhZI1UaLu4JJV/WireFrame-Landing-Page-CleanWave?node-id=0-1&t=j8CbnUXdVDki8n37-1 |
+
+---
+
+### Anexo B: Gestión del Proyecto
+
+| Recurso | Enlace |
+|---|---|
+| Design-Level Event Storming (Miro) | https://miro.com/app/board/uXjVGm-88A8=/ |
+| Sprint Backlog 1 (Jira) | https://upc-team-k20qr1ry.atlassian.net/jira/software/projects/CLEAN/boards/68/backlog |
+
+---
+
+### Anexo C: Videos del Producto
+
+| Recurso | Enlace |
+|---|---|
+| Video About-the-Product | — |
+
+---
+
+### Anexo D: Videos de Exposiciones
+
+| Entrega | Título | Enlace |
+|---|---|---|
+| TB1 | Exposición TB1 — Foundly | — |
+| TP | Exposición TP — Foundly | — |
+| TB2 | Exposición TB2 — Foundly | — |
+| TF | Exposición TF — Foundly | — |
+

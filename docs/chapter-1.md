@@ -34,26 +34,6 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
 <table border="1" width="100%">
   <tr>
     <td width="140" valign="top" align="center">
-      <img src="../images/Jhoan_janampa.jpg" alt=" Jhoan Photo" width="120" />
-    </td>
-    <td valign="top">
-      <strong>Jhoan Darner Janampa Gutierrez - (U202323319)</strong> - Ingeniería de Software<br><br>
-      Estudiante de la carrera de Ingeniería de Software, con gran interés en el desarrollo y diseño de base de datos. Trabajar soluciones a problemas reales con software limpio y eficiente. Con buenas prácticas de programación, trabajo en equipo y en constante aprendizaje.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="140" valign="top" align="center">
-      <img src="../images/fotomiguel.jpg" alt="Photo" width="120" />
-    </td>
-    <td valign="top">
-      <strong>Miguel Angel Jara Espinoza - (U202512856)</strong> - Ingeniería de Software<br><br>
-        Estudiante de la carrera de Ingeniería de Sotware con mucho interes en aprender sobre nuevas tecnologías e inteligencia artificial. Con dedicación y disponibilidad para trabajos en equipo. Además de seguir las buenas prácticas y normas.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="140" valign="top" align="center">
       <img src="../images/fotogabriel.png" alt="Gabriel Photo" width="120" />
     </td>
     <td valign="top">
@@ -61,15 +41,26 @@ Convertirnos en la plataforma líder de digitalización para lavanderías en Lat
       Soy estudiante de Ingeniería de Software con interes en seguir desarrollando mis habilidades de manera constante. Suelo trabajar de forma ordenada y cumplir con mis responsabilidades, aportando en entornos colaborativos. Tengo conocimientos en C++ y Python, que utilizo para resolver problemas y entender mejor el desarrollo de software. Busco seguir aprendiendo a través de nuevos retos y experiencias que me permitan crecer tanto a nivel académico como profesional.
     </td>
   </tr>
-<tr>
+
+  <tr>
     <td width="140" valign="top" align="center">
-      <img src="../images/jorgelh.png" alt="Gabriel Photo" width="120" />
+      <img src="../images/jorgelh.png" alt=" Photo" width="120" />
     </td>
     <td valign="top">
-      <strong>Jorge Laban Hijar - (U201616054)</strong> - Ingeniería de Software<br><br>
-      Soy estudiante de Ingeniería de Software con interes en seguir desarrollando mis habilidades de manera constante. He desarrollado una gran pasión por la tecnología y el desarrollo de software. Me interesa mucho cómo la tecnología puede resolver problemas complejos y mejorar la vida de las personas, y siempre busco aprender y actualizarme en las últimas tendencias del sector.
+      <strong>Jorge Armando Laban Hijar - (U201616054)</strong> - Ingenieria de Software<br><br>
+        Soy estudiante de Ingeniería de Software. He desarrollado una gran pasión por la tecnología y el desarrollo de software. Me interesa mucho cómo la tecnología puede resolver problemas complejos y mejorar la vida de las personas, y siempre busco aprender y actualizarme en las últimas tendencias del sector.
     </td>
-  </tr>  
+  </tr>
+
+  <tr>
+    <td width="140" valign="top" align="center">
+      <img src="../images/" alt="Nestor Photo" width="120" />
+    </td>
+    <td valign="top">
+      <strong>Nestor Marcial Molina Umeres</strong> - Ingeniería de Software<br><br>
+      Estudiante de Ingeniería de Software con interés en el desarrollo de soluciones digitales, el trabajo colaborativo y la aplicación de buenas prácticas para construir productos útiles y sostenibles.
+    </td>
+  </tr>
 </table>
 
 
